@@ -35,15 +35,31 @@ const Quiz: React.FC<QuizProps> = ({ questions, onComplete }) => {
     }
   };
 
+  const getLevelLabel = (label: string) => {
+    switch(label) {
+      case 'Elementary': return { text: 'Elementary', color: 'bg-green-100 text-green-700' };
+      case 'Pre-Intermediate': return { text: 'Pre-Intermediate', color: 'bg-blue-100 text-blue-700' };
+      case 'Intermediate': return { text: 'Intermediate', color: 'bg-indigo-100 text-indigo-700' };
+      case 'Upper-Intermediate': return { text: 'Upper-Intermediate', color: 'bg-orange-100 text-orange-700' };
+      case 'Advanced': return { text: 'Advanced', color: 'bg-purple-100 text-purple-700' };
+      default: return { text: label, color: 'bg-slate-100 text-slate-700' };
+    }
+  };
+
+  const levelInfo = getLevelLabel(currentQuestion.difficulty_label);
   const progress = ((currentIndex + 1) / questions.length) * 100;
 
   return (
     <div className="max-w-3xl mx-auto w-full">
-      {/* Header with Timer and Progress */}
       <div className="sticky top-0 bg-white/80 backdrop-blur-md z-10 py-4 border-b border-slate-100 mb-8 flex flex-col gap-4">
         <div className="flex justify-between items-center px-2">
-          <div className="text-slate-500 font-medium">
-            Question <span className="text-slate-900 font-bold">{currentIndex + 1}</span> of {questions.length}
+          <div className="flex items-center gap-3">
+            <div className="text-slate-500 font-medium">
+              Question <span className="text-slate-900 font-bold">{currentIndex + 1}</span> of {questions.length}
+            </div>
+            <span className={`px-2 py-0.5 rounded text-[10px] font-black uppercase tracking-tight ${levelInfo.color}`}>
+              {levelInfo.text}
+            </span>
           </div>
           <Timer initialSeconds={1800} onTimeUp={() => onComplete(answers)} />
         </div>
@@ -55,7 +71,6 @@ const Quiz: React.FC<QuizProps> = ({ questions, onComplete }) => {
         </div>
       </div>
 
-      {/* Question Card */}
       <div className="bg-white rounded-2xl shadow-sm border border-slate-200 p-8 mb-8 transition-all duration-300">
         <h2 className="text-xl md:text-2xl font-semibold text-slate-800 mb-8 leading-snug">
           {currentQuestion.question}
@@ -83,7 +98,6 @@ const Quiz: React.FC<QuizProps> = ({ questions, onComplete }) => {
         </div>
       </div>
 
-      {/* Navigation */}
       <div className="flex justify-between items-center gap-4">
         <button
           onClick={prevQuestion}

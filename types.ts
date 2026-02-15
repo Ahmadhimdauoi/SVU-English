@@ -1,6 +1,7 @@
 
 export interface Question {
   id: number;
+  difficulty_label: string; // "Elementary", "Pre-Intermediate", "Intermediate", "Upper-Intermediate", "Advanced"
   question: string;
   options: string[];
   answer: string;
