@@ -96,7 +96,7 @@ export const level5Questions: Question[] = [
     question:
       "A piece of shrapnel sliced his right cheek as a hand grenade — him down.",
     options: ["Zoomed", "Exposed", "Knocked", "Concluded", "Exploded"],
-    answer: "Exploded",
+    answer: "Knocked",
   },
 
   // --- Advanced Grammar & Structure (Complex Conditionals & Modals) ---
@@ -104,7 +104,7 @@ export const level5Questions: Question[] = [
     id: 11,
     difficulty_label: "Advanced",
     question:
-      "If I continue reading 50 pages every day. By the end of the month I — 8,000 pages.",
+      "If I continue reading 50 pages every day, by the end of the month I — 1,500 pages.",
     options: [
       "will read",
       "am going to read",
@@ -180,13 +180,8 @@ export const level5Questions: Question[] = [
     id: 18,
     difficulty_label: "Advanced",
     question: "He is believed — a hammer to kill his neighbour.",
-    options: [
-      "He is believed to use",
-      "He is believed to have used",
-      "It is believed to have used",
-      "He is believed that he used",
-    ],
-    answer: "He is believed to have used",
+    options: ["to use", "to have used", "to have used", "that he used"],
+    answer: "to have used",
   },
   {
     id: 19,

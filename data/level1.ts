@@ -2,7 +2,7 @@ export const level1Questions = [
   // --- User's Existing Questions (1-10) ---
   { id: 1, difficulty_label: "Elementary", question: "— Name is Mary.", options: ["Me", "I", "My", "Mine"], answer: "My" },
   { id: 2, difficulty_label: "Elementary", question: "We do not have — butter.", options: ["A", "Any", "Got", "Many"], answer: "Any" },
-  { id: 3, difficulty_label: "Elementary", question: "What do you do?", options: ["Am from Italy", "Am a student", "Am fine thank you", "Am doing well"], answer: "Am a student" },
+  { id: 3, difficulty_label: "Elementary", question: "What do you do?", options: ["I'm from Italy", "I'm a student", "I'm fine thank you", "I'm doing well"], answer: "I'm a student" },
   { id: 4, difficulty_label: "Elementary", question: "The post office? Well, walk — this road…", options: ["Along", "Under", "Over", "Cross"], answer: "Along" },
   { id: 5, difficulty_label: "Elementary", question: "Have you — a car?", options: ["Have", "Ant", "Got", "Had"], answer: "Got" },
   { id: 6, difficulty_label: "Elementary", question: "This is — house.", options: ["Our", "Ours", "Us", "We"], answer: "Our" },
