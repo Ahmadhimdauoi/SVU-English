@@ -180,7 +180,7 @@ export const level5Questions: Question[] = [
     id: 18,
     difficulty_label: "Advanced",
     question: "He is believed — a hammer to kill his neighbour.",
-    options: ["to use", "to have used", "to have used", "that he used"],
+    options: ["to use", "to have used", "to be used", "that he used"],
     answer: "to have used",
   },
   {
