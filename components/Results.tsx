@@ -26,36 +26,36 @@ const Results: React.FC<ResultsProps> = ({ result, questions, onRestart }) => {
   };
 
   return (
-    <div className="max-w-4xl mx-auto w-full pb-20">
+    <div className="max-w-4xl mx-auto w-full pb-10 sm:pb-20">
       {!reviewMode ? (
-        <div className="bg-white rounded-3xl shadow-xl overflow-hidden border border-slate-100">
-          <div className="bg-blue-900 py-12 px-8 text-center text-white">
-            <h2 className="text-lg uppercase tracking-widest font-bold opacity-80 mb-2">Test Completed</h2>
-            <div className={`text-6xl md:text-8xl font-black mb-4 flex items-center justify-center gap-1`}>
-              {result.score}<span className="text-2xl opacity-60">/{result.total}</span>
+        <div className="bg-white rounded-2xl sm:rounded-3xl shadow-xl overflow-hidden border border-slate-100">
+          <div className="bg-blue-900 py-8 px-4 sm:py-12 sm:px-8 text-center text-white">
+            <h2 className="text-sm sm:text-base md:text-lg uppercase tracking-widest font-bold opacity-80 mb-2">Test Completed</h2>
+            <div className="text-5xl sm:text-6xl md:text-8xl font-black mb-3 sm:mb-4 flex items-center justify-center gap-1">
+              {result.score}<span className="text-xl sm:text-2xl opacity-60">/{result.total}</span>
             </div>
-            <p className="text-2xl font-bold mb-6">{result.grade} Level</p>
-            <div className="w-full max-w-md mx-auto h-3 bg-white/20 rounded-full overflow-hidden">
+            <p className="text-xl sm:text-2xl font-bold mb-4 sm:mb-6">{result.grade} Level</p>
+            <div className="w-full max-w-xs sm:max-w-md mx-auto h-2 sm:h-3 bg-white/20 rounded-full overflow-hidden">
                <div className="h-full bg-emerald-400" style={{ width: `${result.percentage}%` }} />
             </div>
           </div>
 
-          <div className="p-10 text-center">
-            <h3 className="text-2xl font-bold text-slate-800 mb-2">Performance Summary</h3>
-            <p className="text-slate-600 mb-10 text-lg">
+          <div className="p-6 sm:p-10 text-center">
+            <h3 className="text-xl sm:text-2xl font-bold text-slate-800 mb-2">Performance Summary</h3>
+            <p className="text-sm sm:text-base md:text-lg text-slate-600 mb-6 sm:mb-10">
               {getPerformanceMessage()}
             </p>
 
-            <div className="flex flex-col md:flex-row gap-4 justify-center">
+            <div className="flex flex-col sm:flex-row gap-3 sm:gap-4 justify-center">
               <button
                 onClick={() => setReviewMode(true)}
-                className="px-8 py-4 border-2 border-slate-200 text-slate-700 font-bold rounded-xl hover:bg-slate-50 transition-all active:scale-95"
+                className="px-6 py-3 sm:px-8 sm:py-4 border-2 border-slate-200 text-slate-700 font-bold rounded-xl hover:bg-slate-50 transition-all active:scale-95 text-sm sm:text-base"
               >
                 Review Answers
               </button>
               <button
                 onClick={onRestart}
-                className="px-8 py-4 bg-blue-900 text-white font-bold rounded-xl shadow-lg hover:bg-blue-800 transition-all active:scale-95"
+                className="px-6 py-3 sm:px-8 sm:py-4 bg-blue-900 text-white font-bold rounded-xl shadow-lg hover:bg-blue-800 transition-all active:scale-95 text-sm sm:text-base"
               >
                 Retake Simulation
               </button>
@@ -63,15 +63,15 @@ const Results: React.FC<ResultsProps> = ({ result, questions, onRestart }) => {
           </div>
         </div>
       ) : (
-        <div className="space-y-6">
-          <div className="flex items-center justify-between mb-8">
+        <div className="space-y-6 px-1 sm:px-0">
+          <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 mb-6 sm:mb-8 text-right sm:text-left">
             <div>
-              <h2 className="text-3xl font-bold text-slate-900">Review Mode</h2>
-              <p className="text-slate-500">Analyze your performance question by question</p>
+              <h2 className="text-2xl sm:text-3xl font-bold text-slate-900">Review Mode</h2>
+              <p className="text-xs sm:text-sm text-slate-500">Analyze your performance question by question</p>
             </div>
             <button
               onClick={() => setReviewMode(false)}
-              className="px-4 py-2 text-blue-900 font-bold hover:bg-blue-50 rounded-lg transition-all"
+              className="self-start sm:self-auto px-3 py-1.5 sm:px-4 sm:py-2 text-blue-900 font-bold hover:bg-blue-50 rounded-lg transition-all text-xs sm:text-sm"
             >
               Back to Summary
             </button>
@@ -82,10 +82,10 @@ const Results: React.FC<ResultsProps> = ({ result, questions, onRestart }) => {
             const isCorrect = userAns === q.answer;
 
             return (
-              <div key={q.id} className="bg-white p-6 rounded-2xl border border-slate-200 shadow-sm relative overflow-hidden">
-                <div className={`absolute top-0 left-0 w-2 h-full ${isCorrect ? 'bg-emerald-500' : 'bg-red-500'}`} />
-                <div className="flex items-start gap-4">
-                  <span className="flex-shrink-0 w-8 h-8 rounded-full bg-slate-100 flex items-center justify-center font-bold text-slate-500 text-sm">
+              <div key={q.id} className="bg-white p-4 sm:p-6 rounded-xl sm:rounded-2xl border border-slate-200 shadow-sm relative overflow-hidden">
+                <div className={`absolute top-0 left-0 w-1.5 sm:w-2 h-full ${isCorrect ? 'bg-emerald-500' : 'bg-red-500'}`} />
+                <div className="flex items-start gap-3 sm:gap-4">
+                  <span className="flex-shrink-0 w-7 h-7 sm:w-8 sm:h-8 rounded-full bg-slate-100 flex items-center justify-center font-bold text-slate-500 text-xs sm:text-sm">
                     {idx + 1}
                   </span>
                   <div className="flex-grow">
