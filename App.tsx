@@ -1,4 +1,4 @@
-import React, { useState, useCallback, useMemo } from "react";
+import React, { useState, useCallback, useMemo, useEffect } from "react";
 import { TestState, TestResult, Question, TestInfo, LevelInfo } from "./types";
 import WelcomeScreen from "./components/WelcomeScreen";
 import TestSelection from "./components/TestSelection";
@@ -37,16 +37,98 @@ const App: React.FC = () => {
     };
   }, []);
 
+  // Helper to update search params without reloading
+  const updateUrl = useCallback((levelId: number | null, testId: string | null) => {
+    const url = new URL(window.location.href);
+    if (levelId) {
+      url.searchParams.set("level", levelId.toString());
+      if (testId) {
+        url.searchParams.set("test", testId);
+      } else {
+        url.searchParams.delete("test");
+      }
+    } else {
+      url.searchParams.delete("level");
+      url.searchParams.delete("test");
+    }
+    if (window.location.search !== url.search) {
+      window.history.pushState({}, "", url.pathname + url.search);
+    }
+  }, []);
+
   const selectLevel = useCallback((levelId: number) => {
     setSelectedLevelId(levelId);
     setAppState("TEST_SELECTION");
-  }, []);
+    updateUrl(levelId, null);
+  }, [updateUrl]);
 
   const startTest = useCallback((test: TestInfo) => {
     setSelectedTest(test);
     setActiveQuestions(test.questions);
     setAppState("QUIZ");
-  }, []);
+    if (selectedLevelId) {
+      updateUrl(selectedLevelId, test.id);
+    }
+  }, [selectedLevelId, updateUrl]);
+
+  const resetToWelcome = useCallback(() => {
+    setSelectedLevelId(null);
+    setSelectedTest(null);
+    setActiveQuestions([]);
+    setAppState("WELCOME");
+    updateUrl(null, null);
+  }, [updateUrl]);
+
+  const resetToTestSelection = useCallback(() => {
+    setSelectedTest(null);
+    setActiveQuestions([]);
+    setAppState("TEST_SELECTION");
+    if (selectedLevelId) {
+      updateUrl(selectedLevelId, null);
+    }
+  }, [selectedLevelId, updateUrl]);
+
+  // Read URL params and apply to state
+  useEffect(() => {
+    const handleUrlNavigation = () => {
+      const params = new URLSearchParams(window.location.search);
+      const levelStr = params.get("level");
+      const testId = params.get("test");
+
+      if (levelStr) {
+        const levelId = parseInt(levelStr, 10);
+        if (levelId >= 1 && levelId <= 5) {
+          setSelectedLevelId(levelId);
+          const levelData = levelsData[levelId];
+          
+          if (testId) {
+            const test = levelData.tests.find((t) => t.id === testId);
+            if (test) {
+              setSelectedTest(test);
+              setActiveQuestions(test.questions);
+              setAppState("QUIZ");
+              return;
+            }
+          }
+          
+          setSelectedTest(null);
+          setActiveQuestions([]);
+          setAppState("TEST_SELECTION");
+          return;
+        }
+      }
+
+      setSelectedLevelId(null);
+      setSelectedTest(null);
+      setActiveQuestions([]);
+      setAppState("WELCOME");
+    };
+
+    handleUrlNavigation();
+
+    window.addEventListener("popstate", handleUrlNavigation);
+    return () => window.removeEventListener("popstate", handleUrlNavigation);
+  }, [levelsData]);
 
   const completeTest = (userAnswers: Record<number, string>) => {
     let score = 0;
@@ -91,7 +173,7 @@ const App: React.FC = () => {
               if (
                 confirm("Are you sure you want to quit? Progress will be lost.")
               )
-                setAppState("WELCOME");
+                resetToTestSelection();
             }}
             className="text-sm font-bold text-red-500 hover:bg-red-50 px-3 py-1 rounded transition-colors">
             Quit Test
@@ -109,7 +191,7 @@ const App: React.FC = () => {
             levelDesc={levelsData[selectedLevelId].desc}
             tests={levelsData[selectedLevelId].tests}
             onSelectTest={startTest}
-            onBack={() => setAppState("WELCOME")}
+            onBack={resetToWelcome}
           />
         )}
         {appState === "QUIZ" && (
@@ -119,7 +201,7 @@ const App: React.FC = () => {
           <Results
             result={testResult}
             questions={activeQuestions}
-            onRestart={() => setAppState("WELCOME")}
+            onRestart={resetToWelcome}
           />
         )}
       </main>
