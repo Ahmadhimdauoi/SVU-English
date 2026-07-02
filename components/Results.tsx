@@ -111,6 +111,17 @@ const Results: React.FC<ResultsProps> = ({ result, questions, onRestart }) => {
                         );
                       })}
                     </div>
+                    {q.explanation && (
+                      <div className="mt-4 p-4 bg-blue-50/50 border border-blue-100 rounded-xl text-right" dir="rtl">
+                        <div className="flex gap-2 items-start">
+                          <span className="bg-blue-900 text-white rounded-full p-1 text-[10px] leading-none select-none font-black shrink-0 mt-0.5">ℹ</span>
+                          <div>
+                            <span className="font-bold text-blue-900 block mb-1 text-sm">الشرح والتوضيح:</span>
+                            <p className="text-sm text-slate-700 leading-relaxed">{q.explanation}</p>
+                          </div>
+                        </div>
+                      </div>
+                    )}
                     {!userAns && <p className="mt-3 text-sm text-red-500 font-bold">You skipped this question.</p>}
                   </div>
                 </div>

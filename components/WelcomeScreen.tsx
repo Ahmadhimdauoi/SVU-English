@@ -3,9 +3,10 @@ import React, { useState } from 'react';
 
 interface WelcomeScreenProps {
   onStart: (level: number) => void;
+  levelCounts: Record<number, number>;
 }
 
-const WelcomeScreen: React.FC<WelcomeScreenProps> = ({ onStart }) => {
+const WelcomeScreen: React.FC<WelcomeScreenProps> = ({ onStart, levelCounts }) => {
   const [showLevels, setShowLevels] = useState(false);
 
   const levels = [
@@ -41,16 +42,22 @@ const WelcomeScreen: React.FC<WelcomeScreenProps> = ({ onStart }) => {
         </button>
       ) : (
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 w-full max-w-4xl animate-in fade-in slide-in-from-bottom-4 duration-500">
-          {levels.map((lvl) => (
-            <button
-              key={lvl.id}
-              onClick={() => onStart(lvl.id)}
-              className="flex flex-col items-center p-6 bg-white border-2 border-slate-100 rounded-xl hover:border-blue-900 hover:bg-blue-50 transition-all group shadow-sm text-left"
-            >
-              <span className="text-blue-900 font-black text-xl mb-1 group-hover:scale-110 transition-transform">{lvl.label}</span>
-              <span className="text-slate-500 font-semibold text-sm uppercase tracking-wider">{lvl.desc}</span>
-            </button>
-          ))}
+          {levels.map((lvl) => {
+            const count = levelCounts[lvl.id] || 0;
+            return (
+              <button
+                key={lvl.id}
+                onClick={() => onStart(lvl.id)}
+                className="flex flex-col items-center p-6 bg-white border-2 border-slate-100 rounded-xl hover:border-blue-900 hover:bg-blue-50 transition-all group shadow-sm text-center"
+              >
+                <span className="text-blue-900 font-black text-xl mb-1 group-hover:scale-110 transition-transform">{lvl.label}</span>
+                <span className="text-slate-500 font-semibold text-sm uppercase tracking-wider mb-2">{lvl.desc}</span>
+                <span className="text-xs px-2 py-0.5 bg-blue-50 text-blue-800 rounded-full font-bold">
+                  {count} {count === 1 ? 'اختبار' : 'اختبارات'}
+                </span>
+              </button>
+            );
+          })}
           <button
             onClick={() => setShowLevels(false)}
             className="md:col-span-2 lg:col-span-3 mt-4 text-slate-400 hover:text-slate-600 font-medium text-sm transition-colors"

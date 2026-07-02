@@ -1,0 +1,182 @@
+[
+  {
+    "question": "According to the inverted pyramid rule, which preposition is used for 'The Macro Level' (النطاق العام الواسع)?",
+    "options": ["AT", "ON", "IN", "BY"],
+    "correctIndex": 2,
+    "explanation": "قاعدة الهرم المقلوب تعتمد على التدرج؛ حيث نستخدم (IN) للمستويات العامة والواسعة وغير المحددة بدقة (The Macro Level)."
+  },
+  {
+    "question": "Which preposition is ideal for 'The Micro Level' (النقاط الجغرافية الدقيقة والعناوين المحددة)?",
+    "options": ["IN", "ON", "AT", "UNDER"],
+    "correctIndex": 2,
+    "explanation": "كلما زادت دقة التفاصيل واتجهنا لنقطة محددة جداً أو عنوان دقيق، نستخدم حرف الجر (AT)."
+  },
+  {
+    "question": "Complete the time phrase: 'The peace treaty was signed _______ the 21st century.'",
+    "options": ["at", "on", "in", "through"],
+    "correctIndex": 2,
+    "explanation": "مع الفترات الزمنية الطويلة كالقرون (Centuries) والسنوات، نستخدم حرف الجر (IN)."
+  },
+  {
+    "question": "Complete the sentence with the correct time preposition: 'The workshop is scheduled _______ a rainy Tuesday.'",
+    "options": ["in", "on", "at", "by"],
+    "correctIndex": 1,
+    "explanation": "مع الأيام المحددة والتواريخ (Days and Dates)، نستخدم دائماً حرف الجر (ON)."
+  },
+  {
+    "question": "The executive meeting will start _______ 3:30 PM sharp.",
+    "options": ["in", "on", "at", "within"],
+    "correctIndex": 2,
+    "explanation": "النقاط الزمنية الدقيقة والساعات المحددة (Precise Time Points) تتطلب استخدام حرف الجر (AT)."
+  },
+  {
+    "question": "Complete the spatial phrase: 'The international conference will take place _______ Tokyo.'",
+    "options": ["at", "on", "in", "into"],
+    "correctIndex": 2,
+    "explanation": "للمدن والدول والأماكن الجغرافية الكبيرة والمغلقة، نستخدم حرف الجر (IN)."
+  },
+  {
+    "question": "The documentation files are placed _______ the top shelf.",
+    "options": ["in", "on", "at", "above"],
+    "correctIndex": 1,
+    "explanation": "للأسطح والمستويات المسطحة (The Surface Level)، نستخدم حرف الجر (ON)."
+  },
+  {
+    "question": "Complete the sentence describing a specific proximity: 'The coffee shop is located _______ the bank and the bakery.'",
+    "options": ["among", "between", "in front of", "behind"],
+    "correctIndex": 1,
+    "explanation": "عند التموضع بين اثنين فقط (Exactly two items)، نستخدم حرف الجر (BETWEEN)."
+  },
+  {
+    "question": "The covert operative disappeared _______ the massive crowd.",
+    "options": ["between", "among", "across", "through"],
+    "correctIndex": 1,
+    "explanation": "عند التموضع وسط مجموعة أو ثلاثة عناصر أو أكثر (Three or more)، نستخدم حرف الجر (AMONG)."
+  },
+  {
+    "question": "Complete the movement sentence: 'The corporate hacker broke _______ the secure system.'",
+    "options": ["into", "out of", "through", "across"],
+    "correctIndex": 0,
+    "explanation": "للتعبير عن الدخول إلى مكان أو نظام مغلق عبر الحركة، نستخدم حرف الجر (INTO)."
+  },
+  {
+    "question": "The leadership coach said, 'You must step _______ your comfort zone.'",
+    "options": ["into", "out of", "through", "across"],
+    "correctIndex": 1,
+    "explanation": "للخروج من مكان أو حالة مغلقة، نستخدم التعبير الحركي (OUT OF)."
+  },
+  {
+    "question": "The cargo train sped _______ the dark mountain tunnel.",
+    "options": ["across", "into", "through", "over"],
+    "correctIndex": 2,
+    "explanation": "المرور عبر مجسم ثلاثي الأبعاد أو وسط شيء مغلق من الجانبين (Tunnel/Tube) يتطلب استخدام (THROUGH)."
+  },
+  {
+    "question": "The brave explorer sailed _______ the Atlantic Ocean.",
+    "options": ["through", "across", "into", "along"],
+    "correctIndex": 1,
+    "explanation": "للعبور من جانب إلى جانب آخر على سطح مستوٍ أو مسطح مائي واسع، نستخدم (ACROSS)."
+  },
+  {
+    "question": "Complete the 'Corner Dilemma' sentence for an indoor space: 'The reading chair is _______ the corner of the living room.'",
+    "options": ["at", "on", "in", "under"],
+    "correctIndex": 2,
+    "explanation": "للأركان والزوايا الداخلية لمكان مغلق أو غرفة (Internal Corner)، نستخدم حرف الجر (IN)."
+  },
+  {
+    "question": "Complete the sentence for an external intersection: 'The security guard is standing _______ the corner of Oxford Street.'",
+    "options": ["in", "at", "inside", "through"],
+    "correctIndex": 1,
+    "explanation": "للأركان الخارجية أو نقاط تقاطع الشوارع والزوايا المفتوحة (External Corner)، نستخدم حرف الجر (AT)."
+  },
+  {
+    "question": "Choose the correct preposition for a specific date: 'The launch event is _______ October 15th.'",
+    "options": ["in", "on", "at", "by"],
+    "correctIndex": 1,
+    "explanation": "حتى لو ذُكر اسم الشهر، وجود يوم محدد (15th) يحول العبارة إلى تاريخ كامل، والتواريخ تأخذ (ON)."
+  },
+  {
+    "question": "The drone is currently hovering _______ the corporate building.",
+    "options": ["over", "above", "on", "at"],
+    "correctIndex": 1,
+    "explanation": "عند وجود مسافة عمودية أو علو دون تلامس مباشر مع السطح، نستخدم حرف الجر (ABOVE)."
+  },
+  {
+    "question": "Complete the phrase expressing physical coverage: 'Please put the blanket _______ the sofa.'",
+    "options": ["above", "over", "at", "in"],
+    "correctIndex": 1,
+    "explanation": "عند التغطية الشاملة أو التلامس المباشر من الأعلى لشيء ما، نستخدم حرف الجر (OVER)."
+  },
+  {
+    "question": "The company vehicle is parked _______ the main gate.",
+    "options": ["behind", "in front of", "among", "between"],
+    "correctIndex": 1,
+    "explanation": "للتعبير عن التموضع في الجهة الأمامية المقابلة لشيء ما، نستخدم (IN FRONT OF)."
+  },
+  {
+    "question": "The manager is standing _______ the curtain to observe the presentation.",
+    "options": ["in front of", "behind", "between", "across"],
+    "correctIndex": 1,
+    "explanation": "للتعبير عن التواجد في الخلف أو وراء شيء ما، نستخدم حرف الجر (BEHIND)."
+  },
+  {
+    "question": "Complete the sentence: 'We will review the quarterly performance _______ July.'",
+    "options": ["at", "on", "in", "before"],
+    "correctIndex": 2,
+    "explanation": "مع أسماء الشهور الفردية (Months) دون تحديد أيام، نستخدم دائماً حرف الجر (IN)."
+  },
+  {
+    "question": "The package arrived _______ midnight, causing a security alert.",
+    "options": ["in", "on", "at", "through"],
+    "correctIndex": 2,
+    "explanation": "الكلمات الزمنية المحددة مثل Midnight و Noon تعامل كنقاط دقيقة وتأخذ حرف الجر (AT)."
+  },
+  {
+    "question": "The delivery truck is currently stuck _______ a traffic jam.",
+    "options": ["on", "at", "in", "onto"],
+    "correctIndex": 2,
+    "explanation": "التواجد داخل مساحة مغلقة أو حالة محاصرة كالاختناق المروري (Traffic Jam) يستوجب استخدام (IN)."
+  },
+  {
+    "question": "The new luxury resort is built _______ a private island.",
+    "options": ["in", "on", "at", "under"],
+    "correctIndex": 1,
+    "explanation": "الجزر والأسطح المفتوحة (Islands and Open Surfaces) تأخذ حرف الجر (ON) في وصف المكان."
+  },
+  {
+    "question": "The CEO is not available; she is traveling _______ the moment.",
+    "options": ["in", "on", "at", "by"],
+    "correctIndex": 2,
+    "explanation": "الاصطلاح الزمني الثابت للتعبير عن الوقت الحالي بدقة هو (At the moment)."
+  },
+  {
+    "question": "The blueprint states that as detail and precision increase, we move from:",
+    "options": ["AT to IN", "ON to IN", "IN to AT", "THROUGH to ACROSS"],
+    "correctIndex": 2,
+    "explanation": "كلما زادت الدقة والتخصيص في الهرم المقلوب، ننتقل تدريجياً من النطاق الواسع (IN) وصولاً للنقطة الحرجة والدقيقة (AT)."
+  },
+  {
+    "question": "Complete the sentence: 'The team will host a dinner _______ my birthday.'",
+    "options": ["in", "on", "at", "within"],
+    "correctIndex": 1,
+    "explanation": "المناسبات الشخصية والأيام الخاصة المحددة (Specific Occasions/Days) تأخذ حرف الجر (ON)."
+  },
+  {
+    "question": "The research team is conducting experiments _______ the conference room.",
+    "options": ["on", "at", "in", "onto"],
+    "correctIndex": 2,
+    "explanation": "الغرف والأماكن ذات الحدود الأربعة الواضحة (Enclosed Spaces) تأخذ دائماً حرف الجر (IN)."
+  },
+  {
+    "question": "Complete the statement: 'The main office is located _______ Oxford Street.'",
+    "options": ["in", "on", "at", "through"],
+    "correctIndex": 1,
+    "explanation": "تسميات الشوارع والمستويات السطحية المفتوحة دون أرقام مبانٍ دقيقة تأخذ حرف الجر (ON)."
+  },
+  {
+    "question": "What is the primary objective of 'The Preposition Blueprint' guide?",
+    "options": ["To memorize all verbs.", "To understand prepositions through structural logic and engineering without blind memorization.", "To study past tense verbs.", "To design software codes."],
+    "correctIndex": 1,
+    "explanation": "الهدف الأساسي للمخطط الهندسي هو فهم حروف الجر زمانياً ومكانياً عبر المنطق البصري والتركيب الهيكلي بدلاً من الحفظ الأعمى."
+  }
+]

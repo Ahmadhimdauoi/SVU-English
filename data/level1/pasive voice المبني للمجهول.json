@@ -1,0 +1,182 @@
+[
+  {
+    "question": "What is the fixed golden equation for the Passive Voice architecture?",
+    "options": ["Subject + Be + V3", "Object + Be + V3", "Object + Have + V3", "Subject + V3 + Object"],
+    "correctIndex": 1,
+    "explanation": "شيفرة التحويل الذهبية للمبني للمجهول تبدأ دائماً بـ المفعول به (Object) + فعل الكينونة (Be) بنفس زمن الجملة الأصلية + التصريف الثالث (V3)."
+  },
+  {
+    "question": "Convert to Passive: 'The manager reviews the financial reports.'",
+    "options": ["The financial reports is reviewed.", "The financial reports are reviewed.", "The financial reports were reviewed.", "The financial reports are being reviewed."],
+    "correctIndex": 1,
+    "explanation": "الجملة في زمن المضارع البسيط (Present Simple) والمفعول به جمع (reports)، لذا نستخدم are + V3 لتصبح الجملة 'The financial reports are reviewed'."
+  },
+  {
+    "question": "Convert to Passive (Past Simple): 'The team launched the new software yesterday.'",
+    "options": ["The new software is launched yesterday.", "The new software was launched yesterday.", "The new software has been launched yesterday.", "The new software was being launched yesterday."],
+    "correctIndex": 1,
+    "explanation": "بما أن الزمن ماضٍ بسيط (launched) والمفعول به مفرد (software)، نستخدم القاعدة (was/were + V3)، وبالتالي الخيار الصحيح هو was launched."
+  },
+  {
+    "question": "What is the secret word added to keep the continuous state in Passive Voice?",
+    "options": ["been", "being", "be", "becoming"],
+    "correctIndex": 1,
+    "explanation": "السر في الأزمنة المستمرة (Continuous Tenses) للحفاظ على حالة الاستمرار عند التحويل للمجهول هو إضافة كلمة (being) كجزء أساسي."
+  },
+  {
+    "question": "Convert to Passive: 'The scientists are analyzing the data.'",
+    "options": ["The data is analyzed.", "The data has been analyzed.", "The data is being analyzed.", "The data were being analyzed."],
+    "correctIndex": 2,
+    "explanation": "الجملة في الحاضر المستمر (Present Continuous)، نطبق القاعدة am/is/are + BEING + V3، وبما أن data تُعامل كمفرد هنا فالحل هو is being analyzed."
+  },
+  {
+    "question": "Convert to Passive: 'The IT department was upgrading the servers.'",
+    "options": ["The servers was being upgraded.", "The servers were being upgraded.", "The servers had been upgraded.", "The servers are being upgraded."],
+    "correctIndex": 1,
+    "explanation": "الزمن ماضٍ مستمر (Past Continuous) والمفعول به جمع (servers)، نستخدم لها الصيغة المناسبة للجمع وهي were being upgraded."
+  },
+  {
+    "question": "In Perfect Tenses (الأزمنة التامة), which fixed linking word must be added before the V3?",
+    "options": ["being", "be", "been", "have"],
+    "correctIndex": 2,
+    "explanation": "في الأزمنة التامة (الحاضر التام، الماضي التام، المستقبل التام)، نستخدم دائماً الرابط الثابت (been) قبل الفعل الرئيسي بالتصريف الثالث."
+  },
+  {
+    "question": "Convert to Passive: 'The board has approved the annual budget.'",
+    "options": ["The annual budget has approved.", "The annual budget is approved.", "The annual budget has been approved.", "The annual budget had been approved."],
+    "correctIndex": 2,
+    "explanation": "الجملة في الحاضر التام (Present Perfect)، نطبق القاعدة have/has + been + V3 لتصبح: The annual budget has been approved."
+  },
+  {
+    "question": "Convert to Passive (Future Simple): 'The CEO will announce the merger tomorrow.'",
+    "options": ["The merger will announce tomorrow.", "The merger will be announced tomorrow.", "The merger is going to be announced tomorrow.", "The merger will been announced."],
+    "correctIndex": 1,
+    "explanation": "المستقبل البسيط مع will يتحول للمجهول عبر القاعدة: will + be + V3 لتصبح الجملة: The merger will be announced tomorrow."
+  },
+  {
+    "question": "Convert to Passive (Modal Verbs): 'Employees must wear ID badges.'",
+    "options": ["ID badges must wear.", "ID badges must being worn.", "ID badges must be worn.", "ID badges should be worn."],
+    "correctIndex": 2,
+    "explanation": "الأفعال المساعدة تُعامل كقوالب مرنة في المجهول، وقاعدتها الموحدة هي إضافة (be) المجردة تليها (V3)، فتصبح: ID badges must be worn."
+  },
+  {
+    "question": "When is the Passive Voice primarily used in professional environments?",
+    "options": ["When we want to emphasize who performed the action.", "In casual text messages.", "In formal reports, academic research, and when focusing on outcomes.", "Only when the subject is singular."],
+    "correctIndex": 2,
+    "explanation": "يُستخدم المبني للمجهول في التقارير الرسمية، الأبحاث الأكاديمية، وعندما تكون النتيجة أو الحدث أهم بكثير من ذكر من قام بالفعل."
+  },
+  {
+    "question": "Convert to Passive: 'They write the daily report.'",
+    "options": ["The daily report is written.", "The daily report are written.", "The daily report was written.", "The daily report is being written."],
+    "correctIndex": 0,
+    "explanation": "الحاضر البسيط والمفعول به مفرد (daily report) يأخذ الفعل المساعد is + V3 فتصبح الجملة: The daily report is written."
+  },
+  {
+    "question": "If you want to mention the doer of the action in a passive sentence, you use:",
+    "options": ["with", "by", "for", "from"],
+    "correctIndex": 1,
+    "explanation": "لحفظ الفاعل أو ذكره في نهاية جملة المبني للمجهول إذا كان ضرورياً، نستخدم حرف الجر (by) متبوعاً بالفاعل الأصلي."
+  },
+  {
+    "question": "Convert to Passive: 'The company had secured the system before the attack.'",
+    "options": ["The system has been secured.", "The system had been secured before the attack.", "The system was secured.", "The system was being secured."],
+    "correctIndex": 1,
+    "explanation": "الجملة في الماضي التام (Past Perfect - had secured)، تتحول بإضافة been لتصبح القاعدة: had been + V3."
+  },
+  {
+    "question": "Convert to Passive: 'We can resolve this issue quickly.'",
+    "options": ["This issue can resolve quickly.", "This issue could be resolved quickly.", "This issue can be resolved quickly.", "This issue is resolved quickly."],
+    "correctIndex": 2,
+    "explanation": "الفعل المساعد can يتبع قاعدة الأفعال الناقصة في المجهول: can + be + V3 لتصبح الجملة: This issue can be resolved quickly."
+  },
+  {
+    "question": "Convert to Passive: 'The committee should review the policy.'",
+    "options": ["The policy should reviewed.", "The policy should be reviewed.", "The policy is recommended to review.", "The policy should been reviewed."],
+    "correctIndex": 1,
+    "explanation": "الفعل الناقص should يتحول في صيغة الهندسة اللغوية للمجهول عبر: should + be + V3."
+  },
+  {
+    "question": "What is the passive form of 'A new branch is going to open'?",
+    "options": ["A new branch is opened.", "A new branch is going to be opened.", "A new branch will be opened.", "A new branch has been opened."],
+    "correctIndex": 1,
+    "explanation": "التعبير 'is going to' يُعامل مثل الأفعال المساعدة ويضاف بعده 'be + V3' فيصبح: is going to be opened."
+  },
+  {
+    "question": "Which of the following represents a 'Continuous Passive' example in the cheat sheet?",
+    "options": ["The report is written.", "The report is being written.", "The report has been written.", "The report will be written."],
+    "correctIndex": 1,
+    "explanation": "في المصفوفة الشاملة للمجهول (The Ultimate Cheat Sheet)، يمثل التعبير 'is being written' حالة الحاضر المستمر للمجهول."
+  },
+  {
+    "question": "Convert to Passive: 'The marketing team designs the banners.'",
+    "options": ["The banners is designed.", "The banners are designed.", "The banners were designed.", "The banners are being designed."],
+    "correctIndex": 1,
+    "explanation": "جملة حاضر بسيط والمفعول به جمع (banners) وبالتالي الهيكل الإنشائي الصحيح هو are + V3."
+  },
+  {
+    "question": "Convert to Passive: 'The contractor built the warehouse in 2024.'",
+    "options": ["The warehouse is built in 2024.", "The warehouse was built in 2024.", "The warehouse has been built.", "The warehouse was being built."],
+    "correctIndex": 1,
+    "explanation": "الفعل في الماضي البسيط (built) والمستهدف مفرد (warehouse)، لذا البناء الهيكلي المعتمد هو was + V3."
+  },
+  {
+    "question": "Convert to Passive: 'They are processing the refunds right now.'",
+    "options": ["The refunds are processed right now.", "The refunds are being processed right now.", "The refunds were being processed.", "The refunds have been processed."],
+    "correctIndex": 1,
+    "explanation": "حاضر مستمر مفعوله جمع (refunds)، نطبق قاعدة المستمر بإضافة الإشارة (are being + V3)."
+  },
+  {
+    "question": "Convert to Passive: 'The audit team was checking the accounts.'",
+    "options": ["The accounts was being checked.", "The accounts were being checked.", "The accounts had been checked.", "The accounts are being checked."],
+    "correctIndex": 1,
+    "explanation": "ماضٍ مستمر ومفعوله جمع (accounts)، نطبق التعديل الهندسي للجملة باستخدام (were being checked)."
+  },
+  {
+    "question": "Convert to Passive: 'The developer has fixed the critical bug.'",
+    "options": ["The critical bug has fixed.", "The critical bug is fixed.", "The critical bug has been fixed.", "The critical bug had been fixed."],
+    "correctIndex": 2,
+    "explanation": "حاضر تام ومفرده (bug) يتطلب الصياغة الإنشائية التامة عبر (has been fixed)."
+  },
+  {
+    "question": "Convert to Passive: 'The system will generate the invoice automatically.'",
+    "options": ["The invoice will generate automatically.", "The invoice will be generated automatically.", "The invoice is generated automatically.", "The invoice will been generated."],
+    "correctIndex": 1,
+    "explanation": "مستقبل بسيط بوجود will يتحول تركيبياً إلى (will + be + V3)."
+  },
+  {
+    "question": "Convert to Passive: 'Management might cancel the meeting.'",
+    "options": ["The meeting might cancel.", "The meeting might be canceled.", "The meeting may be canceled.", "The meeting might been canceled."],
+    "correctIndex": 1,
+    "explanation": "الفعل الناقص هنا هو might وقاعدته الثابتة تقتضي الحفاظ على نفس الأداة متبوعة بـ (be + V3)."
+  },
+  {
+    "question": "In the sentence 'The server is being restarted', what is the tense of the original active sentence?",
+    "options": ["Present Simple", "Present Continuous", "Past Continuous", "Present Perfect"],
+    "correctIndex": 1,
+    "explanation": "وجود التركيب 'is being + V3' يدل هندسياً وعكسياً على أن الجملة الأصلية كانت في زمن الحاضر المستمر (Present Continuous)."
+  },
+  {
+    "question": "Convert to Passive: 'The supervisor has monitored the operations.'",
+    "options": ["The operations have been monitored.", "The operations has been monitored.", "The operations were monitored.", "The operations are monitored."],
+    "correctIndex": 0,
+    "explanation": "انتبه! المفعول به أصبح جمعاً (operations)، لذا يتحول الفعل المساعد للحاضر التام من has إلى have متبوعاً بـ been + V3."
+  },
+  {
+    "question": "Why is the use of continuous perfect passive (مثل has been being written) avoided in modern English?",
+    "options": ["Because it is grammatically illegal.", "Because it sounds unnecessarily complex and is rare in professional writing.", "Because it has no V3 form.", "Because it can only be used with singular objects."],
+    "correctIndex": 1,
+    "explanation": "يوضح الدليل أن استعمال الأزمنة التامة المستمرة في المجهول نادر ومعقد جداً بلا داعٍ، ويُفضل تجنبه في الكتابة المهنية والاحترافية لركاكة اللفظ."
+  },
+  {
+    "question": "Convert to Passive: 'They publish the magazine monthly.'",
+    "options": ["The magazine is published monthly.", "The magazine are published monthly.", "The magazine was published monthly.", "The magazine is being published."],
+    "correctIndex": 0,
+    "explanation": "جملة حاضر بسيط مع مفرد (magazine)، تأخذ الترتيب الأساسي (is + V3) لتصبح: The magazine is published monthly."
+  },
+  {
+    "question": "What happens to the Active Subject when converting to Passive according to the guide?",
+    "options": ["It must always stay at the beginning.", "It is either completely deleted, or added with 'by' at the end if necessary.", "It changes into a verb.", "It must be replaced by a modal verb."],
+    "correctIndex": 1,
+    "explanation": "شيفرة التحويل تقتضي أن الفاعل الأصلي إما يُحذف تماماً لعدم أهميته أو يُنقل إلى نهاية الجملة مسبوقاً بـ (by) إذا كان ذكره يضيف قيمة."
+  }
+]

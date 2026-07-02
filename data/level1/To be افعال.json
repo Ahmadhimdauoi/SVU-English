@@ -1,0 +1,182 @@
+[
+  {
+    "question": "Which of the following demonstrates strict structural alignment for a collective noun in professional context?",
+    "options": ["The team are deciding on the budget.", "The team is deciding on the budget.", "The team were decide on the budget.", "The team am deciding on the budget."],
+    "correctIndex": 1,
+    "explanation": "بحسب لوحة تشخيص الأخطاء في الدليل، الفاعل الجماعي (Collective Noun) مثل 'The team' يُعامل كمفرد في السياق المهني الصارم، لذا نستخدم is وليس are."
+  },
+  {
+    "question": "Choose the correct question format according to the quality control board:",
+    "options": ["Do you be the manager?", "Are you the manager?", "Does you be the manager?", "Is you the manager?"],
+    "correctIndex": 1,
+    "explanation": "الفعل To Be يعمل كفعل مساعد أساسي ورئيسي في نفس الوقت عند صياغة السؤال ولا يحتاج إلى أفعال مساعدة خارجية مثل (Do/Does)."
+  },
+  {
+    "question": "In a highly formal context, which statement satisfies strict pronoun alignment?",
+    "options": ["It is me who am responsible.", "It is I who am accountable.", "It is myself who is accountable.", "It is mine who am accountable."],
+    "correctIndex": 1,
+    "explanation": "وفقاً لمخطط مراقبة الجودة، في السياقات الرسمية جداً (Highly Formal) نستخدم الصيغة الصارمة: 'It is I who am...' للتطابق الهيكلي."
+  },
+  {
+    "question": "Complete the statement for a third-person singular in Present Simple: 'The CEO _______ unavailable for comment.'",
+    "options": ["am", "are", "is", "been"],
+    "correctIndex": 2,
+    "explanation": "الرئيس التنفيذي (The CEO) يمثل الشخص الثالث المفرد (He/She)، وصيغة فعل To Be المناسبة له في المضارع البسيط هي is."
+  },
+  {
+    "question": "The sentence 'The algorithms are functioning optimally' represents which category?",
+    "options": ["First Person", "Third Person Singular", "Second & Plural Person", "Past Simple Complete Action"],
+    "correctIndex": 2,
+    "explanation": "كلمة الخوارزميات (The algorithms) هي اسم جمع (Plural)، وتأخذ الفعل are في مصفوفة الحاضر البسيط."
+  },
+  {
+    "question": "Complete the Present Simple statement: 'I _______ accountable for the Q3 deliverables.'",
+    "options": ["is", "am", "are", "be"],
+    "correctIndex": 1,
+    "explanation": "مع ضمير المتكلم المفرد (First Person - I)، الصيغة الصحيحة والثابتة في الحاضر البسيط هي am."
+  },
+  {
+    "question": "The sentence 'The negotiations were highly complex' is built in which tense?",
+    "options": ["Present Simple", "Present Perfect", "Past Simple", "Future Bold Prediction"],
+    "correctIndex": 2,
+    "explanation": "استخدام الصيغة (were) يعبر عن الماضي البسيط (Past Simple) للأفعال في حالة الجمع (negotiations) لحدث مكتمل."
+  },
+  {
+    "question": "Complete the Present Perfect architecture: 'The protocol _______ updated recently.'",
+    "options": ["is been", "has been", "have been", "was been"],
+    "correctIndex": 1,
+    "explanation": "الهندسة الزمنية للحاضر التام (Present Perfect) الذي يعبر عن أثر ممتد للمفرد (The protocol) تستوجب استخدام الصيغة has been."
+  },
+  {
+    "question": "When we say 'The financial outlook is robust', we are using the verb to be for:",
+    "options": ["Location and Scope", "Identity and Quality", "Status Evaluation", "Future Action"],
+    "correctIndex": 2,
+    "explanation": "هذه الجملة تقع تحت أحد الأعمدة الأساسية الثلاثة لفعل To Be وهو: تقييم الحالة (Status Evaluation)."
+  },
+  {
+    "question": "The sentence 'Mr. Oday is the lead consultant' falls under which pillar?",
+    "options": ["Location and Scope", "Identity and Quality", "Status Evaluation", "Complex Passive Voice"],
+    "correctIndex": 1,
+    "explanation": "هذه الجملة تُعبر عن الهوية والصفة واللقب المهني (Identity and Quality)، وهو العمود الثاني الأساسي للفعل."
+  },
+  {
+    "question": "Complete the sentence to express Location & Scope: 'The central servers _______ in the secure facility.'",
+    "options": ["is", "am", "are", "was"],
+    "correctIndex": 2,
+    "explanation": "بما أن الخوادم المركزية جمع (servers)، نستخدم الفعل are لربطها بالموقع والنطاق (Location and Scope)."
+  },
+  {
+    "question": "What is the professional meaning of the advanced idiom 'At stake'?",
+    "options": ["Under review", "Highly successful", "Critical risk assessment / على المحك", "Completely secured"],
+    "correctIndex": 2,
+    "explanation": "تعبير 'At stake' ينتمي للمعجم الاصطلاحي المتقدم ويعني أن الشيء في خطر أو (على المحك) مثل: 'The reputation of the firm is at stake'."
+  },
+  {
+    "question": "Complete the idiomatic professional phrase: 'Our primary concern is _______ ensuring data compliance.'",
+    "options": ["with", "for", "at", "by"],
+    "correctIndex": 0,
+    "explanation": "المصطلح المهني المتقدم لتوجيه التركيز الاستراتيجي هو (Concern is with) ويعني: اهتمامنا الأساسي يتعلق بـ/يركز على."
+  },
+  {
+    "question": "In the sentence 'The primary challenge is mitigating external risks', the word 'is' functions as:",
+    "options": ["Auxiliary verb for past tense", "Strategic Link / رابط استراتيجي للمفهوم", "Action verb", "Plural modifier"],
+    "correctIndex": 1,
+    "explanation": "يعمل فعل To be هنا كرابط استراتيجي (Strategic Link) لتعريف التحدي الأساسي ووصفه مباشرة."
+  },
+  {
+    "question": "Complete the complex descriptive sentence: 'The framework, which _______ currently under review, provides comprehensive guidelines.'",
+    "options": ["am", "are", "is", "been"],
+    "correctIndex": 2,
+    "explanation": "كلمة الإطار (The framework) مفرد، والجملة الوصفية المعترضة التي تشرح حالته الحالية تتطلب استخدام الفعل is."
+  },
+  {
+    "question": "What is the first Golden Rule established by Mr. Emad Oday in the master plan?",
+    "options": ["Continuous Practice", "Strict Structural Alignment", "Vocabulary Memorization", "Passive Voice Conversion"],
+    "correctIndex": 1,
+    "explanation": "القاعدة الذهبية الأولى في المخطط الرئيسي (The Master Plan) هي التطابق المطلق والصارم بنيوياً بين الفاعل وحالة الفعل (Strict Structural Alignment)."
+  },
+  {
+    "question": "Fill in the blank for a past singular statement: 'The former system administrator _______ highly cooperative.'",
+    "options": ["were", "was", "is", "been"],
+    "correctIndex": 1,
+    "explanation": "للحديث عن مفرد في الماضي البسيط (The former administrator)، نستخدم أداة الربط المكتملة وهي was."
+  },
+  {
+    "question": "Complete the plural present perfect structure: 'The stakeholders _______ satisfied with the prototype.'",
+    "options": ["has been", "is been", "have been", "was been"],
+    "correctIndex": 2,
+    "explanation": "بما أن أصحاب المصلحة جمع (stakeholders)، فإن الهندسة الزمنية للأثر الممتد تتطلب استخدام have been."
+  },
+  {
+    "question": "The phrase 'The core infrastructure _______ robust enough to support the upgrade' requires:",
+    "options": ["is", "are", "am", "were"],
+    "correctIndex": 0,
+    "explanation": "البنية التحتية الأساسية (The core infrastructure) هي فاعل مفرد يعبر عن تقييم الحالة الحالية، لذا نستخدم الفراغ المناسب وهو is."
+  },
+  {
+    "question": "Identify the incorrect sentence that violates the collective noun rule:",
+    "options": ["The committee is analyzing the data.", "The board is reviewing the merger.", "The department are launching the system.", "The team is accountable."],
+    "correctIndex": 2,
+    "explanation": "الجملة الثالثة خاطئة وتخالف اللوحة التشخيصية؛ لأن 'The department' اسم جماعي مفرد ويجب أن يأخذ is وليس are."
+  },
+  {
+    "question": "Complete the negation for first person singular: 'I _______ responsible for this specific server partition.'",
+    "options": ["is not", "am not", "aren't", "be not"],
+    "correctIndex": 1,
+    "explanation": "النفي الرسمي لضمير المتكلم (I) في المضارع البسيط يكون دائماً باستخدام am not أو اختصارها المهني."
+  },
+  {
+    "question": "To express that 'سمعة المؤسسة في خطر شديد', you write: 'The reputation of the institution is _______.'",
+    "options": ["concern with", "under review", "at stake", "accountable for"],
+    "correctIndex": 2,
+    "explanation": "المصطلح الدقيق لتقييم المخاطر الحرجة (Critical risk assessment) هو 'at stake' ويعني على المحك أو في خطر."
+  },
+  {
+    "question": "Choose the correct past plural statement for a completed action:",
+    "options": ["The servers was operational last night.", "The servers were operational last night.", "The servers has been operational yesterday.", "The servers is operational yesterday."],
+    "correctIndex": 1,
+    "explanation": "الخوادم جمع (servers) وفي الماضي البسيط التام نستخدم الفعل المساعد المكتمل للتطابق الهيكلي وهو were."
+  },
+  {
+    "question": "Which of the following phrases is used for directing strategic focus according to the guide?",
+    "options": ["At stake", "Concern is with", "Accountable for", "Under review"],
+    "correctIndex": 1,
+    "explanation": "تُستخدم عبارة 'Concern is with' خصيصاً في صياغة الأهداف لتوجيه التركيز الاستراتيجي (Directing strategic focus)."
+  },
+  {
+    "question": "Complete the sentence: 'The updates _______ integrated into the master code since last week.'",
+    "options": ["is been", "was been", "have been", "has been"],
+    "correctIndex": 2,
+    "explanation": "الكلمة جمع (The updates) مع وجود دلالة زمنية للأثر الممتد (since)، نستخدم البناء الهندسي الجمع للحاضر التام وهو have been."
+  },
+  {
+    "question": "The sentence 'The database is in the primary data center' addresses which pillar?",
+    "options": ["Identity and Quality", "Status Evaluation", "Location and Scope", "Action State"],
+    "correctIndex": 2,
+    "explanation": "تحديد مكان قاعدة البيانات يقع مباشرة تحت عمود 'الموقع والنطاق' (Location and Scope)."
+  },
+  {
+    "question": "In the diagnostic dashboard, what is the diagnosis for the error 'Do you be the manager?'",
+    "options": ["It needs a past tense verb.", "To Be works as a main auxiliary and does not need 'Do'.", "The subject is plural.", "It requires a passive voice template."],
+    "correctIndex": 1,
+    "explanation": "السبب التشخيصي المذكور في الدليل هو أن فعل To Be مستقل تماماً ويعمل كفعل مساعد أساسي في التراكيب المهنية ولا يحتاج للاستعانة بـ 'Do'."
+  },
+  {
+    "question": "Complete this highly formal statement: 'It is _______ who am dedicated to this project.'",
+    "options": ["me", "I", "myself", "mine"],
+    "correctIndex": 1,
+    "explanation": "لتحقيق التطابق الصارم مع الفعل (am) في السياقات الرسمية جداً، الضمير الصحيح المناسب هيكلياً هو I وليس me."
+  },
+  {
+    "question": "Complete the status evaluation statement: 'The cybersecurity posture of the firm _______ exceptionally robust.'",
+    "options": ["is", "are", "am", "were"],
+    "correctIndex": 0,
+    "explanation": "المنظومة الأمنية أو الموقف الأمني (posture) هو فاعل مفرد، لذا يأخذ الفعل الحاضر البسيط المفرد وهو is واصفاً الحالة."
+  },
+  {
+    "question": "What is the third component of the Master Plan diagram by Professor Emad Oday?",
+    "options": ["Theoretical Analysis", "Continuous Practice / الممارسة المستمرة", "Error Identification", "Vocabulary Lists"],
+    "correctIndex": 1,
+    "explanation": "المخطط الرئيسي يتكون من ثلاثة أعمدة: 1. التطابق المطلق، 2. إدارة المخاطر، 3. الممارسة المستمرة (Continuous Practice)."
+  }
+]

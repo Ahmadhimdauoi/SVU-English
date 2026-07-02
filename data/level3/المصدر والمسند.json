@@ -1,0 +1,332 @@
+[
+  {
+    "question": "What does the Gerund (V-ing) fundamentally represent in text architecture?",
+    "options": [
+      "A future goal or direction.",
+      "A continuous concept or event treated as a noun / مفهوم مستمر يُعامل كاسم.",
+      "An past passive action.",
+      "A helping verb with no independent meaning."
+    ],
+    "correctIndex": 1,
+    "explanation": "المسند (Gerund) يمثل مفهومًا أو حدثًا مستمرًا ويتم معاملته كاسم صريح في الجملة (مثل Managing تعني الإدارة)."
+  },
+  {
+    "question": "What does the Infinitive (to + V1) fundamentally represent?",
+    "options": [
+      "A continuous historical action.",
+      "A purpose, direction, or future action / الغاية، الاتجاه، أو الفعل المستقبلي.",
+      "A completed regular event.",
+      "An abstract natural phenomenon."
+    ],
+    "correctIndex": 1,
+    "explanation": "المصدر (Infinitive) يمثل الغاية، الاتجاه، أو الفعل المقترن بهدف مستقبلي (المصدر المؤول)."
+  },
+  {
+    "question": "In the sentence 'Managing a crisis requires calm', the word 'Managing' functions as:",
+    "options": [
+      "An infinitive of purpose.",
+      "A subject in the form of a Gerund / فاعل في بداية الجملة.",
+      "A past participle modifier.",
+      "A conditional gateway."
+    ],
+    "correctIndex": 1,
+    "explanation": "وقع المسند (Gerund) هنا كفاعل في بداية الجملة (Subject) وهو أحد الاستخدامات النحوية الأربعة له."
+  },
+  {
+    "question": "Complete the sentence: 'The board discussed _______ to new markets.'",
+    "options": [
+      "to expand",
+      "expanding",
+      "expand",
+      "expanded"
+    ],
+    "correctIndex": 1,
+    "explanation": "الفعل discuss هو من الأفعال الحصرية التي يجب أن يتبعها مفعول به في صيغة المسند (Gerund) حصراً."
+  },
+  {
+    "question": "Complete the statement describing a responsibility: 'His primary responsibility is _______ the accounts.'",
+    "options": [
+      "to audit",
+      "auditing",
+      "audit",
+      "audited"
+    ],
+    "correctIndex": 1,
+    "explanation": "يُستخدم المسند هنا كخبر مكمل للمعنى (Subject Complement) لوصف طبيعة المسؤولية والوظيفة."
+  },
+  {
+    "question": "Complete the sentence after a preposition: 'The team succeeded in _______ the new policy.'",
+    "options": [
+      "implement",
+      "to implement",
+      "implementing",
+      "implemented"
+    ],
+    "correctIndex": 2,
+    "explanation": "القاعدة النحوية الثابتة تقتضي أنه بعد حروف الجر (مثل in)، يجب وضع الفعل في صيغة المسند (Gerund - V-ing)."
+  },
+  {
+    "question": "Which of the following verbs is strictly exclusive to the Gerund environment?",
+    "options": [
+      "Decide",
+      "Refuse",
+      "Avoid / يتجنب",
+      "Manage"
+    ],
+    "correctIndex": 2,
+    "explanation": "الفعل Avoid ينتمي لمجموعة الأفعال الحصرية التي يتبعها دائماً Gerund (مثل: Avoid making errors)."
+  },
+  {
+    "question": "Which of the following verbs is strictly exclusive to the Infinitive (to + V1) environment?",
+    "options": [
+      "Finish",
+      "Refuse / يرفض",
+      "Enjoy",
+      "Admit"
+    ],
+    "correctIndex": 1,
+    "explanation": "الفعل Refuse ينتمي لعالم المصدر (Infinitive) ويتبعه دائماً to + V1 (مثل: He refused to sign)."
+  },
+  {
+    "question": "Complete the dynamic decision sentence: 'The engineering committee decided _______ the system parameters.'",
+    "options": [
+      "re-evaluating",
+      "to re-evaluate",
+      "re-evaluate",
+      "re-evaluated"
+    ],
+    "correctIndex": 1,
+    "explanation": "الفعل decide يحتاج إلى مصدر مؤول يتبعه للتعبير عن الغاية المستقبلية للقرار، لذا نستخدم to re-evaluate."
+  },
+  {
+    "question": "The sentence 'The proposed strategy is definitely worth implementing' is an example of:",
+    "options": [
+      "A passive infinitive.",
+      "A fixed Gerund Idiom / تعبير ثابت للمسند.",
+      "A conditional type zero loop.",
+      "An absolute short adjective comparison."
+    ],
+    "correctIndex": 1,
+    "explanation": "التعبير 'be worth' هو أحد المصطلحات الاصطلاحية الثابتة التي يجب أن يتبعها دائماً فعل مضاف له V-ing."
+  },
+  {
+    "question": "Complete the fixed idiom statement: 'It's no use _______ about the legacy code metrics now.'",
+    "options": [
+      "to complain",
+      "complaining",
+      "complain",
+      "complained"
+    ],
+    "correctIndex": 1,
+    "explanation": "التعبير الاصطلاحي 'It's no use' (لا جدوى من) يتطلب إلزامياً صيغة المسند (Gerund) بعده."
+  },
+  {
+    "question": "What is the structure of a Passive Infinitive according to the blueprint?",
+    "options": [
+      "to + V-ing",
+      "to be + Past Participle (V3) / المصدر بالمبني للمجهول",
+      "being + V3",
+      "to have + V1"
+    ],
+    "correctIndex": 1,
+    "explanation": "المصدر بصيغة المبني للمجهول لتركيز الاهتمام على الحدث وليس الفاعل يُبنى بالتركيب فني: to be + V3."
+  },
+  {
+    "question": "Complete the sentence with a passive infinitive: 'The security protocol needs _______ immediately.'",
+    "options": [
+      "to update",
+      "updating",
+      "to be updated",
+      "be updated"
+    ],
+    "correctIndex": 2,
+    "explanation": "البروتوكول يحتاج أن 'يُحدث' (وقع عليه الفعل)، لذا نستخدم صيغة المصدر للمجهول to be updated."
+  },
+  {
+    "question": "Complete the sentence with a modal phrase: 'The shipment is supposed _______ tomorrow morning.'",
+    "options": [
+      "arriving",
+      "to arrive",
+      "arrive",
+      "to be arrived"
+    ],
+    "correctIndex": 1,
+    "explanation": "التعبير 'be supposed' يتبعه دائماً المصدر (Infinitive) لتوضيح الالتزام أو التوقع المستقبلي: to arrive."
+  },
+  {
+    "question": "What is the structural effect of the verb 'Stop' when followed by a Gerund?",
+    "options": [
+      "It means pausing an action to start another one.",
+      "It means completely terminating the action itself / التوقف النهائي عن ممارسة الحدث.",
+      "It converts the sentence into a command.",
+      "It indicates absolute expectation."
+    ],
+    "correctIndex": 1,
+    "explanation": "عندما يتبع Stop كلمة ينتهي بـ V-ing، فإن المعنى يكون التوقف والإنهاء التام للحدث (مثل Stop smoking تعني الإقلاع تماماً)."
+  },
+  {
+    "question": "What is the structural effect of the verb 'Stop' when followed by an Infinitive (to + V1)?",
+    "options": [
+      "It means terminating the activity forever.",
+      "It means pausing a current state to perform a new target action / التوقف المؤقت من أجل فعل شيء آخر.",
+      "It changes the verb to past perfect.",
+      "It eliminates the object."
+    ],
+    "correctIndex": 1,
+    "explanation": "إذا ألحقنا Stop بالمصدر to + V1، فإن المعنى هو التوقف المؤقت عن أمر كنت تفعله في طريقك من أجل إنجاز هدف آخر."
+  },
+  {
+    "question": "Complete the sentence: 'On my way home, I stopped _______ (buy) some print materials.'",
+    "options": [
+      "buying",
+      "to buy",
+      "buy",
+      "bought"
+    ],
+    "correctIndex": 1,
+    "explanation": "السياق يدل على التوقف المؤقت في الطريق لشراء المواد (هدف مستقبلي)، لذا نستخدم المصدر to buy."
+  },
+  {
+    "question": "Complete the sentence: 'The management ordered employees to stop _______ (waste) corporate resources.'",
+    "options": [
+      "to waste",
+      "wasting",
+      "waste",
+      "wasted"
+    ],
+    "correctIndex": 1,
+    "explanation": "المطلوب هو الكف النهائي والامتناع الكامل عن إهدار الموارد، لذا نستخدم صيغة المسند wasting."
+  },
+  {
+    "question": "What happens to the verb 'Remember' when followed by a Gerund (V-ing)?",
+    "options": [
+      "It means remembering a past event or memory / تذكر حدث أو ذكريات في الماضي.",
+      "It means remembering a future task that must be done.",
+      "It turns into a passive voice template.",
+      "It triggers a double future error."
+    ],
+    "correctIndex": 0,
+    "explanation": "تذكر شيء مع الـ Gerund يعني استحضار شريط الذكريات لشيء قد قمت به وانتهى بالفعل في الماضي (تذكر حدوث الفعل)."
+  },
+  {
+    "question": "What happens to the verb 'Remember' when followed by an Infinitive (to + V1)?",
+    "options": [
+      "It means flashing back to old historical memories.",
+      "It means remembering an obligation or task before doing it / تذكر الواجب والمهمة قبل فعلها.",
+      "It removes the subject.",
+      "It signifies a zero-probability loop."
+    ],
+    "correctIndex": 1,
+    "explanation": "تذكر شيء مع المصدر يمثل تذكر الواجب أو المهمة المطلوبة منك أولاً لتقوم بفعلها تالياً (تذكر لكي تفعل)."
+  },
+  {
+    "question": "Complete the statement: 'Please remember _______ the main firewall configuration before you log off.'",
+    "options": [
+      "checking",
+      "to check",
+      "check",
+      "checked"
+    ],
+    "correctIndex": 1,
+    "explanation": "المعنى هو تذكر مهمة وواجب مستقبلي يجب القيام به قبل الخروج، فالخيار المعماري الصحيح هو to check."
+  },
+  {
+    "question": "Complete the memory statement: 'I distinctly remember _______ the server room keys on your desk last night.'",
+    "options": [
+      "to leave",
+      "leaving",
+      "leave",
+      "left"
+    ],
+    "correctIndex": 1,
+    "explanation": "المتحدث يسترجع حدثاً وذكرى حصلت وانتهت في الماضي بالأمس، لذا نستخدم المسند الدال على الماضي والذكريات leaving."
+  },
+  {
+    "question": "What is the semantic architecture of the verb 'Try' when coupled with a Gerund?",
+    "options": [
+      "Making a severe mental effort to overcome a massive challenge.",
+      "An experiment or testing a new method to see results / تجربة طريقة جديدة واختبارها.",
+      "A structural prohibition.",
+      "An absolute certainty deduction."
+    ],
+    "correctIndex": 1,
+    "explanation": "الفعل Try مع الـ Gerund يعني القيام بتجربة واختبار طريقة أو فكرة جديدة لترى مدى نجاحها وسهولتها."
+  },
+  {
+    "question": "What is the semantic architecture of the verb 'Try' when coupled with an Infinitive?",
+    "options": [
+      "Testing a casual method.",
+      "Exerting a hard effort to accomplish a highly difficult task / بذل مجهود شاق لتجاوز تحدٍ صعب.",
+      "A repetitive past habit.",
+      "An equal balance modifier."
+    ],
+    "correctIndex": 1,
+    "explanation": "الفعل Try مع المصدر يعبر عن بذل مجهود وعناء شاق ومحاولة حقيقية جادة لتخطي عقبة أو إنجاز أمر صعب."
+  },
+  {
+    "question": "Complete the sentence showing immense effort: 'They tried _______ the severe technical issue, but the system remained locked.'",
+    "options": [
+      "resolving",
+      "to resolve",
+      "resolve",
+      "resolved"
+    ],
+    "correctIndex": 1,
+    "explanation": "الجملة توضح وجود عناء ومجهود شاق لحل معضلة تقنية حادة، لذا نستخدم صيغة المحاولة والجهد وهي to resolve."
+  },
+  {
+    "question": "Complete the experimentation statement: 'If the system is slow, try _______ the cache memory.'",
+    "options": [
+      "to clear",
+      "clearing",
+      "clear",
+      "cleared"
+    ],
+    "correctIndex": 1,
+    "explanation": "العبارة تقدم نصيحة بتجربة واختبار طريقة جديدة (مسح الكاش) لرؤية النتيجة، مما يتوافق مع صيغة المسند clearing."
+  },
+  {
+    "question": "Which of the following verbs can accept BOTH Gerund and Infinitive with ZERO change in meaning?",
+    "options": [
+      "Stop",
+      "Begin / Start / يبدأ",
+      "Try",
+      "Remember"
+    ],
+    "correctIndex": 1,
+    "explanation": "أفعال البداية والاستمرار (مثل Begin و Start) تقبل الصيغتين (Gerund/Infinitive) دون حدوث أي تغيير في المعنى الجوهري للجملة."
+  },
+  {
+    "question": "Complete the structural statement with a zero meaning change: 'The automated system started _______ the logs.'",
+    "options": [
+      "compile",
+      "compiled",
+      "compiling (or to compile)",
+      "compiles"
+    ],
+    "correctIndex": 2,
+    "explanation": "مع الفعل start، يمكن استخدام كلتا الصيغتين بشكل سليم، والـ Gerund هنا (compiling) خيار ممتاز ومطابق لخيارات النحو السليم."
+  },
+  {
+    "question": "According to the master cheat sheet, which category governs 'enjoy, admit, suggest'?",
+    "options": [
+      "The Critical Gerund Verbs / أفعال حصرية للمسند",
+      "The Critical Infinitive Verbs",
+      "Modal Phrasal verbs",
+      "Absolute Adjectives"
+    ],
+    "correctIndex": 0,
+    "explanation": "هذه الأفعال مصنفة في ورقة الغش الشاملة كأفعال حصرية تستوجب ورائها الـ Gerund دائماً."
+  },
+  {
+    "question": "Identify the grammatically perfect statement according to the linguistic compass guide:",
+    "options": [
+      "We decided expanding the budget.",
+      "The technician avoids to touch the live wire.",
+      "I suggest reviewing the master deployment scheme.",
+      "He admitted to leak the files."
+    ],
+    "correctIndex": 2,
+    "explanation": "الجملة الثالثة صحيحة تماماً لأن الفعل suggest يتبعه دائماً الـ Gerund المتوافق معه وهو هنا reviewing."
+  }
+]

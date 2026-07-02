@@ -1,0 +1,332 @@
+[
+  {
+    "question": "What is the fundamental semantic concept behind the word 'Must' (العالم الأول)?",
+    "options": [
+      "External rules enforced by security regulations.",
+      "The Inner Voice: personal conviction, internal will, or a strong logical deduction / البوصلة الداخلية والصوت النابع من القناعة.",
+      "An optional casual pathway.",
+      "A strict future prediction scale."
+    ],
+    "correctIndex": 1,
+    "explanation": "كلمة Must تمثل البوصلة الداخلية والصوت النابع من القناعة الشخصية، الإرادة العاطفية للمتحدث، أو الاستنتاج المنطقي القوي المفروض عقلياً."
+  },
+  {
+    "question": "What is the fundamental semantic concept behind 'Have to' (العالم الثاني)?",
+    "options": [
+      "Internal personal emotions.",
+      "The External Force: constraints, laws, workplace regulations, or realistic circumstances / القوة الخارجية واللوائح المفروضة واقعياً.",
+      "An advice or general recommendation path.",
+      "A dynamic past continuous active habit."
+    ],
+    "correctIndex": 1,
+    "explanation": "تُستخدم Have to عندما يكون الإلزام مفروضاً بقوة خارجية صارمة لا يملك الفاعل خياراً تجاهها (كالقوانين، لوائح العمل، أو الظروف الواقعية الحتمية)."
+  },
+  {
+    "question": "Complete the internal emotional statement: 'I _______ visit my grandmother tonight; I miss her deeply.'",
+    "options": [
+      "have to",
+      "must / إلزام نابع من العاطفة والقناعة الداخلية",
+      "has to",
+      "am have to"
+    ],
+    "correctIndex": 1,
+    "explanation": "القرار هنا نابع من عاطفة المتحدث واشتياقه لجدته (قرار شخصي داخلي)، لذا الكلمة المتوافقة سياقياً هي must."
+  },
+  {
+    "question": "Complete the logical deduction statement: 'He has been troubleshooting the server for 12 hours straight; he _______ be exhausted.'",
+    "options": [
+      "has to",
+      "must / استنتاج منطقي قوي يقترب من اليقين",
+      "should to",
+      "ought to"
+    ],
+    "correctIndex": 1,
+    "explanation": "السياق يقدم استنتاجاً منطقياً قوياً ومؤكداً بناءً على قرائن ثابتة (troubleshooting for 12 hours)، ونستخدم must للاستنتاج اليقيني."
+  },
+  {
+    "question": "Complete the external site requirement: 'I _______ wear a helmet and protective safety boots at the active construction site.'",
+    "options": [
+      "musts",
+      "have to / قاعدة خارجية مفروضة من لوائح الموقع",
+      "ought",
+      "am must to"
+    ],
+    "correctIndex": 1,
+    "explanation": "ارتداء الخوذة والسترة هو قاعدة أمنية خارجية مفروضة من لوائح موقع البناء وليس رغبة عاطفية شخصية، فنستخدم لها have to."
+  },
+  {
+    "question": "Complete the statutory obligation statement: 'She _______ pay taxes by April 15th according to state laws.'",
+    "options": [
+      "musts",
+      "has to / فاعل مفرد وقانون خارجي صارم",
+      "have to",
+      "ought"
+    ],
+    "correctIndex": 1,
+    "explanation": "دفع الضرائب قانون حكومي صارم مفروض من الخارج، وبما أن الفاعل مفرد (She)، نستخدم الصيغة المتوافقة مع المفرد وهي has to."
+  },
+  {
+    "question": "What is the structural formula layout for building a positive sentence with 'Must'?",
+    "options": [
+      "Subject + must + to + base verb",
+      "Subject + must + [base verb] / متبوع بالمصدر المجرد مباشرة",
+      "Subject + must + V3",
+      "Subject + has + must + verb"
+    ],
+    "correctIndex": 1,
+    "explanation": "الهيكل الإنشائي لجملة must يتطلب وضع مصدر الفعل الأساسي مجرداً ومباشرة وراءها دون استخدام حرف الجر to."
+  },
+  {
+    "question": "Complete the sentence following the structural blueprint layout: 'We must _______ our service architecture immediately.'",
+    "options": [
+      "improving",
+      "improve",
+      "to improve",
+      "improved"
+    ],
+    "correctIndex": 1,
+    "explanation": "بناءً على المخطط الهيكلي الإيجابي، نضع فعل improve في حالته الخام المجردة مباشرة بعد must."
+  },
+  {
+    "question": "What is the structural formula layout for building a positive sentence with 'Have to'?",
+    "options": [
+      "Subject + have/has to + [base verb] / هاف أو هاز تو يتبعها المصدر",
+      "Subject + have to + V3",
+      "Subject + is + have to + verb",
+      "Subject + had + have to + verb"
+    ],
+    "correctIndex": 0,
+    "explanation": "الهيكل الإنشائي المعتمد لـ Have to يتطلب تصريفها أولاً مع الفاعل (have للجمع وhas للمفرد) متبوعة بكلمة to ثم مصدر الفعل مجرداً."
+  },
+  {
+    "question": "What is the layout structure for formulating a question format using 'Must'?",
+    "options": [
+      "Do + Subject + must + verb?",
+      "Must + Subject + [base verb]? / تقديم مست في البداية متبوعة بالفاعل والمصدر",
+      "Must + Subject + to + verb?",
+      "Does + Subject + must + verb?"
+    ],
+    "correctIndex": 1,
+    "explanation": "لصناعة سؤال بـ Must، نقوم بتقديمها مستقلة في بداية الجملة الاستفهاميه متبوعة بالفاعل ثم الفعل في المصدر المجرد."
+  },
+  {
+    "question": "Complete the question form correctly: '_______ I attend the senior executive meeting?'",
+    "options": [
+      "Do I must",
+      "Must I to",
+      "Must I",
+      "Does I must"
+    ],
+    "correctIndex": 2,
+    "explanation": "السؤال المستند لمخطط مست الإيجابي المستقل يكتب هكذا: Must I attend...؟ دون استدعاء أفعال مساعدة إضافية."
+  },
+  {
+    "question": "What is the layout structure for formulating a question format using 'Have to'?",
+    "options": [
+      "Have + Subject + to + verb?",
+      "Do/Does + Subject + have to + [base verb]? / الاستعانة بأفعال العمل دو أو دز لصناعة سؤال هاف تو",
+      "Have to + Subject + verb?",
+      "Did + Subject + has to + verb?"
+    ],
+    "correctIndex": 1,
+    "explanation": "على عكس must المستقلة، فإن Have to تحتاج وتستعين بأفعال العمل الخارجية (Do/Does) لافتتاح وصياغة هيكل السؤال."
+  },
+  {
+    "question": "Complete the question form correctly: '_______ I have to finish this audit layout today?'",
+    "options": [
+      "Have",
+      "Do / الاستعانة بـ دو لتناسب ضمير المتكلم",
+      "Does",
+      "Must"
+    ],
+    "correctIndex": 1,
+    "explanation": "بما أن ضمير الفاعل هو المتكلم (I) والأداة هي have to، فإننا نستعين بفعل المساعد المتوافق معهما وهو Do."
+  },
+  {
+    "question": "What happens in the critical Danger Zone (منطقة الخطر) regarding the negative form 'Must not / Mustn't'?",
+    "options": [
+      "It becomes completely optional.",
+      "It means absolute strict prohibition (منع قاطع وممنوع قطعياً) / خطر رسمي.",
+      "It expresses absence of rules.",
+      "It turns into past advice."
+    ],
+    "correctIndex": 1,
+    "explanation": "في منطقة الخطر التحويلية، النفي Must not يعني المنع المطلق والحظر القاطع الصارم (ممنوع قطعياً)، ومخالفته تشكل خطراً أمنياً أو قانونياً."
+  },
+  {
+    "question": "Complete the high-risk danger zone warning: 'You _______ touch that exposed live wire; it carries lethal current.'",
+    "options": [
+      "don't have to",
+      "must not",
+      "doesn't have to",
+      "should to not"
+    ],
+    "correctIndex": 1,
+    "explanation": "لمس السلك العاري خطر مميت ومحرم قاطعاً، لذا الأداة المخصصة للتحذير الصارم والمنع هي must not."
+  },
+  {
+    "question": "What happens in the Danger Zone regarding the negative form 'Don't / Doesn't have to'?",
+    "options": [
+      "It indicates absolute high-risk prohibition.",
+      "It means absence of obligation / أمر اختياري (لك حرية الاختيار وليس ضرورياً).",
+      "It becomes a future commandment.",
+      "It signifies a past complete skill."
+    ],
+    "correctIndex": 1,
+    "explanation": "النفي 'Don't / Doesn't have to' يخرج تماماً من دائرة الإجبار والحظر ليدخل دائرة التخيير؛ ويعني أن الأمر اختياري وغير ضروري وللفاعل الحرية الكاملة."
+  },
+  {
+    "question": "Complete the flexible choices workflow: 'You _______ eat the whole cake; you can save some for tomorrow if you prefer.'",
+    "options": [
+      "must not",
+      "don't have to",
+      "mustn't",
+      "doesn't have to"
+    ],
+    "correctIndex": 1,
+    "explanation": "السياق يوضح أن الأكل اختياري وليس فرضاً ولا حظراً (يمكنك ترك جزء منه)، والأداة المخصصة للتخيير وعدم الاضطرار لضمير الجمع هي don't have to."
+  },
+  {
+    "question": "Can you use the word 'Must' to describe a strict obligation that took place in the Past (الماضي)?",
+    "options": [
+      "Yes, by writing 'I musted'.",
+      "No, Must is strictly frozen and has zero flexibility in the past / لا يمكن استخدامها في الماضي مطلقاً.",
+      "Yes, by adding 'to' behind it.",
+      "Yes, with plural subjects only."
+    ],
+    "correctIndex": 1,
+    "explanation": "يفجر المخطط حقيقة أن Must جامدة تماماً وزمنها محصور، ولا يمكن صياغتها أو استخدامها في الماضي مطلقاً، وتعبيرات مثل 'I musted' خطأ جسيم."
+  },
+  {
+    "question": "What is the correct structural time-travel tool used to represent obligation in the Past?",
+    "options": [
+      "Musted",
+      "Had to / هاد تو هي البديل الزمني المطلق للماضي",
+      "Will have to",
+      "Has to been"
+    ],
+    "correctIndex": 1,
+    "explanation": "للتعبير عن إلزام وضرورة حصلت وانتهت في الماضي (سواءً كان أصلها داخلياً أو خارجياً)، الأداة البديلة الوحيدة والمسموحة هي Had to."
+  },
+  {
+    "question": "Complete the historical audit statement: 'The database crashed last night, so I _______ finish the recovery project yesterday.'",
+    "options": [
+      "must",
+      "had to",
+      "musted",
+      "will have to"
+    ],
+    "correctIndex": 1,
+    "explanation": "لوجود مؤشرات زمنية ماضية صريحة (last night / yesterday)، فإن الأداة الوحيدة القابلة للاستخدام لتمثيل الضرورة الماضية هي had to."
+  },
+  {
+    "question": "What is the correct structural tool used to represent obligation in the Future (المستقبل)?",
+    "options": [
+      "Musted",
+      "Had to",
+      "Will have to / ويل هاف تو للمستقبل الحتمي",
+      "Is having to"
+    ],
+    "correctIndex": 2,
+    "explanation": "لإسقاط الضرورة والالتزام على زمن المستقبل البعيد أو المخطط له، نستخدم الصيغة المستقبلية الحتمية: Will have to."
+  },
+  {
+    "question": "Complete the upcoming future requirement: 'Next quarter, all local corporations _______ integrate the updated tax frameworks.'",
+    "options": [
+      "musted",
+      "had to",
+      "will have to",
+      "has to"
+    ],
+    "correctIndex": 2,
+    "explanation": "السياق يشير لزمن المستقبل القادم (Next quarter)، لذا نربط الضرورة بالصيغة الهيكلية المستقبلية المناسبة لها وهي will have to."
+  },
+  {
+    "question": "If a corporate rule says 'Smoking is strictly forbidden', which negative matches this constraint?",
+    "options": [
+      "You don't have to smoke here.",
+      "You must not smoke here. / منع وحظر قانوني صارم",
+      "You doesn't have to smoke.",
+      "You ought to smoke not."
+    ],
+    "correctIndex": 1,
+    "explanation": "التدخين محظور وممنوع قانوناً، لذا الأداة المتوافقة مع هذا المنع والحظر الصارم هي must not."
+  },
+  {
+    "question": "If a workflow states 'Entry is free, no tickets required', which structural choice matches this?",
+    "options": [
+      "You must not buy a ticket.",
+      "You don't have to buy a ticket. / لست مضطراً لشراء تذكرة (اختياري)",
+      "You hadn't to buy a ticket.",
+      "You must buy not a ticket."
+    ],
+    "correctIndex": 1,
+    "explanation": "بما أن الدخول مجاني، فإن شراء التذكرة ليس إلزامياً ولا يعاقب فاعله، لذا نختار أداة غياب الإلزام don't have to."
+  },
+  {
+    "question": "When 'Must' is used for a logical deduction, what percentage of certainty does it reflect?",
+    "options": [
+      "100% Absolute certainty and trust in information / يقين منطقي تام يقارب المئة بالمئة",
+      "50% Mild guessing",
+      "0% Absolute impossibility",
+      "80% Social expectation"
+    ],
+    "correctIndex": 0,
+    "explanation": "الاستنتاج المنطقي بـ Must يعكس يقيناً منطقياً تاماً يقارب الـ 100% بناءً على أدلة وبراهين عقلية قاطعة تفرض نفسها."
+  },
+  {
+    "question": "Complete the deduction statement: 'The lights are completely off and no one answers the intercom; they _______ be out.'",
+    "options": [
+      "have to",
+      "must",
+      "should to",
+      "ought to"
+    ],
+    "correctIndex": 1,
+    "explanation": "هناك أدلة حسية واضحة تفيد غيابهم (الأنوار مطفأة ولا رد)، والاستنتاج اليقيني المناسب لهذه القرائن هو استخدام must."
+  },
+  {
+    "question": "What is the main diagnostic flaw in the phrase 'I musted finished'?",
+    "options": [
+      "It lacks a proper pronoun alignment.",
+      "Grammatical violation: 'Must' cannot accept past tense inflections like (-ed) / خطأ محاولة إسناد اللاحقة الماضي لمست.",
+      "The main verb should be in V3 form.",
+      "It requires a double future connection."
+    ],
+    "correctIndex": 1,
+    "explanation": "الفعل must فعل ناقص جامد لا يقبل التصريف أو إسناد لاحقة الماضي ed له، والصواب استخدام had to بدلاً منه عند الانتقال للماضي."
+  },
+  {
+    "question": "Complete the question form for a singular subject: '_______ the system administrator have to reboot the main server cluster?'",
+    "options": [
+      "Do",
+      "Does / الاستعانة بـ دز لتناسب فاعل الشخص الثالث المفرد",
+      "Has",
+      "Must"
+    ],
+    "correctIndex": 1,
+    "explanation": "بما أن الفاعل مفرد غائب (the administrator) والأداة هي have to، فإننا نستعين بفعل المساعد الخارجي المخصص للمفرد في الأسئلة وهو Does."
+  },
+  {
+    "question": "In the structural blueprint, what happens to 'has to' inside a question that starts with 'Does'?",
+    "options": [
+      "It stays as 'has to'.",
+      "It must revert back to the base form 'have to' / يعود الفعل إلى أصله الخام",
+      "It turns into 'had to'.",
+      "It changes into 'must'."
+    ],
+    "correctIndex": 1,
+    "explanation": "عند دخول فعل المساعد Does في السؤال، فإنه يمتص الإضافة المفردة، مما يجبر الفعل المجاور على العودة لأصله الخام وهو have to (مثل: Does she have to...)."
+  },
+  {
+    "question": "What is the ultimate milestone of mastering the Mastering Must and Have to blueprint?",
+    "options": [
+      "To avoid using positive sentences.",
+      "To completely untangle the confusion between internal and external obligation and confidently navigate timelines / التمييز الحاسم والواثق بين الإلزام الداخلي والخارجي عبر كل الأزمنة.",
+      "To reduce the number of plural subjects.",
+      "To substitute auxiliary verbs with dashes."
+    ],
+    "correctIndex": 1,
+    "explanation": "الهدف الأسمى للمخطط النهائي هو تمكين الكاتب من التمييز الحاسم والواثق بين مسببات الإلزام الصوتي واللوائحي عبر السفر السلس بين خطوط الزمن دون تعثر لغوي."
+  }
+]

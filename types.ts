@@ -5,9 +5,23 @@ export interface Question {
   question: string;
   options: string[];
   answer: string;
+  explanation?: string; // Optional explanation in Arabic
 }
 
-export type TestState = 'WELCOME' | 'QUIZ' | 'RESULTS';
+export interface TestInfo {
+  id: string;
+  title: string;
+  questions: Question[];
+}
+
+export interface LevelInfo {
+  id: number;
+  title: string;
+  desc: string;
+  tests: TestInfo[];
+}
+
+export type TestState = 'WELCOME' | 'TEST_SELECTION' | 'QUIZ' | 'RESULTS';
 
 export interface TestResult {
   score: number;

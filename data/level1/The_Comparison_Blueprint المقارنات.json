@@ -1,0 +1,182 @@
+[
+  {
+    "question": "Which of the following is correct for a short adjective (one syllable) in the comparative form?",
+    "options": ["The train is more fast than the bus.", "The train is faster than the bus.", "The train is fastest than the bus.", "The train is more faster than the bus."],
+    "correctIndex": 1,
+    "explanation": "طبقاً للقاعدة المعمارية، الصفات القصيرة (مقطع صوتي واحد) نختار لها البنية: [Adjective] + er + than."
+  },
+  {
+    "question": "Complete the superlative structure for a short adjective: 'The airplane is _______ transport.'",
+    "options": ["the most fast", "the faster", "the fastest", "fastest"],
+    "correctIndex": 2,
+    "explanation": "عند تمييز شيء وتفضيله على مجموعة كاملة (الارتقاء للقمة) باستخدام صفة قصيرة، نستخدم التركيب: the + [Adjective] + est."
+  },
+  {
+    "question": "Choose the correct comparative sentence for a long adjective (two or more syllables):",
+    "options": ["This phone is modern freedom than my old one.", "This phone is moderner than my old one.", "This phone is more modern than my old one.", "This phone is most modern than my old one."],
+    "correctIndex": 2,
+    "explanation": "الصفات الطويلة (مقطعين أو أكثر) لا تقبل إضافة er، بل نستخدم التركيب المعماري: more + [Adjective] + than."
+  },
+  {
+    "question": "Complete the sentence to express absolute preference: 'The shark is _______ animal here.'",
+    "options": ["the most dangerous", "more dangerous", "most dangerous", "the dangerousest"],
+    "correctIndex": 0,
+    "explanation": "للتعبير عن التفضيل المطلق في الصفات الطويلة، نستخدم التركيب الرياضي اللغوي: the most + [Adjective]."
+  },
+  {
+    "question": "What is the correct comparative form of the irregular adjective 'good'?",
+    "options": ["gooder than", "more good than", "better than", "the best"],
+    "correctIndex": 2,
+    "explanation": "الصفة (good) هي صفة شاذة خارجة عن السيطرة القياسية، وتتحول في المقارنة إلى better than."
+  },
+  {
+    "question": "Complete the irregular superlative sentence: 'This is _______ investment opportunity we have.'",
+    "options": ["the baddest", "the best", "the most good", "better"],
+    "correctIndex": 1,
+    "explanation": "صيغة التفضيل العليا للصفة الشاذة (good) هي (the best) للوصول إلى ذروة التفضيل."
+  },
+  {
+    "question": "What does the irregular adjective 'bad' change to in a comparative sentence?",
+    "options": ["badder than", "worser than", "worse than", "the worst"],
+    "correctIndex": 2,
+    "explanation": "الصفة الشاذة (bad) تتحول في المقارنة بين طرفين إلى worse than."
+  },
+  {
+    "question": "Complete the sentence: 'This quarter's loss is _______ financial disaster in our history.'",
+    "options": ["the worst", "the worse", "the baddest", "most bad"],
+    "correctIndex": 0,
+    "explanation": "صيغة التفضيل العليا والأقوى للصفة الشاذة (bad) عند مقارنتها بالكل هي the worst."
+  },
+  {
+    "question": "When comparing physical distances, which spelling is architecturally correct according to the blueprint?",
+    "options": ["further", "farther", "farthest", "more far"],
+    "correctIndex": 1,
+    "explanation": "يحدد الدليل أن كلمة (farther) تُستخدم خصيصاً للمسافات المادية الملموسة والمقاسة هندسياً."
+  },
+  {
+    "question": "Complete the statement for metaphorical progression: 'We need _______ analysis before making a decision.'",
+    "options": ["farther", "further", "farthest", "more far"],
+    "correctIndex": 1,
+    "explanation": "كلمة (further) تُستخدم للمسافات المجازية أو المعنوية والتوسع في العمق والفهم (Metaphorical / Extent)."
+  },
+  {
+    "question": "Which of the following is an example of an 'Absolute Adjective' (صفات الحد الأقصى)?",
+    "options": ["Fast", "Unique", "Modern", "Dangerous"],
+    "correctIndex": 1,
+    "explanation": "الصفة Unique (فريد) هي صفة حد أقصى مطلقة تعبر عن حالة لا تقبل القسمة أو التفاوت؛ فإما أن تكون أو لا تكون."
+  },
+  {
+    "question": "According to the blueprint, how do we correctly modify an absolute adjective like 'perfect'?",
+    "options": ["This is more perfect than that.", "This is the most perfect design.", "This is almost perfect.", "This is perfecter."],
+    "correctIndex": 2,
+    "explanation": "صفات الحد الأقصى لا تقبل أدوات المقارنة التقليدية، وبدلاً من ذلك نستخدم كلمات تحدد مدى الاقتراب من الكمال مثل (almost perfect) أو (nearly)."
+  },
+  {
+    "question": "Which intensifier (أداة تضخيم) is used with a comparative adjective to show a massive difference?",
+    "options": ["by far", "much", "more", "as"],
+    "correctIndex": 1,
+    "explanation": "نستخدم الأداة (much) قبل صفة المقارنة لإظهار الفارق الشاسع بين الطرفين، مثل: much more difficult."
+  },
+  {
+    "question": "To emphasize absolute, undisputed supremacy in a superlative sentence, we use:",
+    "options": ["much", "by far", "more", "as"],
+    "correctIndex": 1,
+    "explanation": "نستخدم التعبير السيادي (by far) مع صيغ التفضيل لتأكيد التفوق المطلق والواضح دون منازع، مثل: by far the smartest."
+  },
+  {
+    "question": "What is the correct structure for the 'Equality Scale' (ميزان المساواة والتكافؤ)?",
+    "options": ["as + [Comparative Adjective] + as", "as + [Base Adjective] + as", "more + [Adjective] + as", "than + [Adjective] + as"],
+    "correctIndex": 1,
+    "explanation": "في ميزان المساواة، تقع الصفة في حالتها الخام الأصلية المجردة دون أي تعديل بين الكلمتين: as + [Base Adjective] + as."
+  },
+  {
+    "question": "Complete the equality balance: 'The new model is _______ efficient as the premium version.'",
+    "options": ["more", "than", "as", "so"],
+    "correctIndex": 2,
+    "explanation": "لإثبات التكافؤ التام والتطابق في الصفة، نستخدم التناظر الثنائي: as efficient as."
+  },
+  {
+    "question": "How do you express a lack of equality (نفي المساواة) using the balance scale?",
+    "options": ["not as + [Base Adjective] + as", "no more + [Adjective] + than", "as not + [Adjective] + as", "less + [Adjective] + as"],
+    "correctIndex": 0,
+    "explanation": "لنفي التكافؤ، نضع أداة النفي (not) مباشرة قبل التركيب المتوازن: not as + [Base Adjective] + as."
+  },
+  {
+    "question": "Complete the sentence showing a massive gap in quality: 'The prototype is _______ better than the initial sketch.'",
+    "options": ["by far", "much", "as", "the most"],
+    "correctIndex": 1,
+    "explanation": "بما أن كلمة better هي صفة مقارنة، الأداة المناسبة لتضخيم الفارق وتكبيره هي much."
+  },
+  {
+    "question": "Which sentence violates the architectural rules of Absolute Adjectives?",
+    "options": ["The room is nearly empty.", "He is a very unique designer.", "The results are final.", "The patient is dead."],
+    "correctIndex": 1,
+    "explanation": "الجملة الثانية خاطئة تركيبياً؛ لأن صفة unique مطلقة لا تقبل التدرج بـ very، والصواب إما إبقاؤها وحدها أو استخدام كلمات تقارب الكمال."
+  },
+  {
+    "question": "Complete the sentence for physical distance: 'My house is _______ down the road.'",
+    "options": ["further", "farther", "farthest", "more far"],
+    "correctIndex": 1,
+    "explanation": "الحديث هنا عن امتداد لمسافة مادية حقيقية ملموسة على الطريق، لذا نستخدم الخيار الهندسي الصحيح farther."
+  },
+  {
+    "question": "The sentence 'This is by far the most innovative solution' aims to showcase:",
+    "options": ["Weak balance", "Undisputed supremacy / التفوق المطلق والواضح", "Metaphorical distance", "Strict equality"],
+    "correctIndex": 1,
+    "explanation": "استخدام التركيب 'by far the most' يستهدف تأكيد التفوق السيادي المطلق للحل المقترح على بقية الحلول."
+  },
+  {
+    "question": "Choose the correct sentence that accurately shows a lack of equality:",
+    "options": ["The second branch is not as profitable as the first.", "The second branch is not more profitable as the first.", "The second branch is as not profitable as the first.", "The second branch is less profitable as the first."],
+    "correctIndex": 0,
+    "explanation": "الصيغة المعيارية السليمة لنفي التطابق بين الفرعين هي: not as profitable as."
+  },
+  {
+    "question": "What is the base adjective of the irregular comparative form 'worse'?",
+    "options": ["good", "bad", "far", "little"],
+    "correctIndex": 1,
+    "explanation": "الكلمة worse هي الشكل التنافسي المشتق أصلاً من الصفة الخام الشاذة bad."
+  },
+  {
+    "question": "Complete the sentence: 'Our current strategy is _______ more successful than last year's.'",
+    "options": ["by far", "much", "as", "the most"],
+    "correctIndex": 1,
+    "explanation": "وجود صيغة المقارنة 'more successful' يتطلب أداة تضخيم فوارق ملائمة تسبقها وهي much."
+  },
+  {
+    "question": "The blueprint defines the term 'Superlative' as an architecture used to:",
+    "options": ["Compare exactly two items.", "Elevate one item to the absolute peak of a whole group.", "Deny equality between two concepts.", "Measure physical distances only."],
+    "correctIndex": 1,
+    "explanation": "التفضل (Superlative) وظيفته الأساسية هي تمييز عنصر واحد ورفعه إلى قمة المجموعة بأكملها."
+  },
+  {
+    "question": "Complete the comparative phrase for a short adjective ending in a consonant-vowel-consonant (CVC): 'The server must be _______ (big) than before.'",
+    "options": ["biger", "bigger", "more big", "biggest"],
+    "correctIndex": 1,
+    "explanation": "الصفات القصيرة التي تنتهي بساكن-متحرك-ساكن نقوم بمضاعفة الحرف الأخير قبل إضافة er، لتصبح bigger."
+  },
+  {
+    "question": "Which adjective cannot be used in a structure like 'more _______ than'?",
+    "options": ["efficient", "complex", "dead", "innovative"],
+    "correctIndex": 2,
+    "explanation": "الصفة dead (ميت) هي صفة حد أقصى مطلقة، لا يمكن أن يكون شخص أو كائن 'أكثر ميتاً' من آخر."
+  },
+  {
+    "question": "Complete the statement: 'The infrastructure here is _______ more stable than in the old facility.'",
+    "options": ["by far", "much", "most", "as"],
+    "correctIndex": 1,
+    "explanation": "نستخدم الأداة الاحترافية much لتوضيح الحجم الكبير للفارق في الاستقرار والأمان الهيكلي."
+  },
+  {
+    "question": "What is the structural problem with the sentence: 'This is the most best plan'?",
+    "options": ["It lacks a subject.", "It uses double superlative (تفضيل مزدوج خاطئ).", "The adjective is short.", "It uses a metaphorical distance."],
+    "correctIndex": 1,
+    "explanation": "كلمة best هي صيغة تفضيل عليا بحد ذاتها، وإضافة the most قبلها يُعد خطأً إنشائياً فادحاً يُعرف بالتفضيل المزدوج."
+  },
+  {
+    "question": "In the comparison blueprint, the phrase 'Almost perfect' serves as:",
+    "options": ["An irregular comparative form.", "An architectural alternative for absolute adjectives.", "An equality scale modifier.", "A physical distance measurement."],
+    "correctIndex": 1,
+    "explanation": "العبارة تعمل كبديل معماري ذكي لوصف مدى الاقتراب من حد الكمال مع الصفات المطلقة التي لا تقبل القياس التقليدي."
+  }
+]

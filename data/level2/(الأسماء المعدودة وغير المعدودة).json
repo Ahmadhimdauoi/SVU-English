@@ -1,0 +1,182 @@
+[
+  {
+    "question": "According to the grand division principle, how are uncountable nouns defined?",
+    "options": ["Discrete and tangible units.", "A single continuous mass or abstract concepts / كتلة واحدة متصلة أو مفاهيم مجردة.", "Words that must end with an 's' in singular form.", "Nouns that accept direct numbers like 1, 2, 3."],
+    "correctIndex": 1,
+    "explanation": "المبدأ الأساسي يقسم الأسماء إلى معدود (وحدات منفصلة ملموسة) وغير معدود (كتلة واحدة متصلة أو مفاهيم مجردة لا تقبل العد المباشر)."
+  },
+  {
+    "question": "Which of the following is a structural feature of singular countable nouns?",
+    "options": ["They never take articles like 'a' or 'an'.", "They are followed by a plural verb.", "They take [a/an] before the singular noun.", "They cannot be changed into plural form."],
+    "correctIndex": 2,
+    "explanation": "تشريح الأسماء المعدودة يوضح أن المفرد منها يقبل ويحتاج أداة التنكير [a/an] مثل a project أو an idea."
+  },
+  {
+    "question": "Identify the group that consists entirely of 'Abstract Concepts' (Uncountable):",
+    "options": ["Laptop, Idea, Project", "Knowledge, Information, Motivation", "Water, Coffee, Sugar", "Weather, Traffic, Software"],
+    "correctIndex": 1,
+    "explanation": "المعرفة والمعلومات والتحفيز تنتمي كلياً إلى فئة المفاهيم المجردة (Abstract Concepts) داخل عالم الأسماء غير المعدودة."
+  },
+  {
+    "question": "The words 'software', 'furniture', and 'luggage' fall under which uncountable category?",
+    "options": ["Abstract Concepts", "Liquids and Materials", "Comprehensive Groups / مجموعات شاملة", "Natural Phenomena"],
+    "correctIndex": 2,
+    "explanation": "تُصنف هذه الكلمات كمجموعات شاملة (Comprehensive Groups) تعبر عن فئة عامة تحوي بداخلها تفاصيل متعددة ولا تُجمع."
+  },
+  {
+    "question": "What is the Golden Rule for treating uncountable nouns grammatically?",
+    "options": ["They are always treated as singular and take singular verbs.", "They are always treated as plural.", "They change depending on the speaker's tone.", "They take plural auxiliary verbs like 'were'."],
+    "correctIndex": 0,
+    "explanation": "القاعدة الذهبية تنص على أن الأسماء غير المعدودة تُعامل دائماً معاملة المفرد وتأخذ أفعالاً مساعدة مفردة مثل (is / was / has)."
+  },
+  {
+    "question": "Complete the statement: 'The infrastructure software used in our banking systems _______ exceptionally stable.'",
+    "options": ["are", "is", "were", "have been"],
+    "correctIndex": 1,
+    "explanation": "كلمة software اسم غير معدود، وبالتالي يتبع القاعدة الذهبية ويأخذ الفعل المساعد المفرد is."
+  },
+  {
+    "question": "What is the structural blueprint used as a bridge to count the uncountable?",
+    "options": ["[Uncountable Noun] + of + [Countable Unit]", "[Countable Unit of Measurement] + of + [Uncountable Noun]", "[Countable Unit] + [Uncountable Noun]", "[Uncountable Noun] + [s/es]"],
+    "correctIndex": 1,
+    "explanation": "الجسر اللغوي لتحويل غير المعدود إلى صيغة قابلة للعد هو: [وحدة قياس معدودة] + of + [اسم غير معدود]، مثل a piece of information."
+  },
+  {
+    "question": "How do you correctly quantify 'equipment' or 'advice' using the structural bridge?",
+    "options": ["An equipment / An advice", "A piece of equipment / A piece of advice", "Equipments / Advices", "Many equipment / Much advices"],
+    "correctIndex": 1,
+    "explanation": "كلمتا equipment و advice أسماء غير معدودة، ولعدّها نستخدم وحدة القياس 'a piece of'."
+  },
+  {
+    "question": "For liquids and beverages, which countable unit bridge is structurally correct?",
+    "options": ["A slice of water", "A piece of tea", "A glass of water / A cup of tea", "A packet of information"],
+    "correctIndex": 2,
+    "explanation": "السوائل والمشروبات تُقاس وتُعد باستخدام وحدات مثل glass (كأس) أو cup (كوب)."
+  },
+  {
+    "question": "What are 'Two-Faced Nouns' (أسماء بوجهين) according to the guide?",
+    "options": ["Nouns that are always silent.", "Nouns whose meaning and countability change based on context / يتغير معناها ونوعها حسب السياق.", "Irregular plural nouns only.", "Nouns that end with 's' but are singular."],
+    "correctIndex": 1,
+    "explanation": "الأسماء بوجهين هي كلمات يتغير تصنيفها من معدود إلى غير معدود بناءً على السياق المعني بها (مثل Glass كمادة خام أو ككأس)."
+  },
+  {
+    "question": "In the sentence 'The window is made of glass', the word 'glass' functions as:",
+    "options": ["A countable noun representing a cup.", "An uncountable material / مادة خام غير معدودة.", "An abstract concept.", "An irregular plural noun."],
+    "correctIndex": 1,
+    "explanation": "عندما تعني كلمة glass الزجاج كخامة ومادة بناء، فإنها تكون اسماً غير معدود."
+  },
+  {
+    "question": "In the sentence 'I drank a glass of water', the word 'glass' functions as:",
+    "options": ["An uncountable material.", "A countable container/unit / كأس يمكن عده.", "A natural phenomenon.", "An abstract concept."],
+    "correctIndex": 1,
+    "explanation": "هنا تشير كلمة glass إلى الكأس نفسه كوحدة منفصلة، لذا تعامل كاسم معدود."
+  },
+  {
+    "question": "When 'Time' refers to 'Abstract Duration' (الوقت المجرد)، it is classified as:",
+    "options": ["Countable", "Uncountable", "Irregular Plural", "Comprehensive Unit"],
+    "correctIndex": 1,
+    "explanation": "الوقت بمفهومه المجرد العام (مثل: We don't have much time) هو اسم غير معدود."
+  },
+  {
+    "question": "When 'Time' refers to 'Frequency / Number of repetitions' (عدد المرات)، it becomes:",
+    "options": ["Uncountable", "Countable / معدود ويقبل الجمع", "Abstract Concept", "Natural Phenomenon"],
+    "correctIndex": 1,
+    "explanation": "عندما تعني كلمة time عدد المرات (مثل: I called him three times)، تصبح اسماً معدوداً يقبل الجمع بإضافة حرف s."
+  },
+  {
+    "question": "In context tricks, how does the word 'Paper' function when it means 'A research document or newspaper'?",
+    "options": ["Countable noun", "Uncountable noun", "Abstract motivation", "Comprehensive raw material"],
+    "correctIndex": 0,
+    "explanation": "عندما تعني كلمة paper وثيقة رسمية، أو ورقة بحثية، أو صحيفة، فإنها تصبح اسماً معدوداً (مثل: He wrote a research paper)."
+  },
+  {
+    "question": "Complete the sentence using 'Paper' as a raw material: 'We run out of print materials; we need more _______.'",
+    "options": ["papers", "paper", "a paper", "pieces of papers"],
+    "correctIndex": 1,
+    "explanation": "الورق كخامة ومادة خام هو اسم غير معدود، لذا نستخدم الصيغة المجردة paper دون أدوات تنكير أو جمع."
+  },
+  {
+    "question": "Identify the correct advanced rule for 'Deceptive Nouns' (الأسماء المخادعة):",
+    "options": ["They look like plural because they end in (s) but they are singular uncountable.", "They look like singular but take plural verbs.", "They are irregular nouns that change their internal vowels.", "They cannot be used with singular verbs."],
+    "correctIndex": 0,
+    "explanation": "الأسماء المخادعة تنتهي بحرف s مما يوهم بأنها جمع، لكنها في الحقيقة مفرد غير معدود مثل news و physics."
+  },
+  {
+    "question": "Complete the structural statement: 'The news regarding the market fluctuations _______ deeply concerning.'",
+    "options": ["are", "were", "is", "have been"],
+    "correctIndex": 2,
+    "explanation": "كلمة News هي اسم مخادع ينتهي بـ s لكنه مفرد غير معدود، فيأخذ فعل المساعد المفرد is."
+  },
+  {
+    "question": "Complete the academic sentence: 'Physics _______ a fundamental subject for multimedia engineering.'",
+    "options": ["are", "were", "is", "have"],
+    "correctIndex": 2,
+    "explanation": "الفيزياء (Physics) اسم علم ينتهي بـ s ولكنه اسم مخادع مفرد غير معدود، فيأخذ الفعل المساعد is."
+  },
+  {
+    "question": "Which of the following represents an 'Irregular Plural' (جموع شاذة تجمع بدون s) according to the guide?",
+    "options": ["project -> projects", "child -> children", "idea -> ideas", "laptop -> laptops"],
+    "correctIndex": 1,
+    "explanation": "كلمة child تتحول في الجمع إلى children، وهو جمع شاذ يتغير هيكلياً دون إضافة حرف s."
+  },
+  {
+    "question": "What is the correct irregular plural form of the word 'person'?",
+    "options": ["persons", "peoples", "people", "persones"],
+    "correctIndex": 2,
+    "explanation": "تتحول كلمة person (شخص) في صيغة الجمع القياسية الشاذة إلى people (ناس/أشخاص)."
+  },
+  {
+    "question": "Complete the plural structural statement: 'The people in the auditorium _______ waiting for the speaker.'",
+    "options": ["is", "was", "are", "has been"],
+    "correctIndex": 2,
+    "explanation": "بما أن people جمع شاذ يعبر عن مجموعة من الوحدات المعدودة، فإنه يأخذ فعل الجمع are."
+  },
+  {
+    "question": "Which pronouns are assigned to represent Singular Uncountable nouns in the blueprint?",
+    "options": ["They / Them / These", "It / Its / This / That", "We / Our / Us", "You / Your / Yours"],
+    "correctIndex": 1,
+    "explanation": "الأسماء غير المعدودة تعامل كالمفرد الغائب، ويمثلها ضمير المفرد المذكر/المؤنث لغير العاقل والإشارة المفردة: It / Its / This / That."
+  },
+  {
+    "question": "Which pronouns are assigned to represent Countable Plural nouns in the blueprint?",
+    "options": ["It / Its / This", "They / Them / These / Those", "He / Him / His", "She / Her / Hers"],
+    "correctIndex": 1,
+    "explanation": "الأسماء المعدودة في حالة الجمع يتم تمثيلها بضمائر الجمع وأدوات الإشارة للجمع: They / Them / These / Those."
+  },
+  {
+    "question": "Complete the sentence to maintain pronoun alignment: 'The project data is ready; _______ is very valuable.'",
+    "options": ["they", "it", "these", "them"],
+    "correctIndex": 1,
+    "explanation": "بيانات المشروع المعاملة كمفرد غير معدود (data/information) يربطها الضمير المتوافق للمفرد وهو it."
+  },
+  {
+    "question": "Complete the sentence to maintain pronoun alignment: 'The laptops are fully configured; _______ are ready for delivery.'",
+    "options": ["it", "this", "they", "that"],
+    "correctIndex": 2,
+    "explanation": "كلمة laptops اسم معدود جمع، لذا يتطابق مع ضمير الجمع الغائب they."
+  },
+  {
+    "question": "What is the diagnosis for the error in the sentence: 'The software are outdated'?",
+    "options": ["The software is a countable noun.", "The software is an uncountable collective group that must take a singular verb 'is'.", "The sentence needs an article 'an'.", "The verb must be in past tense."],
+    "correctIndex": 1,
+    "explanation": "الخطأ يكمن في معاملة software كجمع، والصواب هو معاملته كمفرد لأنه اسم غير معدود ينتمي للمجموعات الشاملة."
+  },
+  {
+    "question": "Identify the structurally correct sentence according to the master guidelines:",
+    "options": ["I need some advices from you.", "The informations are very useful.", "The information is useful.", "A pieces of equipments were delivered."],
+    "correctIndex": 2,
+    "explanation": "الجملة الثالثة صحيحة تماماً لأن information اسم غير معدود وأخذ الفعل المساعد المفرد is دون إضافة s الجمع."
+  },
+  {
+    "question": "Complete the irregular conversion statement: 'The technician inspected the machinery and found that two _______ (foot) of the cable were damaged.'",
+    "options": ["foots", "feet", "feets", "footies"],
+    "correctIndex": 1,
+    "explanation": "الجمع الشاذ لكلمة foot (قدم كلوحدة قياس أو عضو) هو feet بدون حرف s."
+  },
+  {
+    "question": "What is the primary objective of studying 'Mastering Nouns Visualized'?",
+    "options": ["To memorize vocabulary lists blindly.", "To understand the deep structural logic of English nouns and their verb alignment / فهم المنطق البنيوي وتطابقها مع الأفعال.", "To convert all nouns into adjectives.", "To practice passive voice patterns."],
+    "correctIndex": 1,
+    "explanation": "الهدف الأساسي للدليل البصري هو بناء فهم منطقي عميق لتقسيمات الأسماء وتطابقها الهيكلي مع الأفعال بعيداً عن الحفظ التلقيني."
+  }
+]

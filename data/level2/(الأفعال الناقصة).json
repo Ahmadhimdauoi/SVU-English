@@ -1,0 +1,182 @@
+[
+  {
+    "question": "What is the primary role of Modal Verbs in an English sentence framework?",
+    "options": ["They function as the absolute main action verbs.", "They are auxiliary tools that modify the tone and attitude of the speaker / أدوات مساعدة تغير نبرة وموقف المتحدث.", "They convert sentences from singular to plural.", "They are used to define geographical locations."],
+    "correctIndex": 1,
+    "explanation": "الأفعال الناقصة ليست أفعالاً رئيسية بل أدوات مساعدة تدخل على الجملة لتغيير نبرة المتحدث وموقفه (إلزام، قدرة، احتمالية، إلخ)."
+  },
+  {
+    "question": "According to the master plan, what is the first Golden Rule governing Modal Verbs?",
+    "options": ["They must always be followed by 'to' and V3.", "They must always be followed by the base infinitive without 'to' / متبوعة بالمصدر المجرد بدون إضافات.", "They change forms depending on the past continuous tense.", "They require an auxiliary verb like 'do' or 'does'."],
+    "correctIndex": 1,
+    "explanation": "القاعدة الذهبية الأولى (Base Infinitive) تنص على أن الفعل الناقص يتبعه دائماً الفعل الأساسي في حالته الخام الأصلية المجردة بدون 'to'."
+  },
+  {
+    "question": "Which of the following violates the second Golden Rule ( ثبات الصيغة مع المفرد - No 's')?",
+    "options": ["She can present the data.", "She cans present the data.", "He should review the logs.", "It must work smoothly."],
+    "correctIndex": 1,
+    "explanation": "الأفعال الناقصة جامدة ومستقرة؛ لا تأخذ حرف (s) المفرد أبداً حتى لو كان الفاعل مفرد غائب (He/She/It)، لذا عبارة 'She cans' خاطئة فادحة."
+  },
+  {
+    "question": "What does the third Golden Rule state regarding the negation and questioning of Modal Verbs?",
+    "options": ["They require 'do', 'does', or 'did' to formulate questions.", "They are independent and do not need external auxiliaries for negation or questioning / مستقلة في النفي والسؤال.", "They cannot be used in negative sentences.", "They must always use double negatives."],
+    "correctIndex": 1,
+    "explanation": "القاعدة الذهبية الثالثة (No Auxiliaries) تؤكد أن الأفعال الناقصة مستقلة؛ تنفي نفسها بوضع not خلفها، وتسأل بتقديم نفسها على الفاعل دون دواعٍ لاستدعاء أفعال خارجية."
+  },
+  {
+    "question": "Complete the question form correctly following the golden rules: '_______ we proceed with the data migration?'",
+    "options": ["Do we should", "Should we", "Does we should", "Should we to"],
+    "correctIndex": 1,
+    "explanation": "لصناعة السؤال، نقوم بتقديم الفعل الناقص مستقلًا في البداية: Should we proceed؟ دون استخدام أفعال مساعدة خارجية."
+  },
+  {
+    "question": "What is the exact usage distinction between 'Can' and 'Could' in terms of capability?",
+    "options": ["Can expresses past ability; Could expresses present ability.", "Can expresses present/general ability; Could expresses past completed ability / القدرة الحالية مقابل القدرة الماضية.", "Can is used only for permission; Could is used only for requirements.", "There is no structural difference between them."],
+    "correctIndex": 1,
+    "explanation": "يُستخدم الفعل Can للتعبير عن القدرة والمهارة والاستطاعة الحالية في الحاضر، بينما يعبر Could عن القدرة المكتملة في الزمن الماضي."
+  },
+  {
+    "question": "Complete the present capability statement: 'Our lead developer _______ design advanced neural network architectures.'",
+    "options": ["could", "cans", "can", "is can"],
+    "correctIndex": 2,
+    "explanation": "للتعبير عن مهارة وقدرة حالية في الحاضر لمفرد، نستخدم الصيغة القياسية السليمة can المجردة."
+  },
+  {
+    "question": "Complete the historical performance statement: 'During the initial pilot phase, the legacy system _______ process only 100 transactions per second.'",
+    "options": ["can", "could", "should", "must"],
+    "correctIndex": 1,
+    "explanation": "العبارة تشير لزمن الماضي وفترة تجريبية سابقة (During the initial phase)، فالأداة المناسبة لوصف القدرة الماضية هي could."
+  },
+  {
+    "question": "In the context of professional requests, how does 'Could' differ from 'Can'?",
+    "options": ["Could is informal; Can is formal.", "Could injects a higher level of politeness and professional diplomacy / أعلى في الأدب والدبلوماسية المهنية.", "Could indicates a strict mandate.", "Can is used only with plural subjects."],
+    "correctIndex": 1,
+    "explanation": "عند طلب شيء أو صياغة استئذان مهني، يضفي الفعل (Could) نبرة أدب ودبلوماسية رفيعة المستوى وأرقى مقارنة بـ Can."
+  },
+  {
+    "question": "Which modal verb expresses 'Internal Obligation / Absolute Requirement' (الالتزام الداخلي الصارم النابع من المتحدث أو القوانين الحتمية)?",
+    "options": ["Should", "May", "Must / قوة الإلزام والضرورة القصوى", "Might"],
+    "correctIndex": 2,
+    "explanation": "الفعل (Must) يمثل ذروة سلطة المتحدث أو متطلبات القوانين الإلزامية غير القابلة للنقاش أو الإخلال بها."
+  },
+  {
+    "question": "Complete the strict operational compliance mandate: 'All network administrators _______ change their primary keys immediately.'",
+    "options": ["should", "might", "must", "may"],
+    "correctIndex": 2,
+    "explanation": "الأوامر الصارمة والمتطلبات الأمنية العاجلة والحتمية تتطلب التعبير بأعلى صيغ الإلزام والضرورة وهي must."
+  },
+  {
+    "question": "What is the structural and conceptual difference between 'Must' and 'Have to'?",
+    "options": ["Must is optional; Have to is mandatory.", "Must stems from internal conviction/authority; Have to stems from external rules/circumstances / السلطة الداخلية مقابل القوانين الخارجية المفروضة.", "Have to is a main verb that doesn't need subjects.", "They are completely identical with no subtle difference."],
+    "correctIndex": 1,
+    "explanation": "يفك الدليل الشفرة موضحاً أن Must تنبع من سلطة وقناعة المتحدث الداخلية، بينما Have to تعبر عن إلزام فرضته لوائح أو ظروف خارجية رغماً عن الفاعل."
+  },
+  {
+    "question": "Complete the external compliance statement: 'According to the updated GDPR regulations, our firm _______ encrypt all user metadata.'",
+    "options": ["musts", "has to / إلزام خارجي تفرضه اللوائح والمفرد", "should", "might"],
+    "correctIndex": 1,
+    "explanation": "بما أن الإلزام آتٍ من جهة تنظيمية خارجية (GDPR regulations) والفاعل مفرد (our firm)، نستخدم الصيغة المتوافقة خارجيًا وهي has to."
+  },
+  {
+    "question": "What happens to the meaning of 'Must' when it is converted to the negative form 'Must not / Mustn't'?",
+    "options": ["It becomes optional.", "It transitions into a strict prohibition (حظر تام ومنع قاطع) / ممنوع منعاً باتاً.", "It expresses past advice.", "It indicates 100% ability."],
+    "correctIndex": 1,
+    "explanation": "عند نفي must لتصبح mustn't، فإنها تتحول بالكامل إلى أداة حظر قاطع ومنع قانوني صارم يعرض مرتكبه للمساءلة أو المخاطرة الفادحة."
+  },
+  {
+    "question": "Complete the high-risk protocol sentence: 'Personnel _______ enter the server room without biometric authorization.'",
+    "options": ["don't have to", "must not / حظر ومنع صارم", "shouldnot", "might not"],
+    "correctIndex": 1,
+    "explanation": "الدخول بدون تصريح يمثل خرقاً أمنياً محظوراً تماماً، لذا الأداة المعمارية المخصصة للمنع القاطع هي must not."
+  },
+  {
+    "question": "What does the expression 'Don't have to / Doesn't have to' mean in professional contexts?",
+    "options": ["Strict structural prohibition.", "Absence of obligation / عدم الحاجة للقيام بالشيء (اختياري).", "Extreme emotional distress.", "100% absolute certainty."],
+    "correctIndex": 1,
+    "explanation": "على النقيض من mustn't، فإن التعبير don't have to يعني غياب الإلزام؛ أي أن الأمر اختياري ومتاح للفاعل وليس مفروضاً عليه ولا يعاقب بتركه."
+  },
+  {
+    "question": "Complete the flexible operational workflow: 'We have fully automated this pipeline, so you _______ update the logs manually.'",
+    "options": ["must not", "don't have to / لست مضطراً (الأمر اختياري)", "should not", "can't"],
+    "correctIndex": 1,
+    "explanation": "بما أن النظام أصبح مؤتمتاً بالكامل، فإن التحديث اليدوي لم يعد إلزامياً، فنستخدم الأدوات الدالة على التخيير وعملية عدم الاضطرار don't have to."
+  },
+  {
+    "question": "What is the primary architectural domain for 'Should' and 'Ought to'?",
+    "options": ["Strict legal prohibitions.", "Professional advice, strategic recommendations, and strong logical expectations / النصيحة المهنية والتوقع المنطقي القوي.", "Absolute past capability.", "Formal structural prayers."],
+    "correctIndex": 1,
+    "explanation": "نستخدم عائلة (Should / Ought to) لتوجيه النصائح المهنية، التوصيات الاستراتيجية، أو بناء التوقعات والانتظارات المنطقية القوية."
+  },
+  {
+    "question": "Complete the advisory recommendation statement: 'The engineering committee thinks we _______ thoroughly stress-test the architecture before deployment.'",
+    "options": ["must not", "might", "should", "could"],
+    "correctIndex": 2,
+    "explanation": "هذه توصية ونصيحة فنية من لجنة الهندسة (thinks we...)، والأداة القياسية المفضلة لتقديم التوصيات الاستراتيجية هي should."
+  },
+  {
+    "question": "When expressing 'Hesitant Suggestions' (الاقتراحات غير المؤكدة أو الحذرة جداً)، which verb is recommended?",
+    "options": ["Must", "Might / اقتراح حذر وغير مؤكد لحفظ خط الرجعة", "Have to", "Can"],
+    "correctIndex": 1,
+    "explanation": "يُستخدم الفعل (Might) لصياغة اقتراحات مهنية حذرة ومغلفة بالدبلوماسية لترك مساحة تراجع وتجنب النبرة الهجومية العنيفة."
+  },
+  {
+    "question": "Complete the diplomat suggestion phrase: 'You _______ want to double-check those quarterly financial calculations.'",
+    "options": ["must", "have to", "might", "shall"],
+    "correctIndex": 2,
+    "explanation": "التركيب المهني الدبلوماسي الحذر (You might want to...) يُستخدم لتنبيه الزملاء بلطف ودون جزم قاطع لوجود شكوك."
+  },
+  {
+    "question": "Which modal verb is explicitly dedicated to 'Formal Permission' (الاستئذان الرسمي جداً) and 'Prayers/Wishes' (الدعاء والتمنيات)?",
+    "options": ["Can", "Must", "May / الإذن الرسمي والدعاء", "Should"],
+    "correctIndex": 2,
+    "explanation": "الفعل (May) هو الأداة المخصصة لطلب الإذن بشكل رسمي وأكاديمي راقٍ، كما يُستخدم كقالب لغوي للتعبير عن الدعاء والتمنيات بالنجاح."
+  },
+  {
+    "question": "Complete the executive request: '_______ I address the senior steering committee regarding the budget allocation?'",
+    "options": ["May", "Must", "Should", "Would rather"],
+    "correctIndex": 0,
+    "explanation": "لطلب الإذن بطريقة شديدة الرسمية والأدب أمام مجلس الإدارة واللجان التنفيذية، نستخدم الكلمة May."
+  },
+  {
+    "question": "Complete the professional wish: '_______ you have continued success and upward mobility in your career path.'",
+    "options": ["Should", "May", "Must", "Could"],
+    "correctIndex": 1,
+    "explanation": "صياغة الدعاء والتمنيات الكلاسيكية الراقية في المراسلات المهنية تبدأ دائماً بالفعل الناقص المخصص لها وهو May."
+  },
+  {
+    "question": "According to the guide, what are the three functions of 'Would'?",
+    "options": ["Prohibitions, Commands, Requests", "Preferences (would rather), Polite Offers, and Past Habits / التفضيل، العرض المهذب، والعادات الماضية.", "Scientific truths, Current skills, Logical deductions", "Future plans, Strict orders, Constant variables"],
+    "correctIndex": 1,
+    "explanation": "الفعل Would يغطي ثلاث مناطق مهارية مهنية: التفضيل الاستراتيجي، تقديم العروض بأسلوب أنيق، ووصف العادات المهنية القديمة في الماضي."
+  },
+  {
+    "question": "Complete the strategic preference statement: 'The executive management _______ delay the launch than release a flawed system.'",
+    "options": ["would rather / تفضل أن... على أن...", "should ought to", "must not", "may can"],
+    "correctIndex": 0,
+    "explanation": "التركيب الإنشائي الرابط لإظهار المفاضلة المهنية القاطعة بين خيارين هو (would rather ... than)."
+  },
+  {
+    "question": "According to the 'Certainty Gauge' (مقياس اليقين البصري)، which modal represents 100% Absolute Certainty?",
+    "options": ["May / Might", "Should / Ought to", "Must / Have to / اليقين المطلق والثقة التامة بالمعلومة", "Can't / Couldn't"],
+    "correctIndex": 2,
+    "explanation": "مقياس اليقين يوضح أن Must تعبر عن ثقة ويقين مطلق بنسبة 100% في استنتاج المعلومة بناءً على أدلة قوية."
+  },
+  {
+    "question": "According to the Certainty Gauge, what percentage of probability does 'Should / Ought to' reflect?",
+    "options": ["100% Certainty", "80% Strong Expectation / توقع منطقي قوي جداً", "50% Mild Possibility", "0% Absolute Impossibility"],
+    "correctIndex": 1,
+    "explanation": "الفعل Should يقع في منطقة الـ 80%؛ مما يدل على توقع منطقي قوي جداً بحدوث الشيء بناءً على سير الأمور الطبيعي والتحضيرات السليمة."
+  },
+  {
+    "question": "If a situation evaluates to '0% Impossibility' (الاستحالة المطلقة) بسبب فساد البيانات، أي فعل نستخدم؟",
+    "options": ["Must", "Should", "May not", "Can't / Couldn't / الاستحالة المطلقة بناءً على برهان"],
+    "correctIndex": 3,
+    "explanation": "للتعبير عن الاستحالة المطلقة بناءً على واقع أو برهان ملموس (0% ثقة بالحدوث)، نستخدم النفي القاطع Can't أو Couldn't."
+  },
+  {
+    "question": "Complete the logical deduction: 'The source data is completely corrupted; this report _______ be correct.'",
+    "options": ["must", "should", "can't", "might"],
+    "correctIndex": 2,
+    "explanation": "بما أن هناك دليلاً يثبت فساد البيانات الأصلي، فمن المستحيل عقلاً ومنطقاً أن يكون التقرير صحيحاً، لذا نستخدم أداة الاستحالة المنطقية can't."
+  }
+]

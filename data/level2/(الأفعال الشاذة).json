@@ -1,0 +1,182 @@
+[
+  {
+    "question": "Why are certain English verbs explicitly classified as 'Irregular' (أفعال شاذة)?",
+    "options": ["Because they are never used in professional writing.", "Because they refuse to follow the general rule of adding (ed) in past and V3 states / ترفض اتباع قاعدة إضافة ed.", "Because they can only be used with singular subjects.", "Because they lack a base infinitive form."],
+    "correctIndex": 1,
+    "explanation": "تسمى شاذة لأنها تكسر وتتمرد على القاعدة القياسية العامة المتمثلة في إضافة لاحقة (ed) لصناعة الماضي والتصريف الثالث."
+  },
+  {
+    "question": "What is the core solution introduced by Professor Emad Oday to master these 65 structural verbs?",
+    "options": ["Blind mechanical memorization of lists.", "Decoding them through precise visual and mathematical pattern recognition / فك الشفرة عبر تمييز الأنماط الرياضية والبصرية.", "Converting all of them into regular verbs.", "Ignoring the past participle state completely."],
+    "correctIndex": 1,
+    "explanation": "الحل الجذري المقترح هو كسر حلقة الحفظ الأعمى وتحويل الأفعال إلى أنماط رياضية وبصرية ملونة ومفهومة يسهل استدعاؤها عقلياً."
+  },
+  {
+    "question": "What does the 'Pattern Three: A-A-A' (النمط الثابت) signify in the irregular verb matrix?",
+    "options": ["All three verb states are completely different.", "The past and past participle forms are twins.", "All three structural states (Base, Past, V3) are completely identical and never change / الحالات الثلاث متطابقة تماماً ولا تتغير.", "The verb only accepts plural subjects."],
+    "correctIndex": 2,
+    "explanation": "نمط A-A-A يعني الثبات المطلق؛ حيث يظل شكل ونطق الكلمة متطابقاً في المضارع والماضي والتصريف الثالث دون أي تغيير بنيوي."
+  },
+  {
+    "question": "Which of the following verbs belongs entirely to the immutable 'Pattern Three: A-A-A'?",
+    "options": ["begin", "bring", "put / يضع", "speak"],
+    "correctIndex": 2,
+    "explanation": "الفعل (put) ينتمي لنمط الثبات الثلاثي؛ فتصريفاته هي (put -> put -> put)."
+  },
+  {
+    "question": "What characterizes 'Pattern Two: A-B-B' (نمط التوأم) in the architectural matrix?",
+    "options": ["The base form and V3 form are identical.", "The past simple state and the past participle (V3) state are completely identical twins / الماضي والتصريف الثالث متطابقان تماماً.", "All forms are radically different.", "The verb never ends with a consonant."],
+    "correctIndex": 1,
+    "explanation": "نمط A-B-B يسمى بنمط التوأم نظراً لأن التصريف الثاني (الماضي البسيط) والتصريف الثالث (V3) متطابقان تماماً في الرسم والنطق."
+  },
+  {
+    "question": "Which irregular verb follows the 'Pattern Two: A-B-B' structural path?",
+    "options": ["drink", "bring / يجلب", "see", "eat"],
+    "correctIndex": 1,
+    "explanation": "الفعل bring يتحول إلى (bring -> brought -> brought)، وهو ما يحقق شروط نمط التوأم المتطابق A-B-B."
+  },
+  {
+    "question": "What characterizes 'Pattern One: A-B-C' (النمط المتغير بالكامل) in the irregular matrix?",
+    "options": ["The forms are stable.", "All three structural states have completely different shapes and vowel shifts / الأشكال الثلاثة مختلفة بالكامل.", "The past tense requires adding 'd'.", "The past participle returns to the base form."],
+    "correctIndex": 1,
+    "explanation": "نمط A-B-C يمثل التحول الكامل؛ حيث يمتلك الفعل ثلاثة أشكال مختلفة النطق والكتابة عبر تحولات الحروف المصوتة الداخلية."
+  },
+  {
+    "question": "Which irregular verb follows the complete mutation of 'Pattern One: A-B-C'?",
+    "options": ["sleep", "sit", "begin / يبدأ", "put"],
+    "correctIndex": 2,
+    "explanation": "الفعل begin يتحول كلياً بتغير الحروف الداخلية: (begin -> began -> begun)، وهو تطبيق صريح لنمط A-B-C."
+  },
+  {
+    "question": "According to Meaning Matrix 2 (أفعال التواصل والإدراك)، what pattern do most verbal transfer verbs like 'say' and 'tell' follow?",
+    "options": ["A-A-A", "A-B-B / نمط التوأم لتسهيل السرد القصصي في الماضي", "A-B-C", "They are regular verbs"],
+    "correctIndex": 1,
+    "explanation": "يلاحظ الدليل ذكاءً أن معظم أفعال النقل اللفظي والتواصل (say, tell, hear) تتبع نمط التوأم A-B-B لتسهيل تدفق السرد الحكائي والقصصي في الماضي."
+  },
+  {
+    "question": "What are the precise historical and structural states for the communication verb 'say'?",
+    "options": ["say | sayed | sayed", "say | said | said", "say | spoke | spoken", "say | saw | seen"],
+    "correctIndex": 1,
+    "explanation": "الفعل say شاذ يتبع نمط التوأم، وتصريفه الصحيح هو: say -> said -> said."
+  },
+  {
+    "question": "Complete the verbal communication statement: 'Yesterday, the project supervisor _______ us that the deployment was successful.'",
+    "options": ["tell", "tells", "told", "telled"],
+    "correctIndex": 2,
+    "explanation": "الفعل tell فعل شاذ ماضيه المتوافق مع نمط التوأم لحدث مكتمل بالأمس (Yesterday) هو told."
+  },
+  {
+    "question": "What are the structural matrix transformations for the perception verb 'know'?",
+    "options": ["know | knew | known", "know | knowed | knowed", "know | knew | knew", "know | known | known"],
+    "correctIndex": 0,
+    "explanation": "الفعل know (يعلم/يعرف) هو فعل إدراك ينتمي لنمط التحول الكلي A-B-C وتصريفه البنيوي: know -> knew -> known."
+  },
+  {
+    "question": "Complete the perception statement: 'We have _______ about the structural vulnerability in the system since last quarter.'",
+    "options": ["knew", "known", "know", "knowed"],
+    "correctIndex": 1,
+    "explanation": "وجود الفعل المساعد have يدل على بناء هندسي للحاضر التام، والذي يتطلب التصريف الثالث (V3) للفعل وهو known."
+  },
+  {
+    "question": "According to Meaning Matrix 3 (أفعال الحياة اليومية والروتين)، what are the structural transformations for 'eat'?",
+    "options": ["eat | eated | eaten", "eat | ate | eaten", "eat | ate | ate", "eat | eat | eat"],
+    "correctIndex": 1,
+    "explanation": "الفعل eat ينتمي لنمط التغير الكلي للمقاطع الصوتية والحروف (A-B-C) وتصريفه الهندسي هو: eat -> ate -> eaten."
+  },
+  {
+    "question": "What is the past simple form of the routine verb 'drink' inside the matrix?",
+    "options": ["drank", "drunk", "drinked", "dranks"],
+    "correctIndex": 0,
+    "explanation": "في نمط المتغير الكامل، التصريف الثاني (الماضي البسيط المكتمل) للفعل drink هو drank بحرف a، بينما drunk بحرف u هي التصريف الثالث."
+  },
+  {
+    "question": "Complete the evening routine statement: 'Last night, the tired engineer _______ for eight hours straight.'",
+    "options": ["sleep", "slept", "sleeped", "sleeps"],
+    "correctIndex": 1,
+    "explanation": "الفعل sleep (ينام) فعل شاذ يتبع نمط التوأم A-B-B، وصيغة الماضي البسيط لحدث اكتمل وانتهى الليلة الماضية هي slept."
+  },
+  {
+    "question": "What are the structural transformations for the action verb 'wear' (يرتدي)?",
+    "options": ["wear | weared | worn", "wear | wore | worn", "wear | wore | wore", "wear | wear | wear"],
+    "correctIndex": 1,
+    "explanation": "الفعل wear يتبع مصفوفة التغير الكلي للصوتيات والحروف (A-B-C) ويتغير شكله كالتالي: wear -> wore -> worn."
+  },
+  {
+    "question": "Complete the corporate dress code statement: 'The security consultants have _______ their identification badges all week.'",
+    "options": ["wore", "worn", "wear", "weared"],
+    "correctIndex": 1,
+    "explanation": "بعد الفعل المساعد have في تركيب الحاضر التام، يجب استدعاء المكون البنيوي الثالث للفعل (V3) وهو هنا الكلمة worn."
+  },
+  {
+    "question": "Identify the incorrect transformation that violates the irregular verb matrix laws:",
+    "options": ["put -> put -> put", "bring -> brought -> brought", "see -> saw -> seen", "hear -> heared -> heared"],
+    "correctIndex": 3,
+    "explanation": "التصريف الأخير خاطئ تماماً؛ لأن الفعل hear فعل شاذ يتبع نمط التوأم وتصريفه الصحيح هو (hear -> heard -> heard) وليس بإضافة اللاحقة القياسية ed."
+  },
+  {
+    "question": "Complete the perception audit sentence: 'I _______ a high-pitched frequency coming from the server fan an hour ago.'",
+    "options": ["hear", "heared", "heard", "hears"],
+    "correctIndex": 2,
+    "explanation": "للحديث عن حدث سمعي مكتمل وانتهى في الماضي لوجود (an hour ago)، نستخدم صيغة الماضي الشاذ التوأم للفعل وهي heard."
+  },
+  {
+    "question": "The visual diagram uses Navy, Coral, and Teal colors to explicitly distinguish between:",
+    "options": ["Nouns, Verbs, Adjectives", "Subject, Object, Predicate", "Base form, Past simple, Past participle (V3) / الحالات التصريفية الثلاث للأفعال", "Singular, Plural, Irregular"],
+    "correctIndex": 2,
+    "explanation": "توزيع الألوان المشفرة في الدليل يهدف بصرياً لفرز وتفكيك الوعي اللغوي لربط كل لون بحالة تصريفية معينة (مضارع خام، ماضي، تصريف ثالث V3)."
+  },
+  {
+    "question": "What is the V3 (Past Participle) form of the communication verb 'speak'?",
+    "options": ["spoke", "spoken", "speaked", "speaks"],
+    "correctIndex": 1,
+    "explanation": "ينتمي الفعل speak لنمط التحول الثلاثي الكامل A-B-C، وشكله في المحطة البنيوية الثالثة هو الكلمة spoken."
+  },
+  {
+    "question": "Complete the formal communication statement: 'The executive director has _______ with the anchor investors.'",
+    "options": ["spoke", "spoken", "speaked", "speak"],
+    "correctIndex": 1,
+    "explanation": "الحاضر التام الالتزامي يتطلب دمج الفعل المساعد (has) مع التصريف الثالث الحصري للفعل الشاذ وهو هنا spoken."
+  },
+  {
+    "question": "Which irregular pattern allows a verb to remain completely identical across present, past, and perfect architectures?",
+    "options": ["Pattern One: A-B-C", "Pattern Two: A-B-B", "Pattern Three: A-A-A / النمط الثابت غير المتغير", "The ed-regular template"],
+    "correctIndex": 2,
+    "explanation": "النمط الإنشائي الوحيد الذي يحافظ على شكل الكلمة ورسمها وصوتها ثابتاً دون أي مساس بها في كافة التراكيب والأزمنة هو النمط الثالث A-A-A."
+  },
+  {
+    "question": "Complete the system database state: 'The administrator _______ the backup script into the root directory last Friday.'",
+    "options": ["put", "puted", "puts", "putten"],
+    "correctIndex": 0,
+    "explanation": "بما أن الحدث تم في الماضي الجمعة الماضية (last Friday)، وبما أن الفعل put ينتمي للنمط الثابت اللامتغير، فإن شكله الماضي يظل كما هو put."
+  },
+  {
+    "question": "What is the past simple form of the perception verb 'see' inside the matrix?",
+    "options": ["seen", "saw", "seed", "sees"],
+    "correctIndex": 1,
+    "explanation": "الفعل see يتبع التحول الكلي، وشكل الماضي البسيط التام منه لتمثيل الأحداث السابقة هو الكلمة الهيكلية saw."
+  },
+  {
+    "question": "Complete the audit report: 'The security team _______ a massive surge in traffic yesterday.'",
+    "options": ["see", "seen", "saw", "seed"],
+    "correctIndex": 2,
+    "explanation": "لوجود الدلالة الزمنية الماضية المكتملة (yesterday)، نستدعي التصريف الثاني الماضي السليم للفعل وهو saw."
+  },
+  {
+    "question": "What is the technical diagnosis for the error sentence: 'The team bringed all the requirements'?",
+    "options": ["The verb requires an 's' modifier.", "The verb 'bring' is irregular and belongs to the twin pattern (A-B-B), so its past form is 'brought' / فعل شاذ تصريفه الصحيح brought.", "The subject must be plural.", "The sentence needs a passive voice conversion."],
+    "correctIndex": 1,
+    "explanation": "التشريح اللغوي يكشف خطأ محاولة إخضاع الفعل الشاذ bring لقاعدة ed المنتظمة، والصواب إرجاعه لنمطه الصحيح وهو التوأم brought."
+  },
+  {
+    "question": "Identify the structurally sound statement that completely obeys the irregular matrix guidelines:",
+    "options": ["We sat the baseline parameters yesterday.", "We sited the baseline parameters yesterday.", "We sat down to analyze the data yesterday. / استخدام التصريف الماضي sat بشكل صحيح", "We have sit for hours."],
+    "correctIndex": 2,
+    "explanation": "الجملة الثالثة صحيحة لأن الفاعل أخذ الفعل sat وهو الماضي البسيط الشاذ الصحيح للفعل sit المتوافق مع زمن الأمس المكتمل."
+  },
+  {
+    "question": "What is the final milestone or ultimate goal of mapping irregular verbs into visual matrices?",
+    "options": ["To avoid using verbs in past tenses.", "To transform erratic memory recall into fluent, logical, and immediate communication proficiency / تحقيق الطلاقة اللغوية الفورية المستندة للفهم المنطقي.", "To write software engineering documentation only.", "To reduce the number of vowels in English."],
+    "correctIndex": 1,
+    "explanation": "الغاية النهائية لفك شفرة القوالب التصريفية الشاذة بصرياً ورياضياً هي استبدال الاستدعاء الذاكراتي المتلعثم بالطلاقة العفوية والإنتاج اللغوي الفوري الدقيق."
+  }
+]

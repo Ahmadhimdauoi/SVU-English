@@ -1,0 +1,182 @@
+[
+  {
+    "question": "According to the guide, what is the primary purpose of the question key 'What'?",
+    "options": ["To ask about people.", "To ask about places.", "To ask about things and actions / الأشياء والأفعال.", "To ask about reasons."],
+    "correctIndex": 2,
+    "explanation": "أداة الاستفهام (What) تُعد مفتاحاً مصمماً خصيصاً للاستفسار عن الأشياء والأفعال، مثل: What is your main goal?"
+  },
+  {
+    "question": "Which basic key is engineered to unlock information regarding a specific 'Place'?",
+    "options": ["When", "Where", "Why", "Who"],
+    "correctIndex": 1,
+    "explanation": "أداة الاستفهام (Where) هي المفتاح الهندسي المخصص للمكان، مثل: Where can I find the nearest subway station?"
+  },
+  {
+    "question": "Complete the sentence to ask about a deadline (Time): '_______ is the deadline for this report?'",
+    "options": ["Where", "Why", "When", "What"],
+    "correctIndex": 2,
+    "explanation": "نستخدم الأداة (When) للاستفسار عن الزمان والمواعيد النهائية (Time & Deadlines)."
+  },
+  {
+    "question": "To discover the reason or cause behind a career path choice, which key do you use?",
+    "options": ["What", "Why", "Who", "How"],
+    "correctIndex": 1,
+    "explanation": "الأداة (Why) تُستخدم للبحث عن السبب والعلة والمبررات (Reasons & Causes)."
+  },
+  {
+    "question": "Complete the sentence to ask about identity: '_______ will lead the international expansion project?'",
+    "options": ["Which", "Whose", "Who", "What"],
+    "correctIndex": 2,
+    "explanation": "أداة الاستفهام (Who) مصممة خصيصاً لمعرفة هوية الأشخاص (People/Identity)."
+  },
+  {
+    "question": "When you need to make a selection from a specific, limited set of choices, the correct key is:",
+    "options": ["What", "Which", "Whose", "How"],
+    "correctIndex": 1,
+    "explanation": "نستخدم (Which) للتفريق والاختيار بين بدائل أو خيارات محددة (Details & Choices)."
+  },
+  {
+    "question": "Complete the ownership question: '_______ server partition is currently leaking data?'",
+    "options": ["Who", "Whose", "Which", "How"],
+    "correctIndex": 1,
+    "explanation": "أداة الاستفهام (Whose) تُستخدم للاستعلام عن الملكية والتبعية (Ownership/Possession)."
+  },
+  {
+    "question": "Which compounding key from the 'How Family' is used to measure 'Countable Quantities' (الكميات المعدودة)?",
+    "options": ["How much", "How many", "How often", "How long"],
+    "correctIndex": 1,
+    "explanation": "نستخدم (How many) للأسماء المعدودة التي يمكن إحصاؤها بدقة، مثل عدد الموظفين أو الأجهزة."
+  },
+  {
+    "question": "To evaluate the financial cost or 'Uncountable Quantities', the blueprint recommends:",
+    "options": ["How many", "How far", "How much", "How fast"],
+    "correctIndex": 2,
+    "explanation": "تُستخدم (How much) للكميات غير المعدودة والأسعار والتكاليف المالية (Uncountable Quantities/Cost)."
+  },
+  {
+    "question": "Complete the operational check: '_______ do you update your system passwords?'",
+    "options": ["How long", "How far", "How often", "How high"],
+    "correctIndex": 2,
+    "explanation": "التعبير المركب (How often) يستعلم عن معدل التكرار والتردد الزمني للحدث (Frequency)."
+  },
+  {
+    "question": "Complete the sentence to ask about duration: '_______ will the project presentation take?'",
+    "options": ["How far", "How long", "How fast", "How old"],
+    "correctIndex": 1,
+    "explanation": "يُستخدم المصطلح (How long) للاستفسار عن المدة الزمنية المستغرقة أو المسافة الطولية (Duration/Length)."
+  },
+  {
+    "question": "To find out the physical distance between the headquarters and the airport, you ask:",
+    "options": ["How long is the headquarters?", "How far is the headquarters?", "How fast is the headquarters?", "How high is the headquarters?"],
+    "correctIndex": 1,
+    "explanation": "الأداة المركبة (How far) مخصصة لقياس الأبعاد والمسافات الجغرافية والمادية (Physical Distance)."
+  },
+  {
+    "question": "According to the Altitude Matrix, which tool measures flight levels or drone elevations?",
+    "options": ["How tall", "How fast", "How high", "How old"],
+    "correctIndex": 2,
+    "explanation": "نستخدم (How high) لقياس مستوى الارتفاع والتحليق والأشياء الطائرة في الجو (Altitude Level)."
+  },
+  {
+    "question": "To ask about the height of a human being or a building rising from the ground, the blueprint dictates:",
+    "options": ["How high", "How tall", "How long", "How far"],
+    "correctIndex": 1,
+    "explanation": "نستخدم (How tall) حصرياً للأشخاص والمباني والمنشآت الثابتة المنطلقة عمودياً من سطح الأرض."
+  },
+  {
+    "question": "Complete the system performance query: '_______ can we deliver this software project?'",
+    "options": ["How old", "How tall", "How fast", "How high"],
+    "correctIndex": 2,
+    "explanation": "تُستخدم (How fast) للاستعلام عن السرعة ومعدل الإنجاز الزمني (Speed/Velocity)."
+  },
+  {
+    "question": "Complete the legacy code audit question: '_______ is this operating system?'",
+    "options": ["How old", "How long", "How far", "How often"],
+    "correctIndex": 0,
+    "explanation": "نستخدم (How old) لمعرفة العمر، الصلاحية، أو القدم التاريخي للأنظمة والأشخاص (Age)."
+  },
+  {
+    "question": "What is the standard golden sequence order for building an English question?",
+    "options": ["Question Word + Subject + Auxiliary Verb + Main Verb", "Question Word + Auxiliary Verb + Subject + Main Verb", "Subject + Auxiliary Verb + Main Verb + Question Word", "Auxiliary Verb + Question Word + Subject + Main Verb"],
+    "correctIndex": 1,
+    "explanation": "الهندسة الذهبية لصناعة السؤال تتبع الترتيب الصارم: أداة الاستفهام + الفعل المساعد (Auxiliary) + الفاعل (Subject) + الفعل الرئيسي (Main Verb)."
+  },
+  {
+    "question": "Identify the correct question structure that follows the golden blueprint:",
+    "options": ["Where the client did sign the contract?", "Where did the client sign the contract?", "Where did sign the contract the client?", "Where the client signed the contract?"],
+    "correctIndex": 1,
+    "explanation": "الجملة الثانية تتبع الترتيب الهندسي السليم تماماً: أداة الاستفهام (Where) + المساعد (did) + الفاعل (the client) + الرئيسي مجرد (sign)."
+  },
+  {
+    "question": "What is the critical 'Exception Rule' (قاعدة الاستثناء) when asking about the Subject directly?",
+    "options": ["We must use two auxiliary verbs.", "We completely remove the main verb.", "We bypass the auxiliary verb and use the main verb directly.", "We change the question word into a noun."],
+    "correctIndex": 2,
+    "explanation": "قاعدة الاستثناء الكبرى تنص على أنه عند السؤال عن الفاعل نفسه باستخدام Who أو What، نتخطى الفعل المساعد ونضع الفعل الرئيسي مباشرة بدون (do/does/did)."
+  },
+  {
+    "question": "According to the exception rule, which question is structurally correct to ask who wrote the code?",
+    "options": ["Who did write this code?", "Who wrote this code?", "Who does writes this code?", "Who writing this code?"],
+    "correctIndex": 1,
+    "explanation": "بما أننا نستعلم عن الفاعل الذي قام بالحدث مباشرة، نطبق قاعدة الاستثناء ونحذف الفعل المساعد فتصبح الجملة: Who wrote this code?"
+  },
+  {
+    "question": "Complete the technical query: '_______ of these two security protocols do you recommend?'",
+    "options": ["What", "Which", "Whose", "Who"],
+    "correctIndex": 1,
+    "explanation": "بما أن السؤال يعرض الاختيار بين بروتوكولين محددين (Two options)، نستخدم أداة الاختيار المنتقاة (Which)."
+  },
+  {
+    "question": "Complete the system failure question according to the subject exception rule: 'What _______ the server crash yesterday?'",
+    "options": ["did cause", "caused", "does cause", "causing"],
+    "correctIndex": 1,
+    "explanation": "نستفسر هنا عن الشيء (الفاعل) الذي تسبب في العطل، لذا نطبق الاستثناء ونضع الفعل في الماضي مباشرة دون أفعال مساعدة: What caused...؟"
+  },
+  {
+    "question": "The question 'How much capital do we need?' targets:",
+    "options": ["Countable items", "Uncountable asset/cost", "Frequency of investment", "Physical distance"],
+    "correctIndex": 1,
+    "explanation": "رأس المال (Capital) يُعامل ككمية غير معدودة، لذا نستخدم معه المفتاح المالي المناسب (How much)."
+  },
+  {
+    "question": "If you want to know the physical duration of a meeting, you should ask using:",
+    "options": ["How far", "How often", "How long", "How high"],
+    "correctIndex": 2,
+    "explanation": "تحديد المدى الزمني للاجتماع يقع تحت نطاق حساب المدة (Duration)، وهو اختصاص الأداة المركبة (How long)."
+  },
+  {
+    "question": "Which components represent the 'Interlock Mechanism' mentioned on the cover?",
+    "options": ["Verbs and Nouns", "Questions and Information Answers", "Adjectives and Adverbs", "Prepositions and Timelines"],
+    "correctIndex": 1,
+    "explanation": "آلية القفل والترابط (Interlock Mechanism) تعني أن لكل أداة استفهام وظيفة مخصصة تقفل على نوع محدد ومستهدف من الإجابات والمعلومات."
+  },
+  {
+    "question": "Complete the database query: '_______ database did you restore last night?'",
+    "options": ["Who", "Whose", "Where", "When"],
+    "correctIndex": 1,
+    "explanation": "الاستفسار هنا يتعلق بملكية قاعدة البيانات أو تبعيتها، لذا نستخدم المفتاح التركيبي (Whose)."
+  },
+  {
+    "question": "In the golden architecture table, what is the 'Auxiliary Verb' in the question: 'Why did the system fail?'",
+    "options": ["Why", "did", "the system", "fail"],
+    "correctIndex": 1,
+    "explanation": "كلمة (did) هي الفعل المساعد المتربع في الخانة الثانية لتحديد الزمن الماضي في هندسة السؤال."
+  },
+  {
+    "question": "Complete the standard structural question: 'Where _______ the team hosting the event?'",
+    "options": ["does", "is", "did", "have"],
+    "correctIndex": 1,
+    "explanation": "لوجود الفعل ينتهي بـ (hosting) في حالة الاستمرار، نحتاج فعل مساعد من عائلة To Be يتطابق مع المفرد (the team)، وهو الكلمة is."
+  },
+  {
+    "question": "The question 'How many routers were configured?' asks about:",
+    "options": ["A continuous duration", "An uncountable cost", "A specific countable quantity of hardware", "An altitude level"],
+    "correctIndex": 2,
+    "explanation": "تستهدف (How many) معرفة العدد الفعلي الدقيق للأجهزة والمواد القابلة للعد (Countable quantity)."
+  },
+  {
+    "question": "Complete the architectural question: 'When _______ the security patch be released?'",
+    "options": ["did", "will", "does", "is"],
+    "correctIndex": 1,
+    "explanation": "بما أن الفعل الرئيسي في المصدر المجرد ومسبوق بـ be (be released)، الفعل المساعد المستقبلي الأنسب هيكلياً هنا هو will."
+  }
+]

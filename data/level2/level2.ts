@@ -1,4 +1,12 @@
-import { Question } from "../types";
+import { Question, TestInfo } from "../../types";
+import { convertJSONQuestions } from "../helpers";
+
+import punctuationJson from "./(أدوات الترقيم).json";
+import countableNounsJson from "./(الأسماء المعدودة وغير المعدودة).json";
+import irregularVerbsJson from "./(الأفعال الشاذة).json";
+import modalVerbsJson from "./(الأفعال الناقصة).json";
+import conditionalsJson from "./(الجمل الشرطية).json";
+import prepositionsJson from "./The Preposition Blueprint احرف الجر.json";
 
 export const level2Questions: Question[] = [
   {
@@ -224,5 +232,43 @@ export const level2Questions: Question[] = [
     question: "Thanks to modern technology, a visit to dentist is now —.",
     options: ["Harmless", "Helpful", "Painless", "Tasty"],
     answer: "Painless", // [cite: 732, 740]
+  },
+];
+
+export const level2Tests: TestInfo[] = [
+  {
+    id: "comprehensive",
+    title: "الاختبار الشامل",
+    questions: level2Questions,
+  },
+  {
+    id: "punctuation",
+    title: "أدوات الترقيم (Punctuation)",
+    questions: convertJSONQuestions(punctuationJson, "Pre-Intermediate"),
+  },
+  {
+    id: "countable_nouns",
+    title: "الأسماء المعدودة وغير المعدودة",
+    questions: convertJSONQuestions(countableNounsJson, "Pre-Intermediate"),
+  },
+  {
+    id: "irregular_verbs",
+    title: "الأفعال الشاذة (Irregular Verbs)",
+    questions: convertJSONQuestions(irregularVerbsJson, "Pre-Intermediate"),
+  },
+  {
+    id: "modal_verbs",
+    title: "الأفعال الناقصة (Modal Verbs)",
+    questions: convertJSONQuestions(modalVerbsJson, "Pre-Intermediate"),
+  },
+  {
+    id: "conditionals",
+    title: "الجمل الشرطية (Conditionals)",
+    questions: convertJSONQuestions(conditionalsJson, "Pre-Intermediate"),
+  },
+  {
+    id: "prepositions",
+    title: "حروف الجر (Prepositions)",
+    questions: convertJSONQuestions(prepositionsJson, "Pre-Intermediate"),
   },
 ];

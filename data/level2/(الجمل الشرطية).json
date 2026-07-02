@@ -1,0 +1,182 @@
+[
+  {
+    "question": "What is the basic definition of a conditional sentence according to the architectural anatomy?",
+    "options": ["A sentence with no verbs.", "A mathematical equation where one event depends entirely on the occurrence of another event / حدث يتوقف على حدث آخر.", "A simple command sentence.", "A description of past actions only."],
+    "correctIndex": 1,
+    "explanation": "التشريح الأساسي يوضح أن الجملة الشرطية هي معادلة هندسية بسيطة مبنية على طرفين: حدث يتوقف حدوثه على حدوث حدث آخر (سبب ونتيجة)."
+  },
+  {
+    "question": "According to the architectural rule, what happens when you reverse the clause order by placing the 'If clause' in the middle?",
+    "options": ["The meaning changes completely.", "We must remove the comma (,) / نقوم بإزالة الفاصلة.", "The verb changes to V3.", "We must add a semicolon."],
+    "correctIndex": 2,
+    "explanation": "القاعدة الهندسية تسمح بعكس ترتيب الجملتين دون تغيير في المعنى، شريطة إزالة الفاصلة (,) الرابطة في المنتصف إذا تقدمت جملة النتيجة."
+  },
+  {
+    "question": "What is the probability indicator and core function of Type Zero (النوع الصفري)?",
+    "options": ["0% probability", "50% possibility", "100% probability for scientific and technical facts / حقائق علمية وعادات ثابتة بنسبة 100%.", "Unreal past regrets"],
+    "correctIndex": 2,
+    "explanation": "النوع الصفري (Type Zero) يعبر عن حقائق علمية، قوانين تقنية، أو عادات ثابتة ونتائج مؤكدة الحدوث بنسبة 100%."
+  },
+  {
+    "question": "What is the structural formula for Type Zero conditionals?",
+    "options": ["If + Present Simple, Will + Base Verb", "If + Present Simple, Present Simple", "If + Past Simple, Would + Base Verb", "If + Past Perfect, Would have + V3"],
+    "correctIndex": 1,
+    "explanation": "المعادلة الهيكلية للنوع الصفري تتطلب زمناً متطابقاً في الطرفين وهو المضارع البسيط: If + Present Simple, Present Simple."
+  },
+  {
+    "question": "Complete the technical Type Zero statement: 'If a server crashes, the system automatically _______.'",
+    "options": ["restarted", "restarts", "will restart", "would restart"],
+    "correctIndex": 1,
+    "explanation": "بما أن هذه حقيقة تقنية آلية ثابتة (Type Zero)، فإن فعل النتيجة يجب أن يكون في المضارع البسيط (restarts) ليتطابق مع المفرد."
+  },
+  {
+    "question": "Type One (النوع الأول) is engineered to represent which probability domain?",
+    "options": ["Absolute scientific certainty", "Future Probability / هندسة المستقبل المحتمل والممكن.", "Hypothetical present scenarios", "Impossible past conditions"],
+    "correctIndex": 1,
+    "explanation": "النوع الأول يعبر عن هندسة المستقبل المحتمل، وهو موقف أو حدث ممكن ومحتمل جداً حدوثه في الحاضر أو المستقبل."
+  },
+  {
+    "question": "What is the precise grammatical formula for Type One conditionals?",
+    "options": ["If + Present Simple, Will + Base Verb", "If + Past Simple, Would + Base Verb", "If + Present Simple, Present Simple", "If + Past Perfect, Would have + V3"],
+    "correctIndex": 0,
+    "explanation": "معادلة النوع الأول المعمارية هي: جملة الشرط مضارع بسيط، وجملة النتيجة مستقبل بسيط باستخدام سوف: If + Present Simple, Will + Base Verb."
+  },
+  {
+    "question": "Complete the strategic Type One sentence: 'If the client approves the blueprint today, we _______ manufacturing tomorrow.'",
+    "options": ["start", "started", "will start", "would have started"],
+    "correctIndex": 2,
+    "explanation": "بناءً على الصيغة الهيكلية للنوع الأول، نستخدم (will start) في جملة النتيجة لأن الشرط يمثل حدثاً محتملاً في المضارع البسيط."
+  },
+  {
+    "question": "Type Two (النوع الثاني) conditionals are designed to navigate which domain?",
+    "options": ["100% Scientific facts", "Hypothetical, imaginary, or highly unlikely present/future scenarios / سيناريوهات افتراضية خيالية أو مستبعدة.", "Past completed actions and regrets", "Continuous operational loops"],
+    "correctIndex": 1,
+    "explanation": "النوع الثاني يُبنى لمعالجة سيناريوهات افتراضية، خيالية، أو أحلام غير واقعية ومستبعدة الحدوث في الحاضر أو المستقبل."
+  },
+  {
+    "question": "What is the mathematical layout of the Type Two conditional formula?",
+    "options": ["If + Present Simple, Will + Base Verb", "If + Past Simple, Would + Base Verb", "If + Past Perfect, Would have + V3", "If + Present Simple, Present Simple"],
+    "correctIndex": 1,
+    "explanation": "معادلة النوع الثاني تعتمد على ترحيل الأزمنة للماضي: الماضي البسيط في الشرط، و would مع المصدر في النتيجة: If + Past Simple, Would + Base Verb."
+  },
+  {
+    "question": "In Type Two, what is the strict structural standard for the verb 'To Be' with all subjects (including I, He, She, It)?",
+    "options": ["was", "were / استخدام were للجميع في السياق الافتراضي الرسمي", "am", "been"],
+    "correctIndex": 1,
+    "explanation": "في السياقات الافتراضية الرسمية للنوع الثاني، نستخدم (were) مع جميع الضمائر بلا استثناء (مثل If I were / If he were) لإبراز الحالة الخيالية."
+  },
+  {
+    "question": "Complete the corporate hypothetical statement: 'If I _______ the CEO of this corporation, I would overhaul the entire operational pipeline.'",
+    "options": ["am", "was", "were", "had been"],
+    "correctIndex": 2,
+    "explanation": "بما أن الجملة خيالية وافتراضية في الحاضر (وجود would overhaul في النتيجة)، نستخدم الأداة القياسية الصارمة were."
+  },
+  {
+    "question": "Type Three (النوع الثالث) is exclusively engineered to address:",
+    "options": ["Future continuous actions.", "Past regrets and impossible scenarios because the time has already passed / سيناريوهات مستحيلة في الماضي وفوات الأوان.", "Scientific truths.", "General advice."],
+    "correctIndex": 1,
+    "explanation": "النوع الثالث يمثل بوابة الماضي المستحيل والمشاعر المرتبطة بالندم؛ حيث يعبر عن افتراض عكس ما حدث تماماً في ماضٍ انتهى وفات أوانه."
+  },
+  {
+    "question": "What is the technical formula for Type Three conditionals?",
+    "options": ["If + Past Simple, Would + Base Verb", "If + Past Perfect, Would have + Past Participle (V3)", "If + Present Simple, Will + Base Verb", "If + Past Perfect, Would + Base Verb"],
+    "correctIndex": 1,
+    "explanation": "معادلة الماضي المستحيل (Type Three) تتطلب تركيباً معقداً: الماضي التام في الشرط، و would have مع التصريف الثالث في النتيجة."
+  },
+  {
+    "question": "Complete the historical audit statement: 'If the team _______ the security patch earlier, the hackers would not have breached the database.'",
+    "options": ["deploys", "deployed", "had deployed", "have deployed"],
+    "correctIndex": 2,
+    "explanation": "جملة النتيجة تحتوي على (would not have breached) وهي علامة النوع الثالث، مما يعني أن الفراغ يحتاج لماضي تام (had deployed)."
+  },
+  {
+    "question": "What is a 'Mixed Conditional' (الحالة المختلطة) as described in the blueprint?",
+    "options": ["Mixing Type Zero with Type One.", "An advanced structure where the time of the condition differs from the time of the result / اختلاف زمن الشرط عن زمن النتيجة.", "A sentence that uses multiple 'If' clauses.", "Using negative and positive verbs together."],
+    "correctIndex": 1,
+    "explanation": "الجمل الشرطية المختلطة هي تراكيب هندسية متقدمة يحدث فيها تمايز زمني؛ بحيث يكون الشرط في زمن (كالماضي التام) والنتيجة في زمن آخر (كالحاضر المستمر)."
+  },
+  {
+    "question": "Identify the blueprint mix of [Past Action affecting Present Result]:",
+    "options": ["If + Past Perfect, Would + Base Verb", "If + Past Simple, Would have + V3", "If + Present Simple, Present Simple", "If + Past Simple, Will + Base Verb"],
+    "correctIndex": 0,
+    "explanation": "عندما يؤثر حدث في الماضي على وضعك الحالي في الحاضر، نستخدم تركيبة: If + Past Perfect (شرط ماضٍ)، ومعه Would + Base Verb (نتيجة حاضرة)."
+  },
+  {
+    "question": "Complete the mixed conditional layout: 'If I had learned coding in college, I _______ a better job now.'",
+    "options": ["will have", "would have", "would have had", "had"],
+    "correctIndex": 1,
+    "explanation": "الشرط هنا ماضٍ تام (had learned) والنتيجة تؤثر على الوقت الحالي لوجود كلمة (now)، لذا نضع الصيغة الحاضرة للنتيجة الافتراضية وهى would have."
+  },
+  {
+    "question": "Identify the alternate conditional gateway that stands for 'If not' (إذا لم / إلا إذا):",
+    "options": ["Provided that", "As long as", "Unless / بوابة الاستثناء", "Suppose"],
+    "correctIndex": 2,
+    "explanation": "الكلمة (Unless) تمثل بوابة الاستثناء الكبرى في القواعد اللغوية، وتعمل كبديل مباشر لـ (If not)."
+  },
+  {
+    "question": "Complete the system protocol statement: 'The firewall will block all incoming packets _______ you grant explicit clearance.'",
+    "options": ["provided that", "as long as", "unless", "if"],
+    "correctIndex": 2,
+    "explanation": "المعنى السياقي يتطلب بوابة استثناء: سوف يحجب جدار الحماية الحزم **إلا إذا / إذا لم** تمنح تصريحاً صريحاً، وهو عمل Unless."
+  },
+  {
+    "question": "Which conditional gateway represents 'The Strict Condition Gateway' (بوابة الشرط الصارم)?",
+    "options": ["As long as", "Provided that / بشرط أساسي وصارم", "Unless", "If only"],
+    "correctIndex": 1,
+    "explanation": "التعبير (Provided that) يضع قيداً شرطياً رسمياً صارماً للغاية، ويعني (بشرط أساسي ومحدد)."
+  },
+  {
+    "question": "Complete the contractual statement: 'You can lead the international expansion project _______ you deliver the deliverables on time.'",
+    "options": ["unless", "provided that", "if not", "would"],
+    "correctIndex": 1,
+    "explanation": "الخيار الاحترافي لوضع شرط رسمي صارم في العقود والمشاريع هو استخدام الأداة البنائية provided that."
+  },
+  {
+    "question": "Which alternative gateway represents 'The Continuous Condition Path' (مسار الشرط المستمر والممتد طالما)?",
+    "options": ["Unless", "As long as / طالما أن الشرط قائم ومستمر", "Provided that", "Had"],
+    "correctIndex": 1,
+    "explanation": "التعبير (As long as) يعني (طالما) ويعبر عن مسار ممتد؛ حيث تظل النتيجة قائمة ومستمرة طالما كان الشرط فعالاً ومستقراً."
+  },
+  {
+    "question": "Complete the security statement: 'The system remains completely secure _______ the core firewall is active.'",
+    "options": ["unless", "as long as", "provided than", "would have"],
+    "correctIndex": 1,
+    "explanation": "يظل النظام آمناً **طالما أن** جدار الحماية نشط ومستمر، والأداة الرابطة المخصصة لهذا الاستمرار هي as long as."
+  },
+  {
+    "question": "What is the advanced engineering inversion technique 'Inversion' (أسلوب القلب) in Type Three?",
+    "options": ["Removing the main verb completely.", "Swapping the positions of [If] and [had], then deleting [If] completely / حذف If وقلب الفاعل مع had.", "Changing the whole clause into a question format.", "Moving the comma to the start of the sentence."],
+    "correctIndex": 1,
+    "explanation": "أسلوب القلب للمحترفين في النوع الثالث يعتمد على إزالة أداة الشرط If بالكامل، وعمل عملية مقاصة وتبادل أماكن بين الفاعل والفعل المساعد had لزيادة البلاغة الرسمية."
+  },
+  {
+    "question": "According to the inversion swap diagram, the phrase 'If I had known' becomes:",
+    "options": ["Had I known / لولا أنني علمت", "Known had I", "Did I had known", "I had known if"],
+    "correctIndex": 0,
+    "explanation": "تطبيقاً لمخطط التبادل (Swap Diagram)، نحذف If ونقلب لتصبح الصيغة البليغة الفخمة: Had I known."
+  },
+  {
+    "question": "Identify the highly formal and inverted version of 'If the team had deployed the patch...':",
+    "options": ["Had the team deployed the patch...", "Deployed the team had the patch...", "Did the team had deployed the patch...", "Unless the team had deployed the patch..."],
+    "correctIndex": 0,
+    "explanation": "الصيغة المقلوبة الاحترافية تبدأ بالفعل المساعد التام مباشرة بعد حذف أداة الشرط: Had the team deployed the patch."
+  },
+  {
+    "question": "What is the main diagnosis for the structural error in: 'If I will see him, I will tell him'?",
+    "options": ["The sentence needs a past perfect verb.", "Double future error: 'Will' cannot be placed inside the 'If clause' / خطأ المستقبل المزدوج، لا نضع will في جملة الشرط.", "The comma is missing in the middle.", "The main verb must be in V3 form."],
+    "correctIndex": 1,
+    "explanation": "يُحظر وضع أداة الاستقبال المستقبلية will داخل نطاق وجملة الشرط (If clause)؛ فجملة الشرط في النوع الأول يجب أن تظل مضارعاً بسيطاً."
+  },
+  {
+    "question": "Fix the structural error in this condition statement: 'If the system will crash, we lose data.'",
+    "options": ["If the system crashes, we lose data.", "If the system crashes, we would lose data.", "If the system will crash, we will lose data.", "Had the system crashed, we lose data."],
+    "correctIndex": 0,
+    "explanation": "بإزالة will من جملة الشرط وتحويلها لمضارع بسيط متوافق مع المفرد (crashes)، تستقيم هندسة الجملة الصفريّة الصحيحة تماماً."
+  },
+  {
+    "question": "What is the visual indicator slider percentage assigned to Type Two conditional probability?",
+    "options": ["100% Probability", "50% Probability / احتمالية منخفضة أو افتراضية", "0% Impossibility", "80% Strong expectation"],
+    "correctIndex": 1,
+    "explanation": "مؤشر الاحتمالية البصري يضع النوع الثاني في نطاق الخيال والافتراض والاحتمالات المستبعدة والمنخفضة نظراً لعدم واقعيتها الحالية."
+  }
+]

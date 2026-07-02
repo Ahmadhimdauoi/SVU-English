@@ -1,46 +1,50 @@
-import React, { useState, useCallback } from "react";
-import { TestState, TestResult, Question } from "./types";
+import React, { useState, useCallback, useMemo } from "react";
+import { TestState, TestResult, Question, TestInfo, LevelInfo } from "./types";
 import WelcomeScreen from "./components/WelcomeScreen";
+import TestSelection from "./components/TestSelection";
 import Quiz from "./components/Quiz";
 import Results from "./components/Results";
 
-// Individual level data
-import { level1Questions } from "./data/level1";
-import { level2Questions } from "./data/level2";
-import { level3Questions } from "./data/level3";
-import { level4Questions } from "./data/level4";
-import { level5Questions } from "./data/level5";
+// Level configurations and tests
+import { level1Tests } from "./data/level1/level1";
+import { level2Tests } from "./data/level2/level2";
+import { level3Tests } from "./data/level3/level3";
+import { level4Tests } from "./data/level4/level4";
+import { level5Tests } from "./data/level5/level5";
 
 const App: React.FC = () => {
   const [appState, setAppState] = useState<TestState>("WELCOME");
   const [activeQuestions, setActiveQuestions] = useState<Question[]>([]);
   const [testResult, setTestResult] = useState<TestResult | null>(null);
+  const [selectedLevelId, setSelectedLevelId] = useState<number | null>(null);
+  const [selectedTest, setSelectedTest] = useState<TestInfo | null>(null);
 
-  const shuffleArray = <T,>(array: T[]): T[] => {
-    return [...array].sort(() => Math.random() - 0.5);
-  };
+  const levelsData: Record<number, LevelInfo> = useMemo(() => ({
+    1: { id: 1, title: "Level 1", desc: "Elementary", tests: level1Tests },
+    2: { id: 2, title: "Level 2", desc: "Pre-Intermediate", tests: level2Tests },
+    3: { id: 3, title: "Level 3", desc: "Intermediate", tests: level3Tests },
+    4: { id: 4, title: "Level 4", desc: "Upper-Intermediate", tests: level4Tests },
+    5: { id: 5, title: "Level 5", desc: "Advanced", tests: level5Tests },
+  }), []);
 
-  const getQuestionsByLevel = (level: number): Question[] => {
-    switch (level) {
-      case 1:
-        return level1Questions;
-      case 2:
-        return level2Questions;
-      case 3:
-        return level3Questions;
-      case 4:
-        return level4Questions;
-      case 5:
-        return level5Questions;
-      default:
-        return level1Questions;
-    }
-  };
+  const levelCounts: Record<number, number> = useMemo(() => {
+    return {
+      1: level1Tests.length,
+      2: level2Tests.length,
+      3: level3Tests.length,
+      4: level4Tests.length,
+      5: level5Tests.length,
+    };
+  }, []);
 
-  const startTest = useCallback((level: number) => {
-    const rawQuestions = getQuestionsByLevel(level);
-    // const shuffled = shuffleArray(rawQuestions); // Shuffle disabled for now
-    setActiveQuestions(rawQuestions);
+  const selectLevel = useCallback((levelId: number) => {
+    setSelectedLevelId(levelId);
+    setAppState("TEST_SELECTION");
+  }, []);
+
+  const startTest = useCallback((test: TestInfo) => {
+    setSelectedTest(test);
+    setActiveQuestions(test.questions);
     setAppState("QUIZ");
   }, []);
 
@@ -95,8 +99,19 @@ const App: React.FC = () => {
         )}
       </header>
 
-      <main className="flex-grow flex items-start justify-center pt-8 pb-12 px-4 md:px-8">
-        {appState === "WELCOME" && <WelcomeScreen onStart={startTest} />}
+      <main className="flex-grow flex items-start justify-center pt-8 pb-12 px-4 md:px-8 w-full max-w-7xl mx-auto">
+        {appState === "WELCOME" && (
+          <WelcomeScreen onStart={selectLevel} levelCounts={levelCounts} />
+        )}
+        {appState === "TEST_SELECTION" && selectedLevelId && (
+          <TestSelection
+            levelTitle={levelsData[selectedLevelId].title}
+            levelDesc={levelsData[selectedLevelId].desc}
+            tests={levelsData[selectedLevelId].tests}
+            onSelectTest={startTest}
+            onBack={() => setAppState("WELCOME")}
+          />
+        )}
         {appState === "QUIZ" && (
           <Quiz questions={activeQuestions} onComplete={completeTest} />
         )}

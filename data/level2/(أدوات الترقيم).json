@@ -1,0 +1,182 @@
+[
+  {
+    "question": "What is the core metaphor used to describe punctuation marks in the blueprint?",
+    "options": ["They are just decoration.", "They act as the text's body language and tone of voice / لغة الجسد ونبرة الصوت للنص.", "They are mathematical equations.", "They replace nouns and verbs."],
+    "correctIndex": 1,
+    "explanation": "يوضح الدليل أن علامات الترقيم هي بمثابة لغة الجسد ونبرة الصوت للنص المكتوب، وهي التي تخبر القارئ متى يتوقف ويتنفس وينتبه."
+  },
+  {
+    "question": "What is the primary architectural function of the 'Comma' (الفاصلة)?",
+    "options": ["To close a sentence completely.", "To connect paragraphs only.", "To separate list elements, follow introductory phrases, and separate independent clauses with conjunctions.", "To express extreme emotional shocks."],
+    "correctIndex": 2,
+    "explanation": "وظيفة الفاصلة هي إعطاء استراحة قصيرة لالتقاط الأنفاس عبر فصل عناصر القوائم، أو بعد العبارات التمهيدية، أو لربط جملتين مستقلتين مع أداة ربط."
+  },
+  {
+    "question": "In the list 'To improve sales, we need better marketing, skilled developers, and clear goals', the comma before 'and' is called:",
+    "options": ["The Introductory Comma", "The Oxford Comma / فاصلة أوكسفورد", "The Semicolon replacement", "The Floating Comma"],
+    "correctIndex": 1,
+    "explanation": "الفاصلة التي توضع قبل أداة الربط الأخيرة في القائمة تسمى بفاصلة أوكسفورد (Oxford Comma) لضمان عدم اختلاط العناصر الأخيرة."
+  },
+  {
+    "question": "Complete the sentence with correct introductory comma placement: '_______ we need to re-evaluate our deployment strategy.'",
+    "options": ["To improve performance", "To improve performance,", "To improve performance;", "To improve performance."],
+    "correctIndex": 1,
+    "explanation": "بعد العبارات أو الأشباه الجمل التمهيدية (Introductory phrases) التي تبدأ بها الجملة، يجب وضع فاصلة للفصل."
+  },
+  {
+    "question": "Which punctuation mark represents 'The Total Stop' (التوقف التام) for declarative sentences?",
+    "options": ["The Comma", "The Semicolon", "The Period (Full Stop) / النقطة", "The Colon"],
+    "correctIndex": 2,
+    "explanation": "النقطة (Period/Full Stop) هي المسؤولة عن التوقف التام وإغلاق الفكرة والجمل الخبرية تماماً."
+  },
+  {
+    "question": "Aside from closing sentences, where else is the Period commonly used?",
+    "options": ["To show ownership.", "In abbreviations and titles / في الاختصارات والألقاب.", "To separate items in a shopping list.", "Before direct structural quotes."],
+    "correctIndex": 1,
+    "explanation": "تُستخدم النقطة أيضاً في كتابة الاختصارات والألقاب الرسمية والأكاديمية (مثل .Dr أو .Mr)."
+  },
+  {
+    "question": "What is the golden rule for using a 'Semicolon' (الفاصلة المنقوطة) between two sentences?",
+    "options": ["The two sentences must be completely unrelated.", "It must connect two independent, closely related clauses without a coordinating conjunction / جملتين مستقلتين مرتبطتين بالمعنى دون أداة ربط.", "It requires an introductory preposition.", "It always ends with an exclamation mark."],
+    "correctIndex": 1,
+    "explanation": "الفاصلة المنقوطة تربط جملتين كاملتين مستقلتين ومرتبطتين بقوة في المعنى دون الحاجة لاستخدام أدوات ربط مثل and أو but."
+  },
+  {
+    "question": "Identify the correct usage of a Semicolon from the following options:",
+    "options": ["The project is delayed, we need more time.", "The project is delayed; we need more time.", "The project is delayed; but we need more time.", "The project is delayed we need; more time."],
+    "correctIndex": 1,
+    "explanation": "الخيار الثاني صحيح لأن السيميكولون ربطت جملتين مستقلتين مرتبطتين بالمعنى، بينما الخيار الثالث خاطئ بسبب جمعها مع أداة الربط 'but'."
+  },
+  {
+    "question": "The 'Colon' (النقطتان الرأسيتان) functions fundamentally as a tool for:",
+    "options": ["A short breath stop.", "Preparation and disclosure (Lists, explanations, or direct quotes) / التمهيد والكشف عن تفاصيل أو قوائم.", "Ending a question architecture.", "Showing possession for plural nouns."],
+    "correctIndex": 1,
+    "explanation": "النقطتان الرأسيتان تعمل كأداة للتمهيد والإعلان عما سيأتي بعدها، مثل القوائم، التفسيرات، أو الاقتباسات المباشرة."
+  },
+  {
+    "question": "Complete the structural sentence: 'The core components of the network are as follows _______ routers, switches, and fiber cables.'",
+    "options": [",", ";", ":", "..."],
+    "correctIndex": 2,
+    "explanation": "نضع النقطتين الرأسيتين (:) لأن الجملة تمهد للكشف عن قائمة مكونات تفصيلية تفصل بينها الفواصل."
+  },
+  {
+    "question": "What is the specific architectural purpose of 'Hyphen' (الواصلة القصيرة -)?",
+    "options": ["To isolate an intermediate explanatory sentence.", "To merge two or more words to create a compound modifier / دمج كلمتين أو أكثر لصناعة صفة مركبة.", "To end a dramatic quote.", "To replace a missing text block."],
+    "correctIndex": 1,
+    "explanation": "تُستخدم الواصلة القصيرة (Hyphen) لربط ودمج الكلمات لتشكل معناً أو صفة مركبة واحدة مثل user-friendly أو up-to-date."
+  },
+  {
+    "question": "Choose the correct compound modifier structure using a hyphen:",
+    "options": ["We built an up to date system.", "We built an up-to-date system.", "We built an up;to;date system.", "We built an up.to.date system."],
+    "correctIndex": 1,
+    "explanation": "تُستخدم الواصلات القصيرة لربط (up-to-date) لأنها تعمل كصفة مركبة تسبق الموصوف (system)."
+  },
+  {
+    "question": "What is the role of 'Dash' (الواصلة الطويلة —) in advanced sentence engineering?",
+    "options": ["To connect abbreviations.", "To create a sudden dramatic stop or encapsulate an explanatory clause / إحداث توقف مفاجئ أو احتواء جملة تفسيرية.", "To end a direct question.", "To replace the Oxford Comma."],
+    "correctIndex": 1,
+    "explanation": "الواصلة الطويلة (Dash) تُشبه الأقواس في عملها؛ حيث تُستخدم لعزل جملة تفسيرية أو إحداث توقف مفاجئ يشد انتباه القارئ."
+  },
+  {
+    "question": "Complete the sentence with an impressive structural dash: 'The upgrade cost us a fortune _______ millions of dollars _______ but it saved the firm.'",
+    "options": [", / ,", "— / —", "; / ;", ". / ."],
+    "correctIndex": 1,
+    "explanation": "استخدام الواصلة الطويلة المزدوجة (—) هنا مثالي لاحتواء وعزل الجملة الاعتراضية التفسيرية (millions of dollars) لرفع قوة الإيقاع."
+  },
+  {
+    "question": "The primary function of 'Quotation Marks' (علامات الاقتباس) is to:",
+    "options": ["Show the emotional state of the writer.", "Enclose exact verbal words or text cited directly from a source / احتواء الكلمات المنقولة بحذافيرها.", "Highlight compound adjectives.", "Connect two independent thoughts."],
+    "correctIndex": 1,
+    "explanation": "تُستخدم علامات الاقتباس لاحتواء النصوص والكلمات المقتبسة أو المنقولة مباشرة بحذافيرها من مصدر أو متحدث آخر."
+  },
+  {
+    "question": "According to the professional secret shared by Professor Emad Oday regarding American English rule:",
+    "options": ["Periods and commas always go outside quotation marks.", "Periods and commas always go inside quotation marks / النقطة والفاصلة توضع دائماً بالداخل.", "Semicolons are never allowed near quotes.", "Exclamation marks must be doubled inside quotes."],
+    "correctIndex": 1,
+    "explanation": "السر الاحترافي في الإنجليزية الأمريكية هو أن النقطة والفاصلة توضعان دائماً **داخل** علامات الاقتباس (مثل: \".Quality is our top priority\")"
+  },
+  {
+    "question": "What does the 'Ellipsis' (...) represent in text architecture?",
+    "options": ["A state of absolute excitement.", "A deleted section of text or a pause reflecting deep thinking / جزء محذوف من النص أو توقف للتفكير والتردد.", "An upcoming structural list.", "A replacement for compound nouns."],
+    "correctIndex": 1,
+    "explanation": "علامة الحذف (Ellipsis) المكونة من ثلاث نقاط تعبر عن جزء محذوف من النص الأصلي أو وقفة صمت تعكس التفكير العميق والتردد."
+  },
+  {
+    "question": "Complete the sentence to reflect professional hesitation: 'I reviewed the initial data _______ and the results are quite concerning.'",
+    "options": ["!", "?", "...", ";"],
+    "correctIndex": 2,
+    "explanation": "استخدام علامة الحذف (...) يعطي الانطباع البصري واللحني بالتوقف المليء بالتردد والتفكير المقلق بشأن النتائج."
+  },
+  {
+    "question": "The 'Exclamation Mark' (!) is engineered to inject what into a sentence?",
+    "options": ["A question format.", "An emotional charge, extreme urgency, or a firm command / شحنة عاطفية، تحذير أو أمر حازم.", "An abbreviation notation.", "An equal balancing link."],
+    "correctIndex": 1,
+    "explanation": "علامة التعجب توضع لإعطاء شحنة عاطفية قوية للنص، أو للتعبير عن أمر حازم أو تحذير طارئ."
+  },
+  {
+    "question": "Identify the correct punctuation for an urgent alert system notification:",
+    "options": ["Warning: Unauthorized access detected?", "Warning: Unauthorized access detected.", "Warning: Unauthorized access detected!", "Warning; Unauthorized access detected..."],
+    "correctIndex": 2,
+    "explanation": "بما أن الجملة عبارة عن تحذير عاجل وخطير (Warning)، فإن علامة التعجب (!) هي الخيار الهندسي المتوافق لإبراز خطورة الموقف."
+  },
+  {
+    "question": "Which punctuation mark is strictly designed to terminate direct questions?",
+    "options": ["The Period", "The Semicolon", "The Question Mark / علامة الاستفهام", "The Dash"],
+    "correctIndex": 2,
+    "explanation": "علامة الاستفهام (?) هي الأداة الحصرية لإنهاء وصياغة الأسئلة المباشرة التي تبحث عن إجابات."
+  },
+  {
+    "question": "What are the dual functions of the 'Apostrophe' (الفاصلة العليا ') according to the blueprint?",
+    "options": ["Lists and Quotations", "Possession and Contraction / الملكية والاختصار", "Pillars and Extensions", "Pauses and Stops"],
+    "correctIndex": 1,
+    "explanation": "الفاصلة العليا (Apostrophe) لها وظيفتان رئيسيتان: إثبات ملكية الأشياء (Possession)، أو دمج الكلمات واختصارها (Contraction)."
+  },
+  {
+    "question": "Complete the singular possession sentence: 'The _______ decision was final and could not be altered.'",
+    "options": ["managers", "manager's", "managers'", "manageris"],
+    "correctIndex": 1,
+    "explanation": "لإثبات ملكية القرار لمدير واحد مفرد (Singular possession)، نضع الفاصلة العليا متبوعة بحرف s لتكون manager's."
+  },
+  {
+    "question": "If the word is a regular plural ending already in (s) like 'developers', how do we show possession?",
+    "options": ["Add ('s) -> developers's", "Add an apostrophe only at the end -> developers' / إضافة فاصلة عليا فقط في النهاية", "Add a hyphen before the s", "Use a semicolon before the s"],
+    "correctIndex": 1,
+    "explanation": "الأسماء الجمع المنتظمة التي تنتهي أصلاً بحرف s، نضع لها علامة الفاصلة العليا (') في النهاية فقط دون إضافة s أخرى."
+  },
+  {
+    "question": "Complete the contraction statement: '_______ clear that we don't have enough time to shift priorities.'",
+    "options": ["Its", "It's", "It is'", "Its'"],
+    "correctIndex": 1,
+    "explanation": "الكلمة هنا تعني (It is) مدمجة ومختصرة، والاختصار الصحيح لها هيكلياً هو وضع الفاصلة العليا لتكون It's."
+  },
+  {
+    "question": "According to the Stop Matrix, which mark represents a 'Weak Stop' (قوة توقف ضعيفة)?",
+    "options": ["The Period", "The Semicolon", "The Comma / الفاصلة", "The Colon"],
+    "correctIndex": 2,
+    "explanation": "مصفوفة التوقف تصنف الفاصلة (Comma) كقوة توقف ضعيفة تعمل كاستراحة قصيرة جداً داخل الجملة."
+  },
+  {
+    "question": "According to the Stop Matrix, which mark represents a 'Medium Stop' (قوة توقف متوسطة)?",
+    "options": ["The Comma", "The Semicolon / الفاصلة المنقوطة", "The Period", "The Exclamation Mark"],
+    "correctIndex": 1,
+    "explanation": "تُمثل الفاصلة المنقوطة (Semicolon) قوة توقف متوسطة (نصف نقطة)، تربط أفكاراً مكتملة البناء دون أدوات ربط."
+  },
+  {
+    "question": "What is the technical diagnosis for a 'Comma Splice' error?",
+    "options": ["Forgetting to use an apostrophe in a contraction.", "Separating two complete independent thoughts using only a comma without a conjunction / فصل جملتين مستقلتين بفاصلة فقط دون أداة ربط.", "Putting a period inside quotation marks.", "Using a hyphen instead of a dash."],
+    "correctIndex": 1,
+    "explanation": "خطأ الـ Comma Splice يحدث عند الربط بين جملتين كاملتين مستقلتين بفاصلة وحيدة مجردة دون وضع أداة ربط عطف (مثل and/but)، وهو خطأ إنشائي شائع."
+  },
+  {
+    "question": "Identify the correct way to fix a Comma Splice according to the matrix guide:",
+    "options": ["The deadline was tight, the team delivered on time.", "The deadline was tight, but the team delivered on time. / إضافة أداة ربط بعد الفاصلة", "The deadline was tight but the team delivered on time.", "The deadline was tight: the team delivered on time."],
+    "correctIndex": 1,
+    "explanation": "إصلاح خطأ الفاصلة يكون بإضافة أداة ربط مناسبة مثل (but) بعد الفاصلة لتتوازن هندسة الجملة المزدوجة."
+  },
+  {
+    "question": "What is the macro purpose of mastering the Punctuation Blueprint?",
+    "options": ["To increase the length of written articles.", "To control the rhythm of sentences and convey ideas with absolute structural clarity / التحكم في إيقاع الجمل وإيصال الفكرة بوضوح.", "To study ancient English grammar literature.", "To avoid writing verbs entirely."],
+    "correctIndex": 1,
+    "explanation": "الهدف الأسمى لهذا المخطط هو تمكين الكاتب من التحكم بإيقاع النص ومصفوفة التوقفات لتوصيل الفكرة المراد صياغتها بأعلى كفاءة ووضوح."
+  }
+]

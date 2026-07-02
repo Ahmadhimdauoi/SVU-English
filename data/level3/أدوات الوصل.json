@@ -1,0 +1,332 @@
+[
+  {
+    "question": "What are Relative Clauses (أدوات الوصل) fundamentally compared to in the guide?",
+    "options": [
+      "Decorative terminal adjectives.",
+      "Linguistic joints that fuse independent thoughts into a fluid, cohesive structure / مفاصل لغوية تدمج الأفكار بدقة بطلاقة احترافية.",
+      "Punctuation replacements.",
+      "Mathematical conditional sliders."
+    ],
+    "correctIndex": 1,
+    "explanation": "يوضح الدليل أن أدوات الوصل هي بمثابة 'مفاصل لغوية' تسمح بدمج الأفكار المبتدئة المتفرقة بدقة لبناء جمل مترابطة تعكس طلاقة احترافية."
+  },
+  {
+    "question": "Which relative pronoun is strictly engineered and dedicated to represent 'People' (الأشخاص)?",
+    "options": [
+      "Which",
+      "That",
+      "Who / هو حصرياً للأشخاص",
+      "Whose"
+    ],
+    "correctIndex": 2,
+    "explanation": "تُستخدم الأداة (Who) حصرياً للإشارة إلى الأشخاص وتعمل على ربط الحدث بصاحبه مباشرة متبوعة بفعل الحدث."
+  },
+  {
+    "question": "What is the precise structural equation for using 'Who' according to the blueprint?",
+    "options": [
+      "Noun (Person) + Who + [Verb/Action] / اسم شخص يليه هو ثم فعل الحدث",
+      "Noun (Thing) + Who + Subject",
+      "Who + Noun + Verb",
+      "Subject + Who + Preposition"
+    ],
+    "correctIndex": 0,
+    "explanation": "المعادلة اللغوية الصارمة لـ Who هي: [اسم الشخص/Noun] + [أداة الربط/Who] + [الحدث أو الفعل/Verb]."
+  },
+  {
+    "question": "Complete the professional connection sentence: 'The programmer _______ fixed the critical database bug is a genius.'",
+    "options": [
+      "which",
+      "who",
+      "whose",
+      "whom"
+    ],
+    "correctIndex": 1,
+    "explanation": "بما أن المستهدف هو المبرمج (شخص عاقل) متبوعاً بفعل أحدثه (fixed)، فإن المفصل اللغوي المتوافق هندسياً هو who."
+  },
+  {
+    "question": "Which relative pronouns are assigned to represent 'Things and Ideas' (الأشياء والأفكار)?",
+    "options": [
+      "Who / Whom",
+      "Which & That / ويتش وذات للأشياء والأفكار والجماد",
+      "Whose / Who",
+      "Where / When"
+    ],
+    "correctIndex": 1,
+    "explanation": "تُستخدم الكلمتان Which و That كروابط مخصصة لتعريف وتفصيل الأشياء، الأفكار، الجماد، والأنظمة التقنية."
+  },
+  {
+    "question": "Which pronoun is famously crowned as 'The Joker' (الجوكر) due to its flexibility in casual contexts?",
+    "options": [
+      "Which",
+      "Who",
+      "That / ذات الجوكر المرن للأشخاص والأشياء",
+      "Whose"
+    ],
+    "correctIndex": 2,
+    "explanation": "يُطلق الدليل على الأداة (That) لقب الجوكر (The Joker)؛ نظراً لمرونتها وقدرتها على الحلول محل Who للأشخاص أو Which للأشياء في السياقات الدارجة واليومية."
+  },
+  {
+    "question": "Complete the technical object sentence: 'The AI model _______ analyzes our market metrics is highly accurate.'",
+    "options": [
+      "who",
+      "which",
+      "whom",
+      "whose"
+    ],
+    "correctIndex": 1,
+    "explanation": "نموذج الذكاء الاصطناعي (AI model) هو نظام غير عاقل وفكرة تقنية، لذا الأداة الرابطة المخصصة له هي which."
+  },
+  {
+    "question": "What is the primary operational function of 'The Omission Filter' (فلتر الحذف)?",
+    "options": [
+      "To double the length of clauses.",
+      "To test whether a relative pronoun can be legally deleted from the sentence without harming its structure / اختبار جواز حذف أداة الوصل.",
+      "To convert active verbs to passive V3 state.",
+      "To enforce strict punctuation stops."
+    ],
+    "correctIndex": 1,
+    "explanation": "فلتر الحذف هو أداة فكرية متقدمة تختبر هندسياً ما إذا كان يمكن حذف أداة الوصل (Who/Which/That) لزيادة إيقاع وسرعة الجملة دون إحداث انهيار بنوي."
+  },
+  {
+    "question": "According to the Omission Filter diagram, what is the result if the word immediately following the pronoun is a 'Verb'?",
+    "options": [
+      "Deletion is completely allowed.",
+      "The Omission is Forbidden (الحذف ممنوع قطعياً) / لأن الأداة تعمل كفاعل للجملة",
+      "The verb must be changed to V-ing.",
+      "The sentence becomes a casual question."
+    ],
+    "correctIndex": 1,
+    "explanation": "إذا كان ما بعد الأداة مباشرة هو فعل (Verb)، فإن النتيجة الهندسية للفلتر هي: الحذف ممنوع (Forbidden)؛ لأن الأداة تعمل كفاعل أساسي للجملة وحذفها يكسر العمود الفقري لها."
+  },
+  {
+    "question": "According to the Omission Filter diagram, what is the result if the word immediately following the pronoun is a 'Subject'?",
+    "options": [
+      "The Omission is Allowed (الحذف مسموح ومجاز) / لأن الأداة تعمل كمفعول به",
+      "Deletion is strictly illegal.",
+      "The subject must be deleted as well.",
+      "The clause turns into an abstract noun."
+    ],
+    "correctIndex": 0,
+    "explanation": "إذا لحق الأداة فاعل صريح (مثل I, he, the manager)، فإن النتيجة الفلترية هي: الحذف مسموح (Allowed)؛ لأن الأداة تعمل كمفعول به وحذفها يعطي إيقاعاً أسرع وأكثر احترافية للمحادثات."
+  },
+  {
+    "question": "Examine this sentence: 'The engineer who fixed the server is brilliant.' Can we delete 'who'?",
+    "options": [
+      "Yes, it is perfectly allowed.",
+      "No, it is strictly Forbidden because a verb 'fixed' follows it / الحذف ممنوع لأن ما بعدها فعل.",
+      "Yes, if we change the verb to past perfect.",
+      "Yes, because engineers are people."
+    ],
+    "correctIndex": 1,
+    "explanation": "بتطبيق الفلتر، نجد أن ما بعد 'who' هو فعل (fixed)، وبالتالي فإن الحذف ممنوع منعاً باتاً (Forbidden)."
+  },
+  {
+    "question": "Examine this sentence: 'The report that she wrote is excellent.' Can we delete 'that'?",
+    "options": [
+      "No, deletion is forbidden.",
+      "Yes, it is Allowed because a subject 'she' follows it / مسموح للحوق الفاعل بها ويعطي إيقاعاً أسرع",
+      "No, because 'that' is the joker.",
+      "Only if we convert the text to academic formal."
+    ],
+    "correctIndex": 1,
+    "explanation": "بما أن ما بعد أداة الوصل 'that' هو فاعل صريح (she)، فإن فلتر الحذف يعطي الضوء الأخضر: الحذف مسموح لتصبح الجملة 'The report she wrote is excellent'."
+  },
+  {
+    "question": "According to 'The Politeness Ladder' (سلم الرسمية)، which structure represents the absolute peak of Academic and Very Formal English?",
+    "options": [
+      "The project that we are working on...",
+      "The project we are working on...",
+      "The project on which we are working... / تقديم حرف الجر قبل ويتش صعوداً لأعلى سلم الرسمية",
+      "The project which we are working on..."
+    ],
+    "correctIndex": 2,
+    "explanation": "قمة سلم الرسمية الأكاديمية (Very Formal) تتحقق هندسياً بسحب وحمل حرف الجر من نهاية الجملة ووضعه متصدراً مباشرة قبل أداة الوصل ويتش: on which."
+  },
+  {
+    "question": "According to the Politeness Ladder, which structure is crowned as the 'Most Common and Fluent' in natural workspace conversations?",
+    "options": [
+      "The project on which we are working...",
+      "The project we are working on... / الحذف الكامل للأداة وهو النمط الأكثر شيوعاً وانسيابية",
+      "The project that we are working on...",
+      "The project which we are working on..."
+    ],
+    "correctIndex": 1,
+    "explanation": "قاعدة السلم توضح أن الحذف الكامل للأداة (The project we are working on...) يقع في قاعدة السلم كأكثر الأنماط انسيابية، سرعة، وشيوعاً بين المحترفين في النقاشات اليومية."
+  },
+  {
+    "question": "What happens as you climb UP the levels of the Politeness Ladder?",
+    "options": [
+      "The text becomes faster and more casual.",
+      "The text becomes highly academic, structurally dense, and strictly formal / يزداد النص رسمية وكثافة وبلاغة أكاديمية.",
+      "The relative pronouns are deleted.",
+      "The main verb transitions into a gerund idiom."
+    ],
+    "correctIndex": 1,
+    "explanation": "كلما صعدت سلم الرسمية لأعلى، زادت رسمية النص وبلاغته المعمارية، وكلما نزلت لأسفل، أصبحت اللغة طبيعية، سريعة، ودارجة أكثر."
+  },
+  {
+    "question": "Complete the highly academic and formal statement (Peak of the Ladder): 'The economic framework _______ which the committee voted is revolutionary.'",
+    "options": [
+      "that",
+      "on which / قمة السلم بحرف الجر المتقدم",
+      "which on",
+      "who"
+    ],
+    "correctIndex": 1,
+    "explanation": "لصياغة جملة تتربع في ذروة الرسمية الأكاديمية الصارمة، نتقدم بحرف الجر ليكون قبل الأداة مباشرة: on which."
+  },
+  {
+    "question": "What is the technical purpose of using 'Quantifiers with Relative Clauses' (المحددات التخصيصية)?",
+    "options": [
+      "To bypass the Omission Filter completely.",
+      "To isolate and specify a precise part or fraction of a whole collective group / تخصيص جزء محدد من مجموعة كبرى.",
+      "To substitute zero conditional scenarios.",
+      "To remove punctuation marks from complex lines."
+    ],
+    "correctIndex": 1,
+    "explanation": "تُستخدم المحددات المتقدمة (مثل all of whom أو some of which) كأدوات هندسية لتخصيص جزء فرعي محدد وعزله من مجموعة كبرى تم ذكرها."
+  },
+  {
+    "question": "Complete the advanced group-targeting statement for things: 'We dispatched ten data packets, _______ arrived safely at the server node.'",
+    "options": [
+      "all of whom",
+      "all of which / تخصيص الأشياء غير العاقلة بالكامل",
+      "none of whom",
+      "which all of"
+    ],
+    "correctIndex": 1,
+    "explanation": "بما أن المستهدف هو الحزم البرمجية (data packets) وهي غير عاقل، ونريد إثبات وصولها بالكامل، نستخدم الأداة المخصصة للتخصيص غير العاقل: all of which."
+  },
+  {
+    "question": "Complete the advanced group-targeting statement for people: 'The firm onboarded five security consultants, _______ possess deep cryptographic mastery.'",
+    "options": [
+      "some of which",
+      "some of whom / تخصيص جزء فرعي من مجموعة أشخاص عاقلة",
+      "all of which",
+      "none of which"
+    ],
+    "correctIndex": 1,
+    "explanation": "المستهدف هنا هم مستشارو الأمن (أشخاص عاقلون)، ونريد الإشارة وتخصيص جزء منهم (بعضهم)، لذا نستخدم الأداة المناسبة للعاقل التخصيصي: some of whom."
+  },
+  {
+    "question": "Complete the phrase displaying total failure for people: 'The human resources division interviewed ten developers, _______ passed the primary technical evaluation.'",
+    "options": [
+      "none of which",
+      "none of whom / نفي وتصفير النجاح لمجموعة عاقلة",
+      "some of whom",
+      "all of which"
+    ],
+    "correctIndex": 1,
+    "explanation": "نريد نفي وتصفير النجاح لعشرة من المطورين (أشخاص عاقلون)، والمحدد الهيكلي الصارم المخصص لنفي فئة العاقل بالكامل هو none of whom."
+  },
+  {
+    "question": "Which relative pronoun is strictly engineered to unlock and reveal 'Ownership and Possession' (الملكية والتبعية)?",
+    "options": [
+      "Who",
+      "Whom",
+      "Whose / هوز لربط ملكية الاسم الثاني بالأول",
+      "Which"
+    ],
+    "correctIndex": 2,
+    "explanation": "أداة الاستفهام والوصل (Whose) هي المفتاح المخصص هندسياً لربط إثبات ملكية وتبعية الاسم الذي يليها للاسم الذي يسبقها مباشرة."
+  },
+  {
+    "question": "Complete the structural ownership query: 'The corporation, _______ digital infrastructure was compromised, faced stock devaluation.'",
+    "options": [
+      "which",
+      "that",
+      "whose / لإثبات ملكية وتبعية البنية التحتية للمؤسسة",
+      "whom"
+    ],
+    "correctIndex": 2,
+    "explanation": "البنية التحتية الرقمية تابعة ومملوكة للمؤسسة المذكورة، والربط الإنشائي الصحيح لإثبات هذه التبعية والملكية يتم عبر هوز (whose)."
+  },
+  {
+    "question": "When do we use 'Whom' instead of 'Who' in strict traditional grammar architecture?",
+    "options": [
+      "When the person is singular.",
+      "When the person functions as the Object of the clause / عندما يقع الشخص موقع المفعول به وليس الفاعل.",
+      "When the clause describes a time deadline.",
+      "Whom is used only for inanimate technical objects."
+    ],
+    "correctIndex": 1,
+    "explanation": "في القواعد التقليدية الصارمة، تُستخدم Whom عندما يقع الشخص المستهدف موقع المفعول به (Object) داخل جملة الوصل وليس الفاعل الأصلي لها."
+  },
+  {
+    "question": "Complete the sentence obeying strict formal object placeholder rule: 'The senior consultant, with _______ I negotiated the master contract, has resigned.'",
+    "options": [
+      "who",
+      "whom / حارس مكان المفعول به العاقل بعد حرف الجر",
+      "which",
+      "whose"
+    ],
+    "correctIndex": 1,
+    "explanation": "بما أن المستشار وقع مفعولاً به (تم التفاوض معه) مسبوقاً بحرف جر مباشر (with)، فإن الأداة الكلاسيكية الصارمة المخصصة له هي whom."
+  },
+  {
+    "question": "Which relative pronoun is explicitly dedicated to unlock info about a physical 'Place' (المكان)?",
+    "options": [
+      "When",
+      "Where / وير للمكان والنطاق الجغرافي",
+      "Which",
+      "That"
+    ],
+    "correctIndex": 1,
+    "explanation": "تُستخدم الأداة (Where) كحارس ومفصل لغوي مخصص للاستعلام وربط الأماكن والنطاقات الجغرافية والمساحات المكشوفة والمغلقة."
+  },
+  {
+    "question": "Complete the spatial connection: 'This is the server secure zone _______ the cloud partition files are stored.'",
+    "options": [
+      "which",
+      "when",
+      "where",
+      "that"
+    ],
+    "correctIndex": 2,
+    "explanation": "منطقة السيرفرات (secure zone) تعبر عن نطاق ومكان، والمفصل اللغوي المتوافق مع تعريف المكان هو حيثما / وير (where)."
+  },
+  {
+    "question": "Which relative pronoun is explicitly dedicated to unlock info about a 'Time/Period' (الزمان)?",
+    "options": [
+      "Where",
+      "When / وين للزمان والمحطات التاريخية والمواعيد",
+      "Which",
+      "Whose"
+    ],
+    "correctIndex": 1,
+    "explanation": "تُستخدم الأداة (When) كمفصل لغوي مخصص لربط وتحديد الزمان، الفترات التاريخية، والمحطات والمواعيد النهائية."
+  },
+  {
+    "question": "Complete the temporal timeline phrase: '2020 was the disruptive year _______ the entire corporation shifted to decentralized remote operations.'",
+    "options": [
+      "where",
+      "when",
+      "which",
+      "that on"
+    ],
+    "correctIndex": 1,
+    "explanation": "العام 2020 يمثل نقطة ومحطة زمنية تاريخية، لذا نربط تفاصيلها باستخدام الأداة الدالة على الزمان وهي عندما / وين (when)."
+  },
+  {
+    "question": "Identify the primary danger or structural flaw of making 'Choppy Sentences' (الجمل المبتدئة المتفرقة) according to the cover intro:",
+    "options": [
+      "They look too academic for casual chats.",
+      "They break flow, sound childish/basic, and reflect a fragmented control over language coordination / تقطع حبل الأفكار وتبدو كلغة مبتدئة ركيكة.",
+      "They lack punctuation periods.",
+      "They always trigger double comparative errors."
+    ],
+    "correctIndex": 1,
+    "explanation": "الجمل المبتدئة المتفرقة القاتلة تفرق المعنى وتقطع حبل الأفكار، مما يوحي بضعف التنسيق اللغوي وصعوبة صياغة تراكيب متكاملة وسلسة."
+  },
+  {
+    "question": "What is the final milestone or ultimate objective of mastering the Sentence Engineering Blueprint?",
+    "options": [
+      "To simplify long adjectives into basic components.",
+      "To transform fragmented thoughts into elegant, high-impact, and structurally advanced architectural sentences / صياغة جمل متقدمة ومترابطة بطلاقة واحترافية.",
+      "To stop using relative pronouns entirely.",
+      "To reduce the capacity of compound modifiers."
+    ],
+    "correctIndex": 1,
+    "explanation": "الهدف الأسمى والنهائي للمخطط الشامل هو نقل الكاتب من مرحلة الجمل المبتدئة المفككة إلى مرتبة الطلاقة المعمارية لصياغة أفكار مركبة، متلاحمة، وذات تأثير مهني رفيع المستوى."
+  }
+]
