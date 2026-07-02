@@ -18,25 +18,25 @@ const WelcomeScreen: React.FC<WelcomeScreenProps> = ({ onStart, levelCounts }) =
   ];
 
   return (
-    <div className="flex flex-col items-center justify-center min-h-[70vh] text-center px-4 w-full">
-      <div className="mb-8 p-6 bg-blue-50 rounded-full">
-         <svg className="w-16 h-16 text-blue-900" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+    <div className="flex flex-col items-center justify-center min-h-[70vh] text-center px-2 sm:px-4 w-full">
+      <div className="mb-6 p-4 sm:p-6 bg-blue-50 rounded-full">
+         <svg className="w-12 h-12 sm:w-16 sm:h-16 text-blue-900" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
             <path d="M12 14l9-5-9-5-9 5 9 5z"></path>
             <path d="M12 14l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14z"></path>
             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 14l9-5-9-5-9 5 9 5zm0 0l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14zm-4 6v-7.5l4-2.222"></path>
          </svg>
       </div>
-      <h1 className="text-4xl md:text-5xl font-bold text-slate-900 mb-4 tracking-tight">
+      <h1 className="text-2xl sm:text-3xl md:text-5xl font-bold text-slate-900 mb-3 sm:mb-4 tracking-tight">
         SVU English Placement Test Simulator
       </h1>
-      <p className="text-lg text-slate-600 max-w-2xl mb-10 leading-relaxed">
+      <p className="text-sm sm:text-base md:text-lg text-slate-600 max-w-2xl mb-6 sm:mb-10 leading-relaxed px-2">
         Select a specific level to start your placement test. Each level covers unique grammar and vocabulary tailored to your proficiency.
       </p>
 
       {!showLevels ? (
         <button
           onClick={() => setShowLevels(true)}
-          className="px-10 py-4 bg-blue-900 text-white font-bold rounded-lg shadow-xl shadow-blue-900/20 hover:bg-blue-800 transition-all transform hover:-translate-y-1 active:scale-95 text-lg"
+          className="px-8 py-3.5 sm:px-10 sm:py-4 bg-blue-900 text-white font-bold rounded-lg shadow-xl shadow-blue-900/20 hover:bg-blue-800 transition-all transform hover:-translate-y-1 active:scale-95 text-base sm:text-lg"
         >
           Start Test Selection
         </button>

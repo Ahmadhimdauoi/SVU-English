@@ -1,14 +1,3 @@
-import React from "react";
-import { TestInfo } from "../types";
-
-interface TestSelectionProps {
-  levelTitle: string;
-  levelDesc: string;
-  tests: TestInfo[];
-  onSelectTest: (test: TestInfo) => void;
-  onBack: () => void;
-}
-
 import React, { useState } from "react";
 import { TestInfo } from "../types";
 
