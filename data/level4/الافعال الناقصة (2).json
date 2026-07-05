@@ -1,0 +1,332 @@
+[
+  {
+    "question": "Which of the following is a strict golden rule for all English Modal Verbs?",
+    "options": [
+      "They must be followed by an infinitive verb with 'to'.",
+      "They add 's' when the subject is singular (he, she, it).",
+      "They are followed directly by the base form of the verb without 'to'.",
+      "They require auxiliary verbs like 'do' or 'does' to form a negative sentence."
+    ],
+    "correctIndex": 2,
+    "explanation": "القانون الذهبي للأفعال الناقصة يفرض أن يتبعها الفعل دائماً في حالة المصدر المجرد من أي إضافات وبدون لاحقة to."
+  },
+  {
+    "question": "Based on the Certainty Scale, which modal verb represents 'Strong Expectation' (around 80% certainty)?",
+    "options": [
+      "Must",
+      "Should",
+      "Might",
+      "Can't"
+    ],
+    "correctIndex": 1,
+    "explanation": "الفعل (Should) يعبر عن التوقع المنطقي القوي المبني على معطيات واضحة بنسبة تقارب 80%."
+  },
+  {
+    "question": "Which modal verb is best suited for expressing a formal and polite request to a client?",
+    "options": [
+      "Must",
+      "Would",
+      "Should",
+      "Can't"
+    ],
+    "correctIndex": 1,
+    "explanation": "يُستخدم الفعل (Would) في بيئات العمل الاحترافية لتقديم عروض وطلبات مهذبة ورسمية للمستلمين."
+  },
+  {
+    "question": "Complete the logical deduction sentence: 'You have been working on this code all day; you _______ be exhausted.'",
+    "options": [
+      "should",
+      "might",
+      "must",
+      "can't"
+    ],
+    "correctIndex": 2,
+    "explanation": "الاستنتاج المنطقي المبني على دليل قوي وواقعي في الحاضر يتطلب استخدام (must) لبيان اليقين الإيجابي."
+  },
+  {
+    "question": "What is the negative form of 'Must' when used to express absolute prohibition?",
+    "options": [
+      "Must not",
+      "Don't have to",
+      "Neednot",
+      "Ought not"
+    ],
+    "correctIndex": 0,
+    "explanation": "تُستخدم صيغة النفي (Must not) للتعبير عن الحظر والمنع البات والتحذير الصارم من ارتكاب الفعل."
+  },
+  {
+    "question": "If something is an 'Absolute Impossibility' (0% certainty) based on evidence, which modal do we use?",
+    "options": [
+      "Must not",
+      "Might not",
+      "Can't",
+      "Shouldn't"
+    ],
+    "correctIndex": 2,
+    "explanation": "عند التعبير عن الاستحالة المنطقية المطلقة المبنية على أدلة دامغة، نستخدم الأداة النفيّة (Can't)."
+  },
+  {
+    "question": "Complete the sentence with the correct capability modal: 'She _______ write complex algorithms in three languages.'",
+    "options": [
+      "must to",
+      "can",
+      "cans",
+      "should to"
+    ],
+    "correctIndex": 1,
+    "explanation": "الفعل (can) يعبر عن القدرة والمهارة، ويأتي مجرداً وبدون لحاق s وبدون استخدام to بعده."
+  },
+  {
+    "question": "What does the phrase 'Don't have to' mean in professional guidelines?",
+    "options": [
+      "It is strictly forbidden to do this task.",
+      "There is no obligation; you can do it if you want, but it is not necessary.",
+      "You must do it immediately.",
+      "It is logically impossible to perform this task."
+    ],
+    "correctIndex": 1,
+    "explanation": "عبارة (Don't have to) تعني غياب الالتزام والضرورة (عدم الحاجة لعمل الشيء)، وليس المنع والتحريم."
+  },
+  {
+    "question": "Choose the correctly structured sentence:",
+    "options": [
+      "He should to double-check the server stats.",
+      "He should double-checking the server stats.",
+      "He should double-check the server stats.",
+      "He should double-checks the server stats."
+    ],
+    "correctIndex": 2,
+    "explanation": "الجملة الثالثة تتبع القانون الهندسي للأفعال الناقصة بدقة حيث يتبعها الفعل مصدر مجرد (double-check)."
+  },
+  {
+    "question": "Which modal verb indicates a weak, hesitant possibility (around 30-50% certainty)?",
+    "options": [
+      "Must",
+      "Might",
+      "Should",
+      "Have to"
+    ],
+    "correctIndex": 1,
+    "explanation": "الفعل (Might) يقع في درجات اليقين المنخفضة ليعبر عن احتمالية خجولة أو ضعيفة الحدوث."
+  },
+  {
+    "question": "What is the structural nuance of 'Must not' compared to 'Can't' in negative contexts?",
+    "options": [
+      "'Must not' signifies absolute prohibition, while 'Can't' signifies logical impossibility.",
+      "'Must not' shows weak possibility, while 'Can't' shows strong advice.",
+      "They are completely interchangeable in all contexts.",
+      "'Must not' requires a past participle form right after it."
+    ],
+    "correctIndex": 0,
+    "explanation": "تُستخدم (Must not) للمنع والتحريم القاطع للشيء، بينما تُستخدم (Can't) لنفي الاحتمالية والاستحالة المنطقية."
+  },
+  {
+    "question": "In the sentence 'The algorithm is fully optimized; it should work smoothly', what does 'should' mean?",
+    "options": [
+      "An obligation imposed by the manager.",
+      "A strong expectation based on technical logic.",
+      "A past ability that no longer exists.",
+      "Permission to execute the script."
+    ],
+    "correctIndex": 1,
+    "explanation": "الفعل (should) هنا لا يعني النصيحة بل التوقع المنطقي القوي المبني على المعطيات الهندسية الممتازة المتاحة."
+  },
+  {
+    "question": "Which modal verb can express a past regular habit or routine in professional narratives?",
+    "options": [
+      "Must",
+      "Would",
+      "Should",
+      "May"
+    ],
+    "correctIndex": 1,
+    "explanation": "تُستخدم (Would) في سرد القصص والتقارير المهنية للإشارة إلى أفعال ونشاطات كانت تتكرر بانتظام في الماضي."
+  },
+  {
+    "question": "Complete the sentence expressing a polite preference: 'The management _______ rather delay the launch than release a flawed product.'",
+    "options": [
+      "should",
+      "would",
+      "must",
+      "could"
+    ],
+    "correctIndex": 1,
+    "explanation": "التركيب الاصطلاحي (would rather) يُستخدم للتعبير عن التفضيل المهني والاختيار بين أمرين."
+  },
+  {
+    "question": "Identify the proper sentence for granting formal permission to an executive board.",
+    "options": [
+      "You might enter the room now.",
+      "May I address the executive committee?",
+      "Must I speak to the committee now?",
+      "Would I talk to the committee?"
+    ],
+    "correctIndex": 1,
+    "explanation": "الفعل (May) هو الأداة الأكثر رسمية واحتراماً لطلب أو منح الإذن والاستئذان في البيئات الاحترافية والأكاديمية."
+  },
+  {
+    "question": "What past tense form replaces 'Must' when talking about an absolute obligation that occurred yesterday?",
+    "options": [
+      "Musted",
+      "Had to",
+      "Should have",
+      "Would have"
+    ],
+    "correctIndex": 1,
+    "explanation": "الأفعال الناقصة لا تُصرف، وحين نريد نقل الإلزام والضرورة الصارمة (must) إلى الماضي نستخدم البديل الهيكلي (had to)."
+  },
+  {
+    "question": "Complete the sentence to show logical deduction about the past: 'The files are missing; someone _______ have deleted them.'",
+    "options": [
+      "must",
+      "should",
+      "can",
+      "might to"
+    ],
+    "correctIndex": 0,
+    "explanation": "للاستنتاج واليقين القوي بوقوع حدث في الماضي، نستخدم الصيغة التركيبية (must have + V3)."
+  },
+  {
+    "question": "What is the structural meaning of 'Ought to'?",
+    "options": [
+      "It is identical in meaning and usage to 'Must'.",
+      "It is identical in meaning to 'Should' and expresses duty or advice.",
+      "It is used only for past impossibility.",
+      "It cannot be followed by a base verb."
+    ],
+    "correctIndex": 1,
+    "explanation": "الفعل (Ought to) هو مكافئ بنيوي تام للفعل (Should) ويُستخدم لتقديم النصيحة والتذكير بالواجب الأخلاقي أو المهني."
+  },
+  {
+    "question": "Identify the correct way to form a question with a modal verb.",
+    "options": [
+      "Do we should upgrade the server?",
+      "Should we upgrade the server?",
+      "Should we to upgrade the server?",
+      "Does we should upgrade the server?"
+    ],
+    "correctIndex": 1,
+    "explanation": "الأفعال الناقصة مستقلة بذاتها وتتقدم إلى بداية الجملة لتشكيل السؤال مباشرة دون الاستعانة بأفعال مساعدة خارجية مثل do."
+  },
+  {
+    "question": "What is the exact semantic focus of 'May you have continued success in your career'?",
+    "options": [
+      "A formal request for data.",
+      "An expression of a prayer or sincere wish.",
+      "A strong logical deduction.",
+      "A statement of absolute certainty."
+    ],
+    "correctIndex": 1,
+    "explanation": "عند تقديم أداة (May) في بداية جملة خبرية تنتهي غالباً بنبرة تمنٍ، فإنها تخرج لتفيد الدعاء والأمنيات الطيبة للآخرين."
+  },
+  {
+    "question": "Complete the conditional regret architecture: 'If they had monitored the system metrics, they _______ have prevented the crash.'",
+    "options": [
+      "should",
+      "could",
+      "must",
+      "can"
+    ],
+    "correctIndex": 1,
+    "explanation": "في الماضي التخيلي والفرص الضائعة (Type 3 Conditional)، نستخدم التركيب (could have + V3) للتعبير عن الإمكانية والقدرة الفائتة."
+  },
+  {
+    "question": "What does 'Need not' (Needn't) convey in terms of obligation scale?",
+    "options": [
+      "Severe legal punishment if performed.",
+      "Absence of necessity or requirement, similar to 'don't have to'.",
+      "Logical impossibility based on experiments.",
+      "A recommendation to do the action quickly."
+    ],
+    "correctIndex": 1,
+    "explanation": "كلمة (Needn't) تفيد عدم الحاجة أو غياب الضرورة، أي أن القيام بالعمل اختياري ولا يترتب عليه ضرر."
+  },
+  {
+    "question": "Choose the sentence that correctly expresses a polite suggestion with 'Might':",
+    "options": [
+      "You might want to double-check those quarterly calculations.",
+      "You might to double-check those quarterly calculations.",
+      "You might wanted to double-check those quarterly calculations.",
+      "You might checking those quarterly calculations."
+    ],
+    "correctIndex": 0,
+    "explanation": "تُستخدم (Might) مع عبارة (want to) في بيئات العمل لتقديم نصائح واقتراحات خفيفة ومهذبة جداً لا تضغط على المتلقي."
+  },
+  {
+    "question": "Analyze this statement: 'He can't have signed the contract yesterday.' What does it mean?",
+    "options": [
+      "He did not have the physical permission to sign it.",
+      "I am 100% certain, based on evidence, that he did NOT sign it.",
+      "He should have signed it, but he forgot.",
+      "There is a 30% chance he signed it."
+    ],
+    "correctIndex": 1,
+    "explanation": "التركيب (can't have + V3) يُستخدم للتعبير عن اليقين التام والاستنتاج المؤكد بعدم حدوث الشيء في الماضي بناءً على معطيات صلبة."
+  },
+  {
+    "question": "Which of the following modal expressions is considered a 'Semi-Modal' because it can act as both a main verb and a modal?",
+    "options": [
+      "Must",
+      "Dare",
+      "Should",
+      "Might"
+    ],
+    "correctIndex": 1,
+    "explanation": "الفعل (Dare) والفعل (Need) يُصنفان كـ Semi-Modals لأنهما يملكان القدرة على التصرف كأفعال رئيسية تأخذ أفعالاً مساعدة أو كأفعال ناقصة مستقلة."
+  },
+  {
+    "question": "Complete the sentence with an appropriate past advice structure: 'The design was faulty; you _______ requested a formal revision.'",
+    "options": [
+      "must have",
+      "should have",
+      "can have",
+      "may have"
+    ],
+    "correctIndex": 1,
+    "explanation": "التركيب (should have + V3) يُستخدم للتعبير عن اللوم، العتاب، أو النصيحة المتأخرة لحدث كان من الواجب فعله في الماضي ولم يحدث."
+  },
+  {
+    "question": "What is the structural constraint when combining modal verbs in a single clause?",
+    "options": [
+      "You can combine two modals directly (e.g., 'will must').",
+      "You can never have two modal verbs stacked back-to-back in the same clause.",
+      "Modals must be separated by a comma.",
+      "The second modal must take an -ing suffix."
+    ],
+    "correctIndex": 1,
+    "explanation": "يُمنع هندسياً في قواعد اللغة الإنجليزية دمج فعلين ناقصين متتاليين في نفس الجملة (لا يجوز قول will can بل نستبدلها بـ will be able to)."
+  },
+  {
+    "question": "In advanced legal text, what does the modal 'Shall' usually denote when applied to a third-person subject?",
+    "options": [
+      "A future prediction or speculation.",
+      "A strict, binding obligation or legal requirement.",
+      "A polite suggestion open for discussion.",
+      "A past regular habit."
+    ],
+    "correctIndex": 1,
+    "explanation": "في النصوص القانونية والوثائق الرسمية والمواصفات القياسية، يُستخدم الفعل (Shall) ليفيد الإلزام القانوني الصارم والشرط الإجباري."
+  },
+  {
+    "question": "Syntactically diagnose 'May' in: 'The board may approve the merger if the conditions are met.'",
+    "options": [
+      "Expressing formal request.",
+      "Expressing a balanced possibility (50% certainty).",
+      "Expressing a past habit.",
+      "Expressing absolute impossibility."
+    ],
+    "correctIndex": 1,
+    "explanation": "الفعل (may) هنا يعبر عن احتمالية متوسطة ومتوازنة لحدوث أمر مستقبلي شريطة استيفاء المعايير المطلوبة."
+  },
+  {
+    "question": "What is the key difference between 'Should have done' and 'Must have done'?",
+    "options": [
+      "'Should have' shows past certainty; 'Must have' shows past advice.",
+      "'Should have' indicates an unfulfilled past obligation/regret; 'Must have' indicates a certain logical deduction about a past event.",
+      "They are completely identical in meaning.",
+      "'Should have' requires a continuous verb; 'Must have' requires an adjective."
+    ],
+    "correctIndex": 1,
+    "explanation": "عبارة should have تعبر عن أسف وندم لعدم فعل شيء، بينما must have تعبر عن استنتاج وثقة كاملة بأن الشيء قد تم فعلاً في الماضي."
+  }
+]

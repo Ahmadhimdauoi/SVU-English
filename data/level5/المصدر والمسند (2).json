@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "question": "She enjoys ________ novel books in her free time.",
+    "options": ["reading", "to read", "read", "reads"],
+    "answer": "reading",
+    "explanation": "الفعل 'enjoy' متبوع دائماً بصيغة المصدر (Gerund) التي تنتهي بـ -ing."
+  },
+  {
+    "id": 2,
+    "question": "They decided ________ a new car next month.",
+    "options": ["buying", "to buy", "buy", "bought"],
+    "answer": "to buy",
+    "explanation": "الفعل 'decide' يتطلب بعده مصدر مسبوق بـ to (Infinitive with to)."
+  },
+  {
+    "id": 3,
+    "question": "I look forward to ________ you soon.",
+    "options": ["see", "seeing", "to see", "seen"],
+    "answer": "seeing",
+    "explanation": "التركيب 'look forward to' ينتهي بحرف جر، لذلك يليه صيغة -ing (Gerund) وليس الفعل المجرد."
+  },
+  {
+    "id": 4,
+    "question": "He avoided ________ his teacher in the hallway.",
+    "options": ["meeting", "to meet", "meet", "meets"],
+    "answer": "meeting",
+    "explanation": "الفعل 'avoid' يأتي بعده دائماً اسم فاعل/مصدر ينتهي بـ -ing."
+  },
+  {
+    "id": 5,
+    "question": "She managed ________ the project before the deadline.",
+    "options": ["finishing", "to finish", "finish", "finished"],
+    "answer": "to finish",
+    "explanation": "الفعل 'manage' (يتمكن من) يتبعه دائماً مصدر مسبوق بـ to."
+  },
+  {
+    "id": 6,
+    "question": "We discussed ________ a new business together.",
+    "options": ["starting", "to start", "start", "started"],
+    "answer": "starting",
+    "explanation": "الفعل 'discuss' يتبعه Gerund (-ing) عند التحدث عن الأنشطة."
+  },
+  {
+    "id": 7,
+    "question": "My parents promised ________ me a laptop if I pass.",
+    "options": ["buying", "to buy", "buy", "bought"],
+    "answer": "to buy",
+    "explanation": "الفعل 'promise' من الأفعال التي تتبع بـ Infinitive مع to."
+  },
+  {
+    "id": 8,
+    "question": "Do you mind ________ the window? It's cold here.",
+    "options": ["closing", "to close", "close", "closed"],
+    "answer": "closing",
+    "explanation": "التركيب 'Do you mind...?' يتبعه دائماً صيغة الـ Gerund (-ing)."
+  },
+  {
+    "id": 9,
+    "question": "He refuses ________ responsibility for the mistake.",
+    "options": ["taking", "to take", "take", "taken"],
+    "answer": "to take",
+    "explanation": "الفعل 'refuse' (يرفض) يأتي بعده المصدر مع to."
+  },
+  {
+    "id": 10,
+    "question": "I can't help ________ when I see that funny movie.",
+    "options": ["laughing", "to laugh", "laugh", "laughed"],
+    "answer": "laughing",
+    "explanation": "المصطلح 'can't help' يعني 'لا أتمالك نفسي عن' ويتبعه دائماً -ing."
+  },
+  {
+    "id": 11,
+    "question": "They suggested ________ to the beach this weekend.",
+    "options": ["going", "to go", "go", "went"],
+    "answer": "going",
+    "explanation": "الفعل 'suggest' يتبعه اسم الفاعل/المصدر المنتهي بـ -ing."
+  },
+  {
+    "id": 12,
+    "question": "She hopes ________ a doctor in the future.",
+    "options": ["becoming", "to become", "become", "became"],
+    "answer": "to become",
+    "explanation": "الفعل 'hope' يعبر عن أمل مستقبلي ويتبعه دائماً to + المصدر."
+  },
+  {
+    "id": 13,
+    "question": "It's no use ________ over spilled milk.",
+    "options": ["crying", "to cry", "cry", "cried"],
+    "answer": "crying",
+    "explanation": "العبارة الاصطلاحية 'It's no use' (لا فائدة من) يتبعها دائماً Gerund."
+  },
+  {
+    "id": 14,
+    "question": "We agreed ________ the meeting to next Monday.",
+    "options": ["postponing", "to postpone", "postpone", "postponed"],
+    "answer": "to postpone",
+    "explanation": "الفعل 'agree' يتطلب بعده صيغة المصدر المسبوق بـ to."
+  },
+  {
+    "id": 15,
+    "question": "He denies ________ the money from the safe.",
+    "options": ["stealing", "to steal", "steal", "stole"],
+    "answer": "stealing",
+    "explanation": "الفعل 'deny' (ينكر) يأتي بعده دائماً الفعل مضافاً إليه -ing."
+  },
+  {
+    "id": 16,
+    "question": "I forgot ________ the door, so I should go back and check.",
+    "options": ["locking", "to lock", "lock", "locked"],
+    "answer": "to lock",
+    "explanation": "نستخدم 'forget + to + الفعل' عندما ينسى الشخص القيام بمهمة مطلوبة منه قبل أن يفعلها."
+  },
+  {
+    "id": 17,
+    "question": "I will never forget ________ the Eiffel Tower for the first time.",
+    "options": ["visiting", "to visit", "visit", "visited"],
+    "answer": "visiting",
+    "explanation": "نستخدم 'forget + -ing' عندما نتحدث عن نسيان ذكرى حدثت بالفعل في الماضي."
+  },
+  {
+    "id": 18,
+    "question": "Please remember ________ the lights before leaving.",
+    "options": ["turning off", "to turn off", "turn off", "turned off"],
+    "answer": "to turn off",
+    "explanation": "الفعل 'remember + to' يعني تذكر أن تفعل شيئاً كواجب أو مهمة مستقبلية."
+  },
+  {
+    "id": 19,
+    "question": "I remember ________ this man somewhere before.",
+    "options": ["seeing", "to see", "see", "saw"],
+    "answer": "seeing",
+    "explanation": "الفعل 'remember + -ing' يعني استحضار ذكرى لشيء حدث في الماضي."
+  },
+  {
+    "id": 20,
+    "question": "He stopped ________ because he was feeling tired.",
+    "options": ["working", "to work", "work", "worked"],
+    "answer": "working",
+    "explanation": "الفعل 'stop + -ing' يعني التوقف والإنهاء التام للنشاط الذي كان يقوم به."
+  },
+  {
+    "id": 21,
+    "question": "On his way home, he stopped ________ some groceries.",
+    "options": ["buying", "to buy", "buy", "bought"],
+    "answer": "to buy",
+    "explanation": "الفعل 'stop + to' يعني التوقف عن نشاط معين من أجل البدء بنشاط آخر (التوقف لغاية شراء البقالة)."
+  },
+  {
+    "id": 22,
+    "question": "The teacher made us ________ the entire essay again.",
+    "options": ["rewrite", "to rewrite", "rewriting", "rewrote"],
+    "answer": "rewrite",
+    "explanation": "الفعل السببي 'make' يتبعه مفعول به ثم مصدر مجرد بدون to (Bare Infinitive)."
+  },
+  {
+    "id": 23,
+    "question": "Our boss let us ________ home early today.",
+    "options": ["go", "to go", "going", "went"],
+    "answer": "go",
+    "explanation": "الفعل 'let' يتبعه مفعول به ثم مصدر مجرد بدون to."
+  },
+  {
+    "id": 24,
+    "question": "I would love ________ Paris one day.",
+    "options": ["visiting", "to visit", "visit", "visited"],
+    "answer": "to visit",
+    "explanation": "عندما يسبق الأفعال (like, love, prefer) الأداة 'would'، يجب استخدام to + المصدر."
+  },
+  {
+    "id": 25,
+    "question": "________ is a great exercise for your heart.",
+    "options": ["Swimming", "To swim", "Swim", "Swam"],
+    "answer": "Swimming",
+    "explanation": "هنا صيغة الـ Gerund تعمل كاسم في بداية الجملة بموقع الفاعل (المبتدأ)."
+  },
+  {
+    "id": 26,
+    "question": "They practice ________ the piano every afternoon.",
+    "options": ["playing", "to play", "play", "played"],
+    "answer": "playing",
+    "explanation": "الفعل 'practice' (يتدرب) يأتي بعده دائماً صيغة اسم الفاعل المضاف له -ing."
+  },
+  {
+    "id": 27,
+    "question": "She is good at ________ languages.",
+    "options": ["learning", "to learn", "learn", "learned"],
+    "answer": "learning",
+    "explanation": "حروف الجر (مثل at, in, on, about) يتبعها دائماً اسم أو Gerund ينتهي بـ -ing."
+  },
+  {
+    "id": 28,
+    "question": "We offered ________ them with the heavy luggage.",
+    "options": ["helping", "to help", "help", "helped"],
+    "answer": "to help",
+    "explanation": "الفعل 'offer' (يعرض المساعدة) يتبعه المصدر مسبوقاً بـ to."
+  },
+  {
+    "id": 29,
+    "question": "He risk ________ his job if he arrives late again.",
+    "options": ["losing", "to lose", "lose", "lost"],
+    "answer": "losing",
+    "explanation": "الفعل 'risk' (يخاطر بـ) يتبعه دائماً صيغة -ing."
+  },
+  {
+    "id": 30,
+    "question": "It is difficult ________ English grammar perfectly.",
+    "options": ["learning", "to learn", "learn", "learnt"],
+    "answer": "to learn",
+    "explanation": "بعد الصفات (مثل difficult, easy, important) نستخدم غالباً صيغة to + المصدر."
+  }
+]

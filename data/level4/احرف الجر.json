@@ -1,0 +1,362 @@
+[
+  {
+    "category": "Prepositions Guide",
+    "question": "Based on the inverted pyramid rule, which preposition fits best: 'The conference will take place ___ 2026.'",
+    "options": [
+      "at",
+      "on",
+      "in",
+      "by"
+    ],
+    "correct_index": 2,
+    "explanation": "وفقاً لقاعدة الهرم المقلوب، تقع السنوات والقرون في قاعدة الهرم الواسعة (General/Large)، وبالتالي نستخدم حرف الجر الشامل (In)."
+  },
+  {
+    "category": "Prepositions Guide",
+    "question": "Choose the correct option: 'I will meet you ___ the corner of 5th Avenue and Main Street.'",
+    "options": [
+      "in",
+      "on",
+      "at",
+      "over"
+    ],
+    "correct_index": 2,
+    "explanation": "عند الإشارة إلى نقطة التقاء محددة بدقة على الخريطة (Specific Point) كالزاوية التي تتقاطع فيها الشوارع، فإن نقطة الارتكاز الحادة للهرم المقلوب هي (At)."
+  },
+  {
+    "category": "Prepositions Guide",
+    "question": "Which of the following is correct in American English (US)?",
+    "options": [
+      "What are you doing at the weekend?",
+      "What are you doing on the weekend?",
+      "What are you doing in the weekend?",
+      "What are you doing by the weekend?"
+    ],
+    "correct_index": 1,
+    "explanation": "وهناك فجوة إقليمية في التعبير؛ فالأمريكيون يعتمدون على (On the weekend) كأن عطلة نهاية الأسبوع هي سطح زمن يمرون عليه، بينما يفضل البريطانيون استخدام (At)."
+  },
+  {
+    "category": "Prepositions Guide",
+    "question": "Complete the sentence with the correct architectural preposition: 'The blueprints are ___ the table.'",
+    "options": [
+      "in",
+      "at",
+      "on",
+      "inside"
+    ],
+    "correct_index": 2,
+    "explanation": "حرف الجر (On) يمثل التلامس الفيزيائي مع الأسطح (Surfaces)، وبما أن المخططات تقع على سطح الطاولة، فهي تأخذ (On)."
+  },
+  {
+    "category": "Prepositions Guide",
+    "question": "Fill in the blank: 'The flight departs exactly ___ 7:45 PM.'",
+    "options": [
+      "on",
+      "in",
+      "at",
+      "for"
+    ],
+    "correct_index": 2,
+    "explanation": "الوقت المحدد بالساعات والدقائق يمثل أدق نقطة ميكانيكية في أسفل الهرم المقلوب، لذلك يتم قفلها دائماً باستخدام (At)."
+  },
+  {
+    "category": "Prepositions Guide",
+    "question": "Which preposition is used for specific days and dates? 'The product launch is ___ October 24th.'",
+    "options": [
+      "in",
+      "at",
+      "on",
+      "through"
+    ],
+    "correct_index": 2,
+    "explanation": "رغم وجود اسم الشهر، إلا أن تحديد اليوم (24th) ينقلنا هندسياً من الفئة الواسعة للشهر إلى الفئة المتوسطة والمحددة للأيام، والتي يملكها حرف الجر (On)."
+  },
+  {
+    "category": "Prepositions Guide",
+    "question": "Correct the mistake: 'He has been working in this company during five years.'",
+    "options": [
+      "He has been working in this company since five years.",
+      "He has been working in this company for five years.",
+      "He has been working in this company at five years.",
+      "He has been working in this company from five years."
+    ],
+    "correct_index": 1,
+    "explanation": "لقياس الامتداد الزمني والمدة الإجمالية للحدث (Duration) في زمن المضارع التام المستمر، نستخدم الأداة الهندسية الحسابية (For) وليس during أو since."
+  },
+  {
+    "category": "Prepositions Guide",
+    "question": "Which preposition describes being inside a standard closed vehicle like a car?",
+    "options": [
+      "Get on the car",
+      "Get at the car",
+      "Get in the car",
+      "Get by the car"
+    ],
+    "correct_index": 2,
+    "explanation": "المساحات المغلقة الضيقة التي لا يمكنك الوقوف أو المشي بداخلها (Enclosed Spaces) نستخدم معها (In)، بينما القطارات والطائرات والحافلات الكبيرة تأخذ (On)."
+  },
+  {
+    "category": "Prepositions Guide",
+    "question": "Complete the phrase: 'The senior engineer is currently ___ London attending a tech summit.'",
+    "options": [
+      "at",
+      "on",
+      "in",
+      "inside of"
+    ],
+    "correct_index": 2,
+    "explanation": "العواصم والمدن والدول مساحات جغرافية واسعة وحدودها عريضة، لذا تقع دوماً في النطاق العلوي للهرم المقلوب مستحوذة على حرف الجر (In)."
+  },
+  {
+    "category": "Prepositions Guide",
+    "question": "Which preposition is used for public transport vehicles where you can stand up? 'She is ___ the train right now.'",
+    "options": [
+      "in",
+      "on",
+      "at",
+      "into"
+    ],
+    "correct_index": 1,
+    "explanation": "وسائل النقل العام الكبيرة التي تحتوي على ممرات وتسمح هندستها الداخلية بالوقوف والمشي (مثل القطارات والحافلات) تعامل كالأسطح وتأخذ (On)."
+  },
+  {
+    "category": "Prepositions Guide",
+    "question": "Identify the proper preposition for abstract electronic locations: 'I uploaded the documentation ___ the website.'",
+    "options": [
+      "in",
+      "on",
+      "at",
+      "into"
+    ],
+    "correct_index": 1,
+    "explanation": "المواقع الإلكترونية والشاشات والصفحات الافتراضية تُعامل لغوياً وبصرياً كأنها أسطح عرض رقمية، وبالتالي يتم ربطها بحرف الجر (On)."
+  },
+  {
+    "category": "Prepositions Guide",
+    "question": "Fill in the blank: 'The development team likes to work ___ night.'",
+    "options": [
+      "in",
+      "on",
+      "at",
+      "during"
+    ],
+    "correct_index": 2,
+    "explanation": "بينما نستخدم (in the morning/afternoon)، يشذ التعبير الخاص بالليل لغوياً ويكون تعبيراً ثابتاً وهو (at night) كعلامة زمنية محددة."
+  },
+  {
+    "category": "Prepositions Guide",
+    "question": "Choose the correct engineering preposition: 'The microchip operates optimally ___ high temperatures.'",
+    "options": [
+      "in",
+      "on",
+      "at",
+      "underneath"
+    ],
+    "correct_index": 2,
+    "explanation": "الدرجات والمستويات الرقمية والقياسية المحددة (مثل درجات الحرارة أو السرعات) تأخذ (At) لأنها نقاط ثابتة على مؤشر القياس."
+  },
+  {
+    "category": "Prepositions Guide",
+    "question": "What is the difference between 'In time' and 'On time' in project management terms?",
+    "options": [
+      "'In time' means exactly at the scheduled minute; 'On time' means before it's too late.",
+      "'On time' means exactly at the scheduled minute; 'In time' means before the deadline (with room to spare).",
+      "They mean the exact same thing and can be swapped freely.",
+      "'On time' is only used for transportation, while 'In time' is for software development."
+    ],
+    "correct_index": 1,
+    "explanation": "هندسة الوقت تفرق بين الحالتين؛ (On time) تعني الالتزام بالدقيقة المحددة والمجدولة سلفاً، بينما (In time) تعني الوصول مبكراً بما يكفي لتدارك الأمر قبل الفوات."
+  },
+  {
+    "category": "Prepositions Guide",
+    "question": "Fill in the blank: 'The office is located ___ 452 Enterprise Street, on the second floor.'",
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct_index": 2,
+    "explanation": "تحديد العنوان بالكامل مع رقم المبنى يمثل نقطة جغرافية دقيقة وحاسمة لا تقبل التأويل، لذلك نغلقها بحرف الجر المدبب (At)."
+  },
+  {
+    "category": "Prepositions Guide",
+    "question": "Which preposition fits best here: 'The server rooms are located ___ the basement.'",
+    "options": [
+      "at",
+      "on",
+      "in",
+      "over"
+    ],
+    "correct_index": 2,
+    "explanation": "القبو أو الطوابق الداخلية تعتبر مساحات ثلاثية الأبعاد تحتوي الأشياء بداخلها محاطة بجدران، لذا نستخدم معها حرف الاحتواء (In)."
+  },
+  {
+    "category": "Prepositions Guide",
+    "question": "Complete the statement: 'The application behavior depends heavily ___ user settings.'",
+    "options": [
+      "in",
+      "on",
+      "at",
+      "of"
+    ],
+    "correct_index": 1,
+    "explanation": "الفعل (depend) يرتبط دائماً وأبداً وبشكل اصطلاحي ثابت بحرف الجر (on)، وهي تركيبة متلازمة لغوياً لا يجوز تغييرها."
+  },
+  {
+    "category": "Prepositions Guide",
+    "question": "Identify the correct option for a specific period in history: 'Artificial intelligence expanded rapidly ___ the 21st century.'",
+    "options": [
+      "at",
+      "on",
+      "in",
+      "by"
+    ],
+    "correct_index": 2,
+    "explanation": "القرون والفترات التاريخية الطويلة تعبر عن أحواض زمنية شاسعة تقع في أعلى الهرم المقلوب، لذا يناسبها تماماً حرف الجر الشامل (In)."
+  },
+  {
+    "category": "Prepositions Guide",
+    "question": "Select the correct option for movement into an enclosed area: 'The technician walked ___ the server room to inspect the racks.'",
+    "options": [
+      "into",
+      "on to",
+      "at",
+      "inside of"
+    ],
+    "correct_index": 0,
+    "explanation": "حرف الجر المركب (Into) يعبر عن ميكانيكية الحركة والانتقال من الخارج إلى الداخل مع اختراق حدود المكان، على عكس (in) التي تفيد السكون بالداخل."
+  },
+  {
+    "category": "Prepositions Guide",
+    "question": "Complete the phrase: 'The development team is sitting ___ a round table discussing the update.'",
+    "options": [
+      "on",
+      "in",
+      "at",
+      "under"
+    ],
+    "correct_index": 2,
+    "explanation": "الجلوس حول طاولة للاجتماع أو النقاش يعني التواجد في محيطها ونقطة موقعها وليس فوق سطحها، لذلك التعبير الهندسي السليم هو (at the table)."
+  },
+  {
+    "category": "Prepositions Guide",
+    "question": "Choose the correct preposition: 'I read about the security vulnerability ___ a technology blog.'",
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct_index": 1,
+    "explanation": "المدونات ومنصات النشر الرقمية تندرج تحت مفهوم الأسطح الرقمية للمعلومات، لذا يتم ربطها وإسنادها بحرف الجر (On)."
+  },
+  {
+    "category": "Prepositions Guide",
+    "question": "Fill in the blank: 'Our team successfully deployed the software update ___ Friday.'",
+    "options": [
+      "in",
+      "at",
+      "on",
+      "within"
+    ],
+    "correct_index": 2,
+    "explanation": "أيام الأسبوع المستقلة تقع دائماً في الفئة المتوسطة للهرم المقلوب، وهي المساحة الزمنية المخصصة والمحجوزة لحرف الجر (On)."
+  },
+  {
+    "category": "Prepositions Guide",
+    "question": "Which option is correct regarding geographical coordinates? 'The ship was located ___ 34 degrees north latitude.'",
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct_index": 2,
+    "explanation": "إحداثيات خطوط الطول والعرض هي مؤشرات رياضية فائقة الدقة لتحديد المواقع، وبالتالي نستخدم معها النقطة الحرجة (At)."
+  },
+  {
+    "category": "Prepositions Guide",
+    "question": "Identify the preposition mistake: 'The data is stored into the hard drive permanently.'",
+    "options": [
+      "The preposition 'into' should be 'on' or 'in'.",
+      "The preposition 'into' should be 'at'.",
+      "The word 'permanently' requires the preposition 'by'.",
+      "No mistake here."
+    ],
+    "correct_index": 0,
+    "explanation": "تخزين البيانات يستقر بداخل القرص الصلب (in) أو على سطحه المغناطيسي (on)، أما استخدام (into) فيوحي بحركة فيزيائية مستمرة وهو غير صحيح سياقياً."
+  },
+  {
+    "category": "Prepositions Guide",
+    "question": "Complete the sentence: 'The team will complete the migration ___ three weeks.'",
+    "options": [
+      "at",
+      "on",
+      "in",
+      "by afternoon"
+    ],
+    "correct_index": 2,
+    "explanation": "عند الحديث عن المدة الزمنية المستغرقة لإتمام عمل ما في المستقبل (خلال ثلاثة أسابيع)، فإن الأداة الهندسية المعتمدة هي (In)."
+  },
+  {
+    "category": "Prepositions Guide",
+    "question": "Fill in the blank for a company department: 'He works ___ the Quality Assurance department.'",
+    "options": [
+      "at",
+      "on",
+      "in",
+      "over"
+    ],
+    "correct_index": 2,
+    "explanation": "الأقسام والقطاعات داخل الشركات تُعامل كبيئات مغلقة أو حاويات تنظيمية تحتضن الموظفين، لذا نستخدم معها (In)."
+  },
+  {
+    "category": "Prepositions Guide",
+    "question": "Choose the correct option: 'The system administrator is ___ the phone solving an emergency right now.'",
+    "options": [
+      "at",
+      "in",
+      "on",
+      "through"
+    ],
+    "correct_index": 2,
+    "explanation": "وسائل التواصل والأجهزة مثل الهاتف والراديو والتلفزيون ترتبط اصطلاحياً بحرف الجر (On) للإشارة إلى خط الاتصال المفتوح."
+  },
+  {
+    "category": "Prepositions Guide",
+    "question": "Complete the sentence: 'The database server is running ___ maximum capacity.'",
+    "options": [
+      "in",
+      "on",
+      "at",
+      "with"
+    ],
+    "correct_index": 2,
+    "explanation": "الطاقة القصوى والحدود التشغيلية الرقمية هي قيم محددة تماماً على مقياس الأداء، لذا تُقفل هندسياً باستخدام (At)."
+  },
+  {
+    "category": "Prepositions Guide",
+    "question": "Which option is correct for a specific holiday period without the word 'day'? 'We will release the patch ___ Christmas.'",
+    "options": [
+      "on",
+      "in",
+      "at",
+      "during of"
+    ],
+    "correct_index": 2,
+    "explanation": "عند ذكر اسم المناسبة كفترة عطلة عامة دون إلحاق كلمة (Day) بها، نستخدم (At)، بينما لو قلنا Christmas Day كنا سنستخدم (On)."
+  },
+  {
+    "category": "Prepositions Guide",
+    "question": "Fix this sentence: 'The keys are at the drawer.'",
+    "options": [
+      "The keys are on the drawer.",
+      "The keys are in the drawer.",
+      "The keys are over the drawer.",
+      "The keys are through the drawer."
+    ],
+    "correct_index": 1,
+    "explanation": "الدرج (Drawer) هو مساحة تخزين داخلية مجوفة ومغلقة، والوضع الطبيعي للأشياء أن تكون مستقرة بداخلها (In) وليس عند موقعها الخارجي."
+  }
+]

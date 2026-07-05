@@ -1,0 +1,332 @@
+[
+  {
+    "question": "Which conditional type is engineered to express scientific facts and absolute technical certainties?",
+    "options": [
+      "Type 1 Conditional",
+      "Type 0 (Zero) Conditional",
+      "Type 2 Conditional",
+      "Type 3 Conditional"
+    ],
+    "correctIndex": 1,
+    "explanation": "النوع الصفري (Zero Conditional) هو المخصص هندسياً للتعبير عن البديهيات والحقائق العلمية والتقنية الثابتة بنسبة 100%."
+  },
+  {
+    "question": "What structural modification occurs when you reverse a conditional sentence and place the 'If clause' at the end?",
+    "options": [
+      "The verb tenses must shift to the past.",
+      "The comma separating the two clauses must be removed.",
+      "The main clause turns into a question.",
+      "You must substitute 'If' with 'Unless'."
+    ],
+    "correctIndex": 1,
+    "explanation": "عند عكس الجملة الشرطية ووضع (If) في المنتصف، يتم حذف الفاصلة (,) التي كانت تفصل بين البندين تلقائياً."
+  },
+  {
+    "question": "What is the core verb tense formula for a Type 1 (Real Present/Future) conditional?",
+    "options": [
+      "If + Present Simple, Will + Base Verb",
+      "If + Past Simple, Would + Base Verb",
+      "If + Past Perfect, Would have + Past Participle",
+      "If + Present Continuous, Present Continuous"
+    ],
+    "correctIndex": 0,
+    "explanation": "النوع الأول يعتمد على وجود مضارع بسيط في شق الشرط، يقابله Will مع مصدر الفعل في شق النتيجة للتعبير عن أحداث مستقبلية محتملة."
+  },
+  {
+    "question": "Which conditional type deals with purely imaginary, hypothetical, or unrealistic scenarios in the present?",
+    "options": [
+      "Type 0 Conditional",
+      "Type 1 Conditional",
+      "Type 2 Conditional",
+      "Type 3 Conditional"
+    ],
+    "correctIndex": 2,
+    "explanation": "النوع الثاني (Type 2) مصمم لوصف مواقف تخيلية غير واقعية أو مستحيلة الحدوث في الوقت الحالي."
+  },
+  {
+    "question": "Complete the Type 2 statement: 'If I _______ you, I would restructure the development team.'",
+    "options": [
+      "am",
+      "was",
+      "were",
+      "had been"
+    ],
+    "correctIndex": 2,
+    "explanation": "في الحالة التخيلية غير الواقعية للنوع الثاني، نكسر القواعد الاعتيادية ونستخدم (were) مع كافة الضمائر بما فيها الضمير I للتعبير عن الاستحالة والنصح."
+  },
+  {
+    "question": "What is the primary function of a Type 3 Conditional sentence?",
+    "options": [
+      "To express scientific formulas.",
+      "To plan real future events.",
+      "To express regrets or hypothetical situations about past events that cannot be changed.",
+      "To give direct instructions."
+    ],
+    "correctIndex": 2,
+    "explanation": "النوع الثالث (Type 3) مخصص لنقد الماضي وتخيل سيناريوهات مغايرة لما حدث بالفعل، وغالباً ما يحمل نبرة الندم."
+  },
+  {
+    "question": "What is the equivalent structural meaning of the gateway phrase 'Unless you hurry'?",
+    "options": [
+      "Provided that you hurry",
+      "As long as you hurry",
+      "If you do not hurry",
+      "If you happen to hurry"
+    ],
+    "correctIndex": 2,
+    "explanation": "أداة الاستثناء (Unless) تعني حرفياً (If not) أو (إذا لم)، بالتالي Unless you hurry تعادل تماماً If you do not hurry."
+  },
+  {
+    "question": "Complete the technical instruction: 'If a server crashes, the system automatically _______.'",
+    "options": [
+      "restarted",
+      "restarts",
+      "will restart",
+      "would restart"
+    ],
+    "correctIndex": 1,
+    "explanation": "هذه حقيقة تقنية تتبع النوع الصفري (Zero Conditional)، لذا يجب استخدام المضارع البسيط في الشقين لتوثيق الثبات."
+  },
+  {
+    "question": "Complete the Type 1 forecast: 'If the client approves the interface, we _______ building the backend tomorrow.'",
+    "options": [
+      "start",
+      "will start",
+      "would start",
+      "had started"
+    ],
+    "correctIndex": 1,
+    "explanation": "بما أن فعل الشرط مضارع بسيط ومحتمل الحدوث، فإن النتيجة تصاغ في المستقبل البسيط باستخدام (will start)."
+  },
+  {
+    "question": "Complete the Type 3 regret formula: 'If the team _______ the security patch, the database wouldn't have been breached.'",
+    "options": [
+      "installs",
+      "installed",
+      "had installed",
+      "would install"
+    ],
+    "correctIndex": 2,
+    "explanation": "شق الشرط في النوع الثالث يتطلب ماضياً تاماً (had + V3) لأننا نتحدث عن فرصة ضائعة تماماً في خط الزمن الماضي."
+  },
+  {
+    "question": "Which of the following substitution gateways means 'on the strict condition that'?",
+    "options": [
+      "Unless",
+      "Provided that",
+      "Although",
+      "Even if"
+    ],
+    "correctIndex": 1,
+    "explanation": "الرابط البديل (Provided that) يضع شرطاً قاطعاً وصارماً لا مساومة فيه لإتمام النتيجة."
+  },
+  {
+    "question": "Complete the sentence with the continuous condition: 'The system is secure as long as the firewall _______ active.'",
+    "options": [
+      "is",
+      "was",
+      "will be",
+      "would be"
+    ],
+    "correctIndex": 0,
+    "explanation": "أداة (As long as) تعمل كبوابة شرطية، وتحتاج لمضارع بسيط (is) للحفاظ على توازن الجملة التي تعبر عن حالة مستمرة."
+  },
+  {
+    "question": "Identify the core verb tense framework of a Type 3 Conditional sentence.",
+    "options": [
+      "If + Past Simple, Would + Base Verb",
+      "If + Past Perfect, Would have + Past Participle",
+      "If + Present Simple, Will have + Past Participle",
+      "If + Past Perfect, Will + Base Verb"
+    ],
+    "correctIndex": 1,
+    "explanation": "المعادلة الهيكلية للنوع الثالث تتألف من ماضٍ تام في بند الشرط، وتركيب (Would have + V3) في بند النتيجة الجوابية."
+  },
+  {
+    "question": "What kind of conditional is used here: 'If I won the lottery, I would buy a spaceship'?",
+    "options": [
+      "Type 1 (Real Future)",
+      "Type 2 (Unreal Present/Future)",
+      "Type 3 (Past Regret)",
+      "Mixed Conditional"
+    ],
+    "correctIndex": 1,
+    "explanation": "هذا هو النوع الثاني؛ لأن الفوز باللوتري هنا متمثل كاحتمال تخيلي ضعيف جداً وغير واقعي في الحاضر."
+  },
+  {
+    "question": "What is a 'Mixed Conditional' sentence in advanced English architecture?",
+    "options": [
+      "A sentence that mixes a statement with a direct question.",
+      "A sentence that connects a past condition with a present result, or vice versa, changing the timelines.",
+      "A sentence that uses both 'If' and 'Unless' at the same time.",
+      "A conditional sentence that has no verbs."
+    ],
+    "correctIndex": 1,
+    "explanation": "الشرط المختلط (Mixed Conditional) يكسر القوالب التقليدية ليربط زمناً معيناً في الشرط (كالماضي) بأثر مستمر في زمن آخر (كالحاضر)."
+  },
+  {
+    "question": "Complete the Mixed Conditional sentence (Past action affecting present state): 'If I had learned coding years ago, I _______ a better job now.'",
+    "options": [
+      "will have",
+      "would have",
+      "would have had",
+      "had"
+    ],
+    "correctIndex": 1,
+    "explanation": "بما أن الشرط في الماضي (had learned) والنتيجة مرتبطة بالحاضر لوجود كلمة (now)، نستخدم التركيب المختلط (would + Base Verb)."
+  },
+  {
+    "question": "Transform this sentence using the advanced Inversion technique: 'If I had known the risks, I would have prepared better.'",
+    "options": [
+      "Had I known the risks, I would have prepared better.",
+      "Did I know the risks, I would have prepared better.",
+      "Unless I had known the risks, I would have prepared better.",
+      "Should I know the risks, I would have prepared better."
+    ],
+    "correctIndex": 0,
+    "explanation": "في أسلوب القلب المتقدم (Inversion) للنوع الثالث، نحذف أداة الشرط If ونقلب مكان الفاعل مع الفعل المساعد لتصبح (Had I known)."
+  },
+  {
+    "question": "Complete the Mixed Conditional framework (Present state affecting past outcome): 'If I were a patient person, I _______ at the client yesterday.'",
+    "options": [
+      "wouldn't shout",
+      "won't shout",
+      "wouldn't have shouted",
+      "didn't shout"
+    ],
+    "correctIndex": 2,
+    "explanation": "الشرط هنا صفة دائمة في الحاضر (If I were)، والنتيجة حدثت وانتهت بالأمس في الماضي، لذا نستخدم تركيب الماضي (wouldn't have shouted)."
+  },
+  {
+    "question": "What does the word 'Incase' mean when used as a conditional modifier?",
+    "options": [
+      "It means the same as 'if' and requires waiting for the event to happen.",
+      "It means doing an action in advance to prepare for a possible future event.",
+      "It completely negates the main clause.",
+      "It can only be used with past perfect tenses."
+    ],
+    "correctIndex": 1,
+    "explanation": "أداة (In case) تعني 'تحسباً لـ'، وهي تدل على اتخاذ إجراء وقائي استباقي في الحاضر قبل وقوع الحدث أو تجنباً له."
+  },
+  {
+    "question": "Identify the correct Inversion for a Type 1 conditional expressing a hesitant or formal future possibility: 'If you need any assistance, contact us.'",
+    "options": [
+      "Were you to need any assistance, contact us.",
+      "Should you need any assistance, contact us.",
+      "Had you needed any assistance, contact us.",
+      "Could you need any assistance, contact us."
+    ],
+    "correctIndex": 1,
+    "explanation": "لعمل قلب (Inversion) في النوع الأول للمستقبل الرسمي الخجول، نحذف If ونستبدلها بـ (Should) متبوعة بالفاعل ثم المصدر."
+  },
+  {
+    "question": "In formal English inversion for Type 2 conditionals, how do we restructure: 'If I had more time, I would help you.'?",
+    "options": [
+      "Had I more time, I would help you.",
+      "Were I to have more time, I would help you.",
+      "Should I have more time, I would help you.",
+      "Both option 0 and option 1 are syntactically correct."
+    ],
+    "correctIndex": 3,
+    "explanation": "في النوع الثاني، يمكن عمل القلب إما بتقديم الفعل Had مباشرة إذا كان رئيسياً، أو باستخدام التركيب الأنيق (Were I to have)."
+  },
+  {
+    "question": "What nuance does the phrase 'Even if' bring to a conditional clause?",
+    "options": [
+      "It means the condition is absolutely mandatory.",
+      "It signals that the outcome will not change, regardless of whether the condition happens or not.",
+      "It turns the sentence into a negative statement automatically.",
+      "It requires a subjunctive verb form exclusively."
+    ],
+    "correctIndex": 1,
+    "explanation": "عبارة (Even if) تفيد 'حتى لو'، وهي تعني أن النتيجة ثابتة ومحصنة ولن تتأثر بوقوع أو عدم وقوع الشرط المذكور."
+  },
+  {
+    "question": "Choose the correct format for an inverted Type 2 conditional that uses a static adjective: 'If I were rich, I would invest in tech.'",
+    "options": [
+      "Rich I were, I would invest in tech.",
+      "Were I rich, I would invest in tech.",
+      "Had I been rich, I would invest in tech.",
+      "Should I be rich, I would invest in tech."
+    ],
+    "correctIndex": 1,
+    "explanation": "عند قلب النوع الثاني الذي يحتوي على الفعل be كفعل أصلي، نحذف If ونقدم (Were) في بداية الجملة لتصبح: Were I rich."
+  },
+  {
+    "question": "What is the structural constraint when using modal verbs like 'Could' or 'Might' inside the 'If-clause' itself?",
+    "options": [
+      "They are mandatory in every type.",
+      "They are generally forbidden inside the If-clause unless expressing a rare concept of ability or permission.",
+      "They must always be written in the past participle.",
+      "They automatically turn the sentence into Type 0."
+    ],
+    "correctIndex": 1,
+    "explanation": "الأفعال الناقصة توضع طبيعياً في بند الجواب والنتيجة، ويُمنع حشرها داخل بند الشرط (If clause) إلا في حالات نادرة جداً تخص الإذن والقدرة."
+  },
+  {
+    "question": "Complete the sentence with an advanced negative inversion layout: '_______ for your timely intervention, the project would have failed completely.'",
+    "options": [
+      "Had it not been",
+      "Were it not",
+      "If it wasn't",
+      "Should it not be"
+    ],
+    "correctIndex": 0,
+    "explanation": "التركيب الاصطلاحي المقلوب للتعبير عن لولا حدوث الشيء في الماضي (النوع الثالث) هو (Had it not been for)."
+  },
+  {
+    "question": "Identify the error in this conditional sentence: 'If I will see him tomorrow, I will give him the document.'",
+    "options": [
+      "The main clause should use 'would'.",
+      "The use of 'will' inside the If-clause is grammatically incorrect.",
+      "The verb 'see' should be in the past tense.",
+      "The comma should be placed after 'tomorrow'."
+    ],
+    "correctIndex": 1,
+    "explanation": "يُمنع استخدام أدوات الاستقبال (will) داخل شق بند الشرط مباشرة؛ بل يُصاغ بند الشرط دائماً في المضارع البسيط للتعبير عن المستقبل المحتمل."
+  },
+  {
+    "question": "What is the inverted alternative for a negative Type 2 conditional sentence like 'If it were not for his help...'?",
+    "options": [
+      "Had it not been for his help...",
+      "Were it not for his help...",
+      "Should it not be for his help...",
+      "Was it not for his help..."
+    ],
+    "correctIndex": 1,
+    "explanation": "للتعبير عن لولا وجود هذا الشيء في الحاضر (النوع الثاني ميكانيكياً)، نقوم بقلبها لتصبح الصيغة الرسمية الثابتة: Were it not for."
+  },
+  {
+    "question": "Complete the complex technical clause: 'Provided that the authentication keys _______ validated, the gateway grants access.'",
+    "options": [
+      "are",
+      "will be",
+      "were",
+      "would be"
+    ],
+    "correctIndex": 0,
+    "explanation": "بما أن النتيجة مضارع بسيط (grants)، فإن الرابط الشرطي (Provided that) يطلب مضارعاً بسيطاً مبنياً للمجهول (are) ليكتمل النمط الصفري أو الأول."
+  },
+  {
+    "question": "In advanced literary prose, why is the subjunctive 'were' preferred over 'was' in sentences like 'If he were to resign...'?",
+    "options": [
+      "Because 'were' indicates that the action already happened.",
+      "Because the subjunctive mood filters out personal pronouns to establish complete hypothetical distance and ultimate formality.",
+      "Because 'was' cannot be followed by an infinitive.",
+      "There is no preference; it is a modern spelling error."
+    ],
+    "correctIndex": 1,
+    "explanation": "استخدام صيغة المجهول الافتراضي (Subjunctive Were) يعكس تماماً البعد الاحتمالي والتحوط الرسمي البليغ، بعيداً عن الصيغ الدارجة."
+  },
+  {
+    "question": "Syntactically analyze the structure: 'But for your advice, I would have made a terrible decision.' What does 'But for' mean?",
+    "options": [
+      "Because of your advice",
+      "If it had not been for your advice (Lola)",
+      "Only for your advice",
+      "Although you gave advice"
+    ],
+    "correctIndex": 1,
+    "explanation": "تعبير (But for) هو تركيب لغوي متقدم جداً يعادل تماماً (If it had not been for) ويعني بالعربية 'لولا وجود' ويأتي خلفه اسم صريح."
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "category": "Comparative & Superlative",
+    "question": "Choose the sentence that correctly applies the structure of balanced parallel progression (السبب والنتيجة المعمارية):",
+    "options": [
+      "The more you practice, you get better.",
+      "The more you practice, the better you get.",
+      "More you practice, better you get.",
+      "The most you practice, the best you get."
+    ],
+    "correct_index": 1,
+    "explanation": "هذه تركيبة ميزان السبب والنتيجة المتوازي الهندسية المتقدمة، وتصاغ دائماً هكذا: (The + Comparative Form ..., The + Comparative Form ...)."
+  },
+  {
+    "category": "Comparative & Superlative",
+    "question": "Fill in the blank following the strict physical vs. metaphorical distance rule: 'We need to look ________ into the root cause of this system failure.'",
+    "options": [
+      "farther",
+      "further",
+      "farthest",
+      "more far"
+    ],
+    "correct_index": 1,
+    "explanation": "نستخدم (Further) للتعمق في الأبعاد والمفاهيم المجازية والمعنوية والبحثية، بينما نترك (Farther) للمسافات المادية الحقيقية القابلة للقياس بالمتر والكيلومتر."
+  },
+  {
+    "category": "Comparative & Superlative",
+    "question": "Identify the architectural error in this comparison: 'This cloud architecture is more safer than the old one.'",
+    "options": [
+      "The use of 'than' is incorrect.",
+      "The word 'safer' should be 'safest'.",
+      "Double comparison error; 'more' shouldn't be paired with a short adjective ending in -er.",
+      "The word 'architecture' cannot be compared."
+    ],
+    "correct_index": 2,
+    "explanation": "هذا خطأ ميزان مزدوج (Double Comparative). الصفات القصيرة مثل (safe) ترتقي بـ (er) فقط لتصبح (safer)، ولا تحتاج نهائياً لإقحام كلمة (more) معها."
+  },
+  {
+    "category": "Comparative & Superlative",
+    "question": "Which sentence correctly demonstrates the architecture of complete equality (ميزان المساواة التامة)?",
+    "options": [
+      "The new framework is as faster as the old one.",
+      "The new framework is as fast than the old one.",
+      "The new framework is as fast as the old one.",
+      "The new framework is more fast as the old one."
+    ],
+    "correct_index": 2,
+    "explanation": "ميزان المساواة التامة يتطلب الحفاظ على الصفة في شكلها الخام الأصلي المحايد دون أي إضافات، متموضعة بدقة بين الكفتين المتماثلتين (as + adjective + as)."
+  },
+  {
+    "category": "Comparative & Superlative",
+    "question": "Complete the superlative sentence correctly: 'This is by far ________ efficient algorithm we have developed.'",
+    "options": [
+      "the more",
+      "the most",
+      "most",
+      "the efficientest"
+    ],
+    "correct_index": 1,
+    "explanation": "بما أن (efficient) صفة طويلة تتكون من عدة مقاطع صوتية، فإن منصة التتويج والتفضيل المطلق لها تتطلب استخدام الأداة القيادية (the most) بدلاف من إضافة اللاحقة -est."
+  },
+  {
+    "category": "Comparative & Superlative",
+    "question": "What is the comparative form of the irregular adjective 'bad'?",
+    "options": [
+      "badder",
+      "more bad",
+      "worse",
+      "worst"
+    ],
+    "correct_index": 2,
+    "explanation": "الصفة (bad) هي صفة شاذة ومتمردة على القواعد المعمارية القياسية؛ شكل المقارنة الخاص بها يتحول بالكامل ليكون (worse)، وشكل التفضيل هو (worst)."
+  },
+  {
+    "category": "Comparative & Superlative",
+    "question": "Select the correct sentence for comparing two specific entities:",
+    "options": [
+      "Of the two database engines, PostgreSQL is the fastest.",
+      "Of the two database engines, PostgreSQL is the faster.",
+      "Of the two database engines, PostgreSQL is more fast.",
+      "Of the two database engines, PostgreSQL is fastest."
+    ],
+    "correct_index": 1,
+    "explanation": "عند المقارنة بين طرفين اثنين فقط (two database engines)، نستخدم صيغة المقارنة (Comparative) مسبوقة بـ (the)، ولا نستخدم التفضيل (fastest) إلا إذا كانوا ثلاثة أطراف أو أكثر."
+  },
+  {
+    "category": "Comparative & Superlative",
+    "question": "Complete the following statement: 'The response time of Server A is three times ________ than Server B.'",
+    "options": [
+      "more slower",
+      "slower",
+      "slowest",
+      "as slow"
+    ],
+    "correct_index": 1,
+    "explanation": "لمقارنة الاختلاف النسبي بين طرفين باستخدام الكلمة المفتاحية (than)، نضع الترس الميكانيكي المعتاد للصفة القصيرة وهو إضافة اللاحقة (slower)."
+  },
+  {
+    "category": "Comparative & Superlative",
+    "question": "Identify the correct superlative form for a short adjective ending in a single consonant preceded by a single vowel (like big):",
+    "options": [
+      "The bigest server in the rack.",
+      "The biggest server in the rack.",
+      "The most big server in the rack.",
+      "The bigger server in the rack."
+    ],
+    "correct_index": 1,
+    "explanation": "تنص القواعد المعمارية الإملائية على مضاعفة الحرف الساكن الأخير (Double the consonant) قبل إضافة اللاحقة -est لحماية النطق الصوتي للكلمة."
+  },
+  {
+    "category": "Comparative & Superlative",
+    "question": "Fill in the blank: 'This programming language is slightly ________ to learn than Python.'",
+    "options": [
+      "more hard",
+      "harder",
+      "hardest",
+      "as hard"
+    ],
+    "correct_index": 1,
+    "explanation": "كلمة (slightly) تستخدم لتعديل وقياس الفروق الصغيرة داخل ميزان المقارنة، والصفة القصيرة (hard) تتحول هندسياً إلى (harder) متبوعة بـ than."
+  },
+  {
+    "category": "Comparative & Superlative",
+    "question": "Which of the following is an irregular adjective that changes its root completely in the superlative form?",
+    "options": [
+      "Good -> Best",
+      "Smart -> Smartest",
+      "Heavy -> Heaviest",
+      "Reliable -> Most reliable"
+    ],
+    "correct_index": 0,
+    "explanation": "الصفة (good) تنتمي للفئة الاستثنائية الشاذة؛ حيث تتحول بالكامل في المقارنة إلى (better) وفي منصة التفضيل المطلق إلى (best)."
+  },
+  {
+    "category": "Comparative & Superlative",
+    "question": "Complete the sentence to show negative comparison: 'The secondary cluster is ________ powerful than the primary one.'",
+    "options": [
+      "less",
+      "lesser",
+      "least",
+      "not as"
+    ],
+    "correct_index": 0,
+    "explanation": "لإظهار الهبوط في ميزان المقارنة للصفات الطويلة (أقل قوة)، نستخدم الأداة الهندسية العكسية (less) متبوعة بالصفة الخام ثم كلمة than."
+  },
+  {
+    "category": "Comparative & Superlative",
+    "question": "Identify the correct sentence structure for modifying a superlative statement:",
+    "options": [
+      "This is by far the most advanced UI design.",
+      "This is much the most advanced UI design.",
+      "This is slightly the most advanced UI design.",
+      "This is more far the most advanced UI design."
+    ],
+    "correct_index": 0,
+    "explanation": "التعبير الاصطلاحي (by far) هو الأداة الهندسية الأكثر فاعلية وثباتاً لتضخيم وإبراز صيغ التفضيل المطلق وتأكيد الصدارة."
+  },
+  {
+    "category": "Comparative & Superlative",
+    "question": "Fill in the blank for physical distance: 'The team moved the backup servers to a ________ facility to protect against floods.'",
+    "options": [
+      "further",
+      "farther",
+      "farthest",
+      "furthest"
+    ],
+    "correct_index": 1,
+    "explanation": "بما أننا نتحدث عن منشأة مادية ملموسة ومسافة جغرافية حقيقية قابلة للقياس، فإن الخيار الصحيح هندسياً هو استخدام (farther)."
+  },
+  {
+    "category": "Comparative & Superlative",
+    "question": "What is the rule for adjectives ending in -y (like happy or heavy) when converting to comparative forms?",
+    "options": [
+      "Keep the -y and add -er.",
+      "Change the -y to -i and add -er.",
+      "Add 'more' before the adjective and keep the -y.",
+      "Omit the -y completely and add -er."
+    ],
+    "correct_index": 1,
+    "explanation": "الصيانة الإملائية للصفات المنتهية بحرف Y مسبوقاً بحرف ساكن تقتضي قلب حرف الـ Y إلى I ميكانيكياً قبل لصق اللاحقة الحاكمة -er."
+  },
+  {
+    "category": "Comparative & Superlative",
+    "question": "Choose the correct option: 'The legacy system is not ________ efficient as the cloud-native one.'",
+    "options": [
+      "as",
+      "so much",
+      "than",
+      "more"
+    ],
+    "correct_index": 0,
+    "explanation": "في ميزان المساواة المنفي (Inequality)، نستخدم التركيبة الهيكلية المعتادة (not as + adjective + as) لنفي التكافؤ بين الطرفين."
+  },
+  {
+    "category": "Comparative & Superlative",
+    "question": "Complete the sentence: 'The compiler threw the ________ error message I have ever seen.'",
+    "options": [
+      "more cryptic",
+      "most cryptic",
+      "crypticest",
+      "cryptic"
+    ],
+    "correct_index": 1,
+    "explanation": "وجود العبارة (I have ever seen) يدل على مقارنة كيان واحد بجميع الكيانات التي مرت في التاريخ، وهو ما يتطلب منصة التفضيل والصفة طويلة فتأخذ (most cryptic)."
+  },
+  {
+    "category": "Comparative & Superlative",
+    "question": "Identify the incorrect structure in this comparison: 'My computer has a much more faster processor than yours.'",
+    "options": [
+      "The use of 'than' is redundant.",
+      "The word 'much' cannot modify a comparative.",
+      "Double comparative error; combining 'more' with 'faster'.",
+      "The sentence is correct."
+    ],
+    "correct_index": 2,
+    "explanation": "لا يجوز هندسياً خلط ترسين للمقارنة معاً؛ الصفة القصيرة أخذت -er (faster) فلا يجوز إقحام كلمة more معها، بينما استخدام much لتعديل faster هو صحيح تماماً."
+  },
+  {
+    "category": "Comparative & Superlative",
+    "question": "Fill in the blank: 'Of all the solutions presented, this one is the ________ viable.'",
+    "options": [
+      "less",
+      "least",
+      "lesser",
+      "most least"
+    ],
+    "correct_index": 1,
+    "explanation": "العبارة (Of all the solutions) تفتح باب التفضيل المطلق في الهبوط (الأقل على الإطلاق)، والأداة الهندسية المخصصة للتفضيل السلبي الأدنى هي (least)."
+  },
+  {
+    "category": "Comparative & Superlative",
+    "question": "Select the correct sentence involving the 'the... the...' structure:",
+    "options": [
+      "The higher the bandwidth, the faster the download speed.",
+      "The high bandwidth, the fast download speed.",
+      "The highest the bandwidth, the fastest download speed.",
+      "The more higher the bandwidth, the more faster download speed."
+    ],
+    "correct_index": 0,
+    "explanation": "البنية الموازية تتطلب استخدام أدوات مقارنة قياسية نقية وصافية في الشقين (higher ... faster) مسبوقة بـ الأداة التعريفية The."
+  },
+  {
+    "category": "Comparative & Superlative",
+    "question": "What is the comparative form of the adjective 'narrow'?",
+    "options": [
+      "narrower",
+      "more narrow",
+      "Both narrower and more narrow are structurally acceptable.",
+      "narrowest"
+    ],
+    "correct_index": 2,
+    "explanation": "بعض الصفات ثنائية المقطع مثل (narrow / clever / quiet) تتمتع بمرونة هندسية استثنائية، حيث تقبل التحويل بـ -er أو بكلمة more وكلاهما فصيح."
+  },
+  {
+    "category": "Comparative & Superlative",
+    "question": "Complete the statement: 'The new encryption key is ________ secure than the old 64-bit key.'",
+    "options": [
+      "many more",
+      "far more",
+      "far much",
+      "more far"
+    ],
+    "correct_index": 1,
+    "explanation": "لتكبير الفجوة وتضخيم الفارق داخل ميزان المقارنة مع الصفات الطويلة، نستخدم الأداة التعديلية (far more) كرافعة ميكانيكية للمعنى."
+  },
+  {
+    "category": "Comparative & Superlative",
+    "question": "Choose the correct sentence to express absolute top performance:",
+    "options": [
+      "This server handles requests the best of all.",
+      "This server handles requests best than all.",
+      "This server handles requests more good than all.",
+      "This server handles requests most good of all."
+    ],
+    "correct_index": 0,
+    "explanation": "كلمة (best) هي التفضيل المطلق من الظرف (well) أو الصفة (good)، وهي الأداة السليمة معمارياً لبيان التفوق الكلي على الجميع."
+  },
+  {
+    "category": "Comparative & Superlative",
+    "question": "Identify the error in this comparative statement: 'This script runs as more efficiently as the previous version.'",
+    "options": [
+      "The word 'efficiently' should be an adjective.",
+      "The word 'more' violates the rules of the 'as...as' equality balance.",
+      "The word 'than' should replace the second 'as'.",
+      "There is no error."
+    ],
+    "correct_index": 1,
+    "explanation": "ميزان المساواة التامة (as...as) يمثل كفتين متطابقتين، وحقن كلمة (more) بداخلها يكسر هذا التوازن لغوياً، حيث يجب أن تبقى الصفة أو الظرف في شكلهم الخام بدون تعديل."
+  },
+  {
+    "category": "Comparative & Superlative",
+    "question": "Fill in the blank: 'The senior developer has ________ experience with legacy systems than the new intern.'",
+    "options": [
+      "more",
+      "many",
+      "most",
+      "much"
+    ],
+    "correct_index": 0,
+    "explanation": "كلمة (than) تفرض تفعيل صيغة المقارنة، وصيغة المقارنة للكميات غير المعدودة (experience) هي الكلمة القيادية (more)."
+  },
+  {
+    "category": "Comparative & Superlative",
+    "question": "What is the superlative form of the irregular adjective 'little' (when expressing quantity)?",
+    "options": [
+      "littlest",
+      "less",
+      "least",
+      "most little"
+    ],
+    "correct_index": 2,
+    "explanation": "الصفة (little) الدالة على الكمية تتحول في المقارنة إلى (less) وتستقر على منصة التفضيل الكلي لتصبح (least)."
+  },
+  {
+    "category": "Comparative & Superlative",
+    "question": "Select the correctly structured sentence for compounding growth: 'The system is becoming ________.'",
+    "options": [
+      "more and more complex",
+      "complexer and complexer",
+      "more complex and most complex",
+      "most and most complex"
+    ],
+    "correct_index": 0,
+    "explanation": "للتعبير عن النمو المتصاعد والمستمر لصفة طويلة، نكرر أداة المقارنة هندسياً بتركيبة ثابتة تسمى التكرار التصاعدي: (more and more + adjective)."
+  },
+  {
+    "category": "Comparative & Superlative",
+    "question": "Choose the proper option: 'This bug is ________ than the one we fixed this morning.'",
+    "options": [
+      "complexer",
+      "more complex",
+      "most complex",
+      "complex"
+    ],
+    "correct_index": 1,
+    "explanation": "بما أن (complex) صفة متعددة المقاطع الصيتة وثقيلة الوزن لغوياً، فإن ميزان المقارنة يرفض اللاحقة -er ويستبدلها ميكانيكياً بـ (more complex)."
+  },
+  {
+    "category": "Comparative & Superlative",
+    "question": "Identify the sentence that correctly compares an entity to its own group without logical error:",
+    "options": [
+      "Python is more popular than any programming language.",
+      "Python is more popular than any other programming language.",
+      "Python is most popular than any programming language.",
+      "Python is as popular than any other programming language."
+    ],
+    "correct_index": 1,
+    "explanation": "عند مقارنة كيان بجروبه الخاص، يجب هندسياً إخراج هذا الكيان من دائرة المقارنة باستخدام كلمة (other) لضمان المنطق اللغوي؛ فلا يمكن لـ Python أن يكون أكثر شهرة من نفسه."
+  },
+  {
+    "category": "Comparative & Superlative",
+    "question": "Complete the sentence: 'The testing phase was the ________ part of the entire development cycle.'",
+    "options": [
+      "most short",
+      "shortest",
+      "shorter",
+      "short"
+    ],
+    "correct_index": 1,
+    "explanation": "الصفة (short) قصيرة ومكونة من مقطع صوتي واحد، وصيغة التفضيل المطلق المعمارية لها تلزمنا بإضافة اللاحقة المباشرة (shortest) مسبوقة بـ The."
+  }
+]

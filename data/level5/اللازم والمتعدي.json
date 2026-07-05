@@ -1,0 +1,332 @@
+[
+  {
+    "question": "What defines an 'Intransitive Verb' in the sentence ecosystem?",
+    "options": [
+      "It requires a direct object to complete its meaning.",
+      "It always links the subject to an adjective.",
+      "It is self-contained and does not require any object to complete its meaning.",
+      "It must be used with a plural subject."
+    ],
+    "correctIndex": 2,
+    "explanation": "الفعل اللازم (Intransitive) يكتفي بفاعله لإتمام المعنى اللغوي ولا يتعدى لطلب مفعول به."
+  },
+  {
+    "question": "Which of the following is a key characteristic of 'Transitive Verbs'?",
+    "options": [
+      "They cannot be used in past tenses.",
+      "They transfer action from the subject to a direct object.",
+      "They only describe mental states.",
+      "They function exactly like mathematical equal signs."
+    ],
+    "correctIndex": 1,
+    "explanation": "الأفعال المتعدية تنقل أثر الفعل من الفاعل وتتعداه ليصيب مفعولاً به مباشر يربط المعنى."
+  },
+  {
+    "question": "What role do 'Linking Verbs' perform in a sentence?",
+    "options": [
+      "They show physical action or movement.",
+      "They connect the subject to a word that describes or renames it.",
+      "They always require two indirect objects.",
+      "They negate the entire clause automatically."
+    ],
+    "correctIndex": 1,
+    "explanation": "أفعال الربط تعمل كجسر يربط الفاعل بصفته أو بحالته دون أن تنقل أي حركة أو أكشن."
+  },
+  {
+    "question": "In the sentence 'The guests arrived early', how is the verb 'arrived' classified?",
+    "options": [
+      "Transitive Verb",
+      "Intransitive Verb",
+      "Linking Verb",
+      "Ditransitive Verb"
+    ],
+    "correctIndex": 1,
+    "explanation": "الفعل arrived هنا لازم لأن المعنى اكتمل تماماً بوجود الفاعل، وكلمة early هي ظرف زمان وليست مفعولاً به."
+  },
+  {
+    "question": "What are linking verbs like seem, look, or become followed by to describe the subject?",
+    "options": [
+      "Adverbs ending in -ly",
+      "Adjectives",
+      "Prepositions only",
+      "Past Participles exclusively"
+    ],
+    "correctIndex": 1,
+    "explanation": "أفعال الربط تتطلب صفات (Adjectives) تصف حالة الفاعل وليس ظروفاً."
+  },
+  {
+    "question": "In the sentence 'The architect showed the client the blueprints', what is the role of 'the client'?",
+    "options": [
+      "Direct Object",
+      "Indirect Object",
+      "Linking Verb Complement",
+      "Subject"
+    ],
+    "correctIndex": 1,
+    "explanation": "كلمة (the client) هي المفعول به غير المباشر لأنها تمثل الشخص المستفيد أو المتلقي للفعل."
+  },
+  {
+    "question": "In the sentence 'The architect showed the client the blueprints', what is the role of 'the blueprints'?",
+    "options": [
+      "Indirect Object",
+      "Direct Object",
+      "Linking Verb Complement",
+      "Subject"
+    ],
+    "correctIndex": 1,
+    "explanation": "المخططات (blueprints) هي المفعول به المباشر لأنها الشيء الذي وقع عليه فعل العرض والإظهار مباشرة."
+  },
+  {
+    "question": "Apply the substitution test to find the correct modifier: 'The soup smells _______.'",
+    "options": [
+      "well",
+      "goodly",
+      "good",
+      "badly"
+    ],
+    "correctIndex": 2,
+    "explanation": "الفعل smells هنا فعل ربط ناقص (يمكن استبداله بـ is)، لذا يحتاج لصفة (good) تصف الحساء."
+  },
+  {
+    "question": "Which sentence demonstrates the verb 'Run' acting as a 'Transitive Verb'?",
+    "options": [
+      "The machine runs smoothly.",
+      "The athlete runs every morning.",
+      "She runs a large factory.",
+      "Water runs down the hill."
+    ],
+    "correctIndex": 2,
+    "explanation": "في الجملة الثالثة، الفعل متعدٍ لأن له مفعول به مباشر يجيب عن سؤال (ماذا تدير؟) وهو المصنع."
+  },
+  {
+    "question": "What is a 'Ditransitive Verb'?",
+    "options": [
+      "A verb that requires no subject.",
+      "A verb that takes both a direct object and an indirect object.",
+      "A verb that functions as an auxiliary only.",
+      "A verb that cannot be changed into passive voice."
+    ],
+    "correctIndex": 1,
+    "explanation": "الفعل المتعدي لمفعولين (Ditransitive) هو الذي يتطلب مفعولاً به مباشر ومفعولاً به غير مباشر لاكتمال بنية الجملة."
+  },
+  {
+    "question": "In the sentence 'The manager considered the project a success', what is 'a success'?",
+    "options": [
+      "Indirect Object",
+      "Object Complement",
+      "Subject Complement",
+      "Intransitive Modifier"
+    ],
+    "correctIndex": 1,
+    "explanation": "كلمة (a success) هي مكمل للمفعول به (Object Complement) لأنها تعيد تعريف وتوضيح حالة المفعول به المباشر (the project)."
+  },
+  {
+    "question": "Identify the sentence that contains a 'Linking Verb'.",
+    "options": [
+      "The engineer fixed the router.",
+      "The team remained calm during the crisis.",
+      "The program compiled without errors.",
+      "He sent an email to the client."
+    ],
+    "correctIndex": 1,
+    "explanation": "الفعل (remained) هو فعل ربط يربط الفاعل (the team) بصفته (calm) دون وجود حركة صريحة."
+  },
+  {
+    "question": "How does the verb 'Grow' change its identity in 'The tree grew quickly' versus 'He grew tired'?",
+    "options": [
+      "It is transitive in both.",
+      "It is intransitive in the first, and a linking verb in the second.",
+      "It is a linking verb in the first, and transitive in the second.",
+      "It is ditransitive in both."
+    ],
+    "correctIndex": 1,
+    "explanation": "في الجملة الأولى الفعل لازم يصف النمو والحدث، وفي الثانية فعل ربط بمعنى أصبح (became) ويربط الفاعل بالصفة tired."
+  },
+  {
+    "question": "Which sentence features a verb that is strictly and always 'Intransitive'?",
+    "options": [
+      "The project team built the prototype.",
+      "An unexpected problem occurred.",
+      "The developer wrote the documentation.",
+      "The designer created the interface."
+    ],
+    "correctIndex": 1,
+    "explanation": "الفعل (occurred) بمعنى حدث هو فعل لازم دائماً وأبداً في اللغة الإنجليزية ولا يمكن صياغته بمفعول به."
+  },
+  {
+    "question": "In the sentence 'The company named Emad employee of the month', what is the structural role of 'Emad'?",
+    "options": [
+      "Indirect Object",
+      "Direct Object",
+      "Subject Complement",
+      "Prepositional Object"
+    ],
+    "correctIndex": 1,
+    "explanation": "اسم (Emad) هو المفعول به المباشر الذي وقع عليه فعل التسمية والتعيين مباشرة."
+  },
+  {
+    "question": "What is the structural test to prove a verb is a 'Linking Verb'?",
+    "options": [
+      "Replace it with 'do' or 'did'.",
+      "Replace it with a form of 'be' (is/am/are) to see if the sentence still makes sense.",
+      "Add an object directly after it.",
+      "Change the subject into a plural noun."
+    ],
+    "correctIndex": 1,
+    "explanation": "اختبار الاستبدال بأفعال الكينونة (Be) هو أفضل طريقة؛ فإذا استبدلت الفعل وظل المعنى متوازناً فهو فعل ربط."
+  },
+  {
+    "question": "Which verb in English can never accept a 'Subject Complement'?",
+    "options": [
+      "Become",
+      "Seem",
+      "Destroy",
+      "Appear"
+    ],
+    "correctIndex": 2,
+    "explanation": "الفعل (Destroy) هو فعل متعدٍ صلب يتطلب مفعولاً به ولا يمكنه ربط الفاعل بمكمل فاعل (Subject Complement)."
+  },
+  {
+    "question": "Analyze the sentence 'The server sounds noisy.' What is 'noisy'?",
+    "options": [
+      "An adverb modifying sounds.",
+      "A subject complement (adjective) following a linking verb.",
+      "A direct object.",
+      "An object complement."
+    ],
+    "correctIndex": 1,
+    "explanation": "كلمة noisy هي صفة وتعمل كمكمل للفاعل لتصف حالة الخادم بعد فعل الربط السمعي sounds."
+  },
+  {
+    "question": "What happens structurally when an indirect object is placed AFTER the direct object?",
+    "options": [
+      "The sentence becomes ungrammatical.",
+      "It must be preceded by a preposition like 'to' or 'for'.",
+      "The verb turns into an intransitive action.",
+      "The direct object becomes the subject."
+    ],
+    "correctIndex": 1,
+    "explanation": "إذا تأخر المفعول به غير المباشر وجاء بعد المباشر، يجب إدخال حرف جر مثل to أو for لحفظ التوازن التركيبي."
+  },
+  {
+    "question": "Identify the sentence where 'Taste' functions as an action (Transitive) verb rather than a linking verb.",
+    "options": [
+      "The coffee tastes bitter.",
+      "The chef tasted the soup carefully.",
+      "The food tastes delicious.",
+      "The milk tastes sour."
+    ],
+    "correctIndex": 1,
+    "explanation": "في الجملة الثانية، يقوم الطاهي بحدث حركي مقصود (تذوق الحساء)، والحساء هنا مفعول به مباشر، مما يجعله فعلاً متعدياً."
+  },
+  {
+    "question": "Which of the following is a 'Subject Complement'?",
+    "options": [
+      "A noun or adjective that follows a transitive verb.",
+      "A noun or adjective that follows a linking verb and describes the subject.",
+      "An adverb that modifies an intransitive verb.",
+      "The target of a ditransitive action."
+    ],
+    "correctIndex": 1,
+    "explanation": "مكمل الفاعل هو الاسم أو الصفة التي تلي فعل الربط مباشرة لتعطي تفاصيل وهوية جديدة للفاعل الأساسي."
+  },
+  {
+    "question": "In the sentence 'The constant noise drove the engineer crazy', how is 'crazy' diagnosed?",
+    "options": [
+      "Subject Complement",
+      "Object Complement",
+      "Indirect Object",
+      "Adverbial Modifier"
+    ],
+    "correctIndex": 1,
+    "explanation": "كلمة crazy صفة تصف المفعول به (the engineer) وتوضح حالته بعد وقوع الفعل عليه، فهي مكمل مفعول به."
+  },
+  {
+    "question": "What kind of verb is used in the sentence 'The system is secure'?",
+    "options": [
+      "Intransitive verb",
+      "Transitive verb",
+      "Linking verb (Verb to be)",
+      "Ditransitive verb"
+    ],
+    "correctIndex": 2,
+    "explanation": "الفعل 'is' هنا يعمل كفعل ربط أساسي يربط النظام (the system) بصفته الأمنية (secure)."
+  },
+  {
+    "question": "Identify the sentence that uses a prepositional phrase to represent the indirect object.",
+    "options": [
+      "He gave the team a detailed presentation.",
+      "He gave a detailed presentation to the team.",
+      "The team received a detailed presentation.",
+      "A detailed presentation was given to the team."
+    ],
+    "correctIndex": 1,
+    "explanation": "الجملة الثانية قامت بنقل المفعول غير المباشر (the team) للخلف واستخدمت حرف الجر to لربطه هندسياً."
+  },
+  {
+    "question": "Why can we NOT turn the sentence 'The program lasted three hours' into the passive voice?",
+    "options": [
+      "Because 'three hours' is an adverbial objective, and 'lasted' is an intransitive verb.",
+      "Because the verb is in the past tense.",
+      "Because the sentence has a compound subject.",
+      "Because 'lasted' is a linking verb."
+    ],
+    "correctIndex": 0,
+    "explanation": "الفعل lasted هنا فعل لازم، و(three hours) هي ظرفية زمنية لقياس المدة وليست مفعولاً به، والأفعال اللازمة لا تُبنى للمجهول."
+  },
+  {
+    "question": "Which of the following sentences contains BOTH a direct object and an object complement?",
+    "options": [
+      "The client sent the contract yesterday.",
+      "The committee elected her chairperson.",
+      "The solution seems very effective.",
+      "They offered him a magnificent position."
+    ],
+    "correctIndex": 1,
+    "explanation": "في الجملة الثانية، her هي المفعول به المباشر، و chairperson هي مكمل المفعول به الذي يوضح صفتها ومنصبها الجديد."
+  },
+  {
+    "question": "In advanced syntax, what is the essential difference between a 'Subject Complement' and an 'Object Complement'?",
+    "options": [
+      "Subject complements modify adverbs; object complements modify nouns.",
+      "Subject complements describe the actor of the sentence; object complements describe the target of a transitive action.",
+      "Subject complements are always verbs; object complements are always pronouns.",
+      "There is no syntactic difference between them."
+    ],
+    "correctIndex": 1,
+    "explanation": "مكمل الفاعل يصف ويعود على فاعل الجملة بعد فعل ربط، بينما مكمل المفعول يصف ويعود على المفعول به بعد فعل متعدٍ."
+  },
+  {
+    "question": "Select the sentence that structurally changes the verb 'Feel' from a linking context to an intransitive physical context.",
+    "options": [
+      "I feel happy about the new update.",
+      "The fabric feels incredibly soft.",
+      "The blind man felt along the wall for the exit.",
+      "The patient feels better today."
+    ],
+    "correctIndex": 2,
+    "explanation": "في الجملة الثالثة، الفعل فُصل عن كونه ربطاً للحالة النفسية والجسدية وأصبح يعبر عن حركة فيزيائية صريحة (التحسس باليد) دون طلب مفعول."
+  },
+  {
+    "question": "Syntactically diagnose the following sentence: 'The team made Emad their leader.'",
+    "options": [
+      "Subject + Verb + Indirect Object + Direct Object",
+      "Subject + Verb + Direct Object + Object Complement",
+      "Subject + Verb + Linking Complement + Adjective",
+      "Subject + Verb + Intransitive Modifier"
+    ],
+    "correctIndex": 1,
+    "explanation": "التركيب الهندسي هنا: الفاعل (The team)، الفعل (made)، المفعول به المباشر (Emad)، ومكمل المفعول به (their leader)."
+  },
+  {
+    "question": "What is the structural definition of a 'Cognate Object' (المفعول المطلق) sometimes found with intransitive verbs?",
+    "options": [
+      "An object completely unrelated to the verb's root.",
+      "An object whose noun form is derived directly from the same root as the verb itself.",
+      "A prepositional phrase acting as an adverb.",
+      "A subject modifier placed at the end."
+    ],
+    "correctIndex": 1,
+    "explanation": "المفعول المطلق أو المشتق في الإنجليزية يحدث عندما يأتي مفعول به مشتق من لفظ الفعل نفسه لتأكيده، مثل: He dreamed a strange dream."
+  }
+]

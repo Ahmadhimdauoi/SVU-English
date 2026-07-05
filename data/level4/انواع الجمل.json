@@ -1,0 +1,332 @@
+[
+  {
+    "question": "Which sentence structure consists of exactly one independent clause and no dependent clauses?",
+    "options": [
+      "A Compound sentence",
+      "A Simple sentence",
+      "A Complex sentence",
+      "A Compound-Complex sentence"
+    ],
+    "correctIndex": 1,
+    "explanation": "[سهل] الجملة البسيطة تتكون من بند مستقل واحد يقدم فكرة واحدة مكتملة ولا يحتوي على بنود تابعة."
+  },
+  {
+    "question": "Identify the core function of a 'Declarative Sentence'.",
+    "options": [
+      "To ask a direct question.",
+      "To express strong sudden emotion.",
+      "To state a fact, opinion, or argument.",
+      "To issue a command or request."
+    ],
+    "correctIndex": 2,
+    "explanation": "[سهل] الجملة الخبرية (Declarative) وظيفتها الأساسية هي تقديم معلومة، حقيقة، أو رأي وتنتهي بنقطة."
+  },
+  {
+    "question": "What punctuation mark is universally used at the end of an 'Interrogative Sentence'?",
+    "options": [
+      "A period (.)",
+      "A question mark (?)",
+      "An exclamation point (!)",
+      "A semicolon (;)"
+    ],
+    "correctIndex": 1,
+    "explanation": "[سهل] الجملة الاستفهامية (Interrogative) هي التي تسعى لطلب المعرفة وينبغي أن تنتهي بعلامة استفهام."
+  },
+  {
+    "question": "What is the coordinate conjunction 'and' primarily used for in compound structures?",
+    "options": [
+      "To show a contrast or contradiction.",
+      "To present a choice between options.",
+      "To add similar ideas or information.",
+      "To indicate a causal result."
+    ],
+    "correctIndex": 2,
+    "explanation": "[سهل] أداة الربط (and) تُستخدم هندسياً لإضافة معلومات أو أفكار متوافقة ومتشابهة إلى الجملة."
+  },
+  {
+    "question": "Identify the structure of this sentence: 'Innovation drives success.'",
+    "options": [
+      "Simple sentence",
+      "Compound sentence",
+      "Complex sentence",
+      "Compound-Complex sentence"
+    ],
+    "correctIndex": 0,
+    "explanation": "[سهل] هذه جملة بسيطة تتكون من فاعل مفرد وفعل ومفعول به، وتُشكل بنداً مستقلاً واحداً مكتمل المعنى."
+  },
+  {
+    "question": "In a standard simple sentence, what does an 'Independent Clause' mean?",
+    "options": [
+      "It cannot express a complete thought without help.",
+      "It can stand alone as a complete sentence.",
+      "It must contain at least two coordinating conjunctions.",
+      "It always starts with a subordinating word like 'because'."
+    ],
+    "correctIndex": 1,
+    "explanation": "[سهل] البند المستقل (Independent Clause) هو مجموعة كلمات تحتوي فاعلاً وفعلاً وتستطيع الوقوف بمفردها كمعنى تام."
+  },
+  {
+    "question": "Which of the following is NOT one of the coordinating conjunctions found in the 'FANBOYS' acronym?",
+    "options": [
+      "For",
+      "Because",
+      "But",
+      "So"
+    ],
+    "correctIndex": 1,
+    "explanation": "[سهل] كلمة (Because) هي أداة ربط تابعة (Subordinating) وليست من أدوات العطف السبع المجمعة في كلمة FANBOYS."
+  },
+  {
+    "question": "Identify the sentence structure: 'The manager and the team collaborated perfectly.'",
+    "options": [
+      "Simple sentence with a compound subject",
+      "Compound sentence with a coordinating conjunction",
+      "Complex sentence with a dependent clause",
+      "Simple sentence with a compound verb"
+    ],
+    "correctIndex": 0,
+    "explanation": "[سهل] الجملة بسيطة لأنها فكرة مستقلة واحدة، لكن الفاعل هنا مركب (The manager and the team)."
+  },
+  {
+    "question": "What defines a 'Compound Sentence'?",
+    "options": [
+      "A sentence with one subject and two direct objects.",
+      "Two or more independent clauses joined by a coordinating conjunction or semicolon.",
+      "A sentence that must contain an exclamation mark.",
+      "One independent clause mixed with multiple dependent clauses."
+    ],
+    "correctIndex": 1,
+    "explanation": "[سهل] الجملة المركبة (Compound) هي تحالف يربط بين فكرتين مستقلتين متساويتين في الأهمية الهيكلية."
+  },
+  {
+    "question": "Which word is a subordinating conjunction used to create a dependent clause?",
+    "options": [
+      "Or",
+      "Yet",
+      "Although",
+      "Nor"
+    ],
+    "correctIndex": 2,
+    "explanation": "[سهل] كلمة (Although) هي أداة ربط تابعة تُستخدم لبناء جملة معقدة لبيان التناقض أو التعارض."
+  },
+  {
+    "question": "Identify the structure: 'The system updated and restarted automatically.'",
+    "options": [
+      "Compound sentence",
+      "Simple sentence with a compound verb",
+      "Complex sentence",
+      "Compound-Complex sentence"
+    ],
+    "correctIndex": 1,
+    "explanation": "[متوسط] الجملة بسيطة لأنها بند مستقل واحد، ولكن الفعل هنا مركب (updated and restarted) لفاعل واحد."
+  },
+  {
+    "question": "Complete the compound sentence safely: 'The deadline was extremely tight, _______ the team delivered on time.'",
+    "options": [
+      "so",
+      "but",
+      "for",
+      "or"
+    ],
+    "correctIndex": 1,
+    "explanation": "[متوسط] السياق يتطلب أداة ربط تفيد التناقض والتعارض، لذا نختار (but) لربط البندين المستقلين."
+  },
+  {
+    "question": "What is a 'Dependent Clause'?",
+    "options": [
+      "A clause that expresses a complete thought and can stand alone.",
+      "A group of words that contains a subject and verb but cannot stand alone as a complete thought.",
+      "A clause that never contains a verb.",
+      "A simple predicate with modifiers."
+    ],
+    "correctIndex": 1,
+    "explanation": "[متوسط] البند التابع (Dependent) يحتوي على فاعل وفعل لكنه يبدأ برابط يجعله يفتقر لمعنى مكتمل دون البند الرئيسي."
+  },
+  {
+    "question": "Identify the structure of this sentence: 'Although the task was challenging, the team enjoyed it.'",
+    "options": [
+      "Simple sentence",
+      "Compound sentence",
+      "Complex sentence",
+      "Compound-Complex sentence"
+    ],
+    "correctIndex": 2,
+    "explanation": "[متوسط] الجملة معقدة (Complex) لأنها تتكون من بند تابع يبدأ بـ Although وبند آخر مستقل تمام المعنى."
+  },
+  {
+    "question": "In complex sentences, what relation does the conjunction 'Because' establish between clauses?",
+    "options": [
+      "Time relation",
+      "Contradiction relation",
+      "Reason/Causal relation",
+      "Condition relation"
+    ],
+    "correctIndex": 2,
+    "explanation": "[متوسط] الرابط (Because) يُستخدم هندسياً لربط البند التابع بالرئيسي لتوضيح العلة والسبب."
+  },
+  {
+    "question": "Choose the correctly punctuated compound sentence:",
+    "options": [
+      "The server failed we lost the un-saved data.",
+      "The server failed, but we lost the un-saved data.",
+      "The server failed, so we lost the un-saved data.",
+      "The server failed so, we lost the un-saved data."
+    ],
+    "correctIndex": 2,
+    "explanation": "[متوسط] الصياغة السليمة تتطلب فاصلة قبل أداة العطف (so) التي تعبر عن النتيجة المنطقية المترتبة على فشل الخادم."
+  },
+  {
+    "question": "What structure is formed by joining at least two independent clauses and at least one dependent clause?",
+    "options": [
+      "A Complex sentence",
+      "A Compound sentence",
+      "A Compound-Complex sentence",
+      "An Advanced Simple sentence"
+    ],
+    "correctIndex": 2,
+    "explanation": "[متوسط] الجملة المركبة-المعقدة تجمع بين خصائص التركيبين: بندين مستقلين أو أكثر مع بند تابع واحد على الأقل."
+  },
+  {
+    "question": "Identify the function: 'Please back up all project files before leaving the office.'",
+    "options": [
+      "Declarative",
+      "Imperative",
+      "Interrogative",
+      "Exclamatory"
+    ],
+    "correctIndex": 1,
+    "explanation": "[متوسط] الجملة أمرية/توجيهية (Imperative) لأنها تصدر طلباً أو تعليماً مباشراً وتبدأ بالمصدر المخفف الفاعل."
+  },
+  {
+    "question": "Where should the comma be placed if a dependent clause introduces a complex sentence?",
+    "options": [
+      "Directly after the subordinating conjunction.",
+      "At the very end of the entire sentence.",
+      "Immediately after the introductory dependent clause concludes.",
+      "No comma should be used at all."
+    ],
+    "correctIndex": 2,
+    "explanation": "[متوسط] القاعدة الإنشائية تفرض أنه إذا تقدم البند التابع في البداية، يجب وضع فاصلة تفصل بينه وبين البند الرئيسي."
+  },
+  {
+    "question": "Identify the structural error known as a 'Fused Sentence':",
+    "options": [
+      "Two independent clauses joined with a comma and a coordinating conjunction.",
+      "Two independent clauses run together with no punctuation at all.",
+      "A sentence that is missing a clear predicate.",
+      "A dependent clause trying to stand alone as a sentence."
+    ],
+    "correctIndex": 1,
+    "explanation": "[متوسط] الجملة المدمجة (Fused Sentence) هي خطأ قواعدي ينتج عن دمج جملتين مستقلتين وراء بعضهما دون أي علامة ترقيم."
+  },
+  {
+    "question": "Analyze this structure: 'We will launch the product after the testing phase concludes.' What type is it?",
+    "options": [
+      "Compound",
+      "Complex",
+      "Simple",
+      "Compound-Complex"
+    ],
+    "correctIndex": 1,
+    "explanation": "[متقدم] الجملة معقدة؛ لأنها تحتوى على بند مستقل يليه بند تابع زمني يبدأ برابط التبعية (after) وبدون فواصل."
+  },
+  {
+    "question": "What is the structural role of a semicolon (;) when analyzing sentence architecture?",
+    "options": [
+      "It connects a dependent clause to an independent clause.",
+      "It links two closely related independent clauses without a coordinating conjunction.",
+      "It is used exclusively to terminate declarative statements.",
+      "It modifies transitive verbs into linking actions."
+    ],
+    "correctIndex": 1,
+    "explanation": "[متقدم] الفاصلة المنقوطة تقوم مقام أداة العطف تماماً وتربط بين بندين مستقلين صلبين بينهما علاقة فكرية وثيقة."
+  },
+  {
+    "question": "Which of the following examples contains a 'Comma Splice' error?",
+    "options": [
+      "The code compiled successfully, but the test failed.",
+      "The code compiled successfully; however, the test failed.",
+      "The code compiled successfully, the test failed.",
+      "Because the code compiled successfully, the test passed."
+    ],
+    "correctIndex": 2,
+    "explanation": "[متقدم] خطأ (Comma Splice) هو ربط جملتين مستقلتين بفاصلة فقيرة بمفردها دون الاستعانة بأحد حروف العطف (FANBOYS)."
+  },
+  {
+    "question": "Identify the structure: 'The algorithm worked well; however, it consumed too much memory.'",
+    "options": [
+      "Compound sentence using a conjunctive adverb",
+      "Complex sentence with a relative clause",
+      "Simple sentence with an adverbial phrase",
+      "Compound-Complex sentence"
+    ],
+    "correctIndex": 0,
+    "explanation": "[متقدم] هذه جملة مركبة استخدمت ظرفاً رابطاً (however) مسبوقاً بفاصلة منقوطة ومتبوعاً بفاصلة لربط فكرتين مستقلتين."
+  },
+  {
+    "question": "What functional and structural mutation occurs inside an 'Exclamatory Sentence'?",
+    "options": [
+      "It modifies objects into subjects.",
+      "It projects strong emotional depth and forcefully terminates with an exclamation mark (!).",
+      "It acts as a passive inquiry tool.",
+      "It always lacks a structural verb."
+    ],
+    "correctIndex": 1,
+    "explanation": "[متقدم] الجملة التعجبية (Exclamatory) تعبر عن مشاعر قوية وصدمة أو اندهاش وتختم لزاماً بعلامة التعجب لتوثيق النبرة الحادة."
+  },
+  {
+    "question": "Analyze this architecture: 'Since the firewall was down, hackers attacked, and they corrupted the database.'",
+    "options": [
+      "Compound sentence",
+      "Complex sentence",
+      "Compound-Complex sentence",
+      "Advanced Compound structure"
+    ],
+    "correctIndex": 2,
+    "explanation": "[صعب] الجملة مركبة-معقدة؛ لوجود بند تابع في البداية (Since...) وبندين مستقلين معطوفين بأداة العطف (and)."
+  },
+  {
+    "question": "What is a 'Sentence Fragment' in structural diagnosis?",
+    "options": [
+      "A sentence that has too many independent clauses.",
+      "An incomplete piece of a sentence trying to pass as a whole, lacking a subject, verb, or complete thought.",
+      "A compound sentence lacking a comma before 'and'.",
+      "A declarative sentence punctuated with a question mark."
+    ],
+    "correctIndex": 1,
+    "explanation": "[صعب] شظية الجملة (Fragment) هي جملة مبتورة تفتقر إلى فاعل أو فعل أو لا تؤدي معنى تاماً، مثل ترك بند تابع وحيداً."
+  },
+  {
+    "question": "Which sentence functions as an 'Imperative' but is framed softly for professional request environments?",
+    "options": [
+      "You must complete this deployment right now.",
+      "Would you mind reviewing the contract when you have time?",
+      "Please download the updated repository immediately.",
+      "I wonder if you finished the design framework."
+    ],
+    "correctIndex": 2,
+    "explanation": "[صعب] الجملة الثالثة تبدأ بـ Please تليها صيغة المصدر مباشرة (download)، مما يجعلها جملة أمرية مهذبة وتوجيهية صريحة."
+  },
+  {
+    "question": "How can a 'Comma Splice' error be structurally engineered out of a sentence without changing the words?",
+    "options": [
+      "By deleting the comma entirely.",
+      "By replacing the faulty comma with a semicolon or a period.",
+      "By moving the subject to the end of the clause.",
+      "By transforming the main verb into a gerund (-ing)."
+    ],
+    "correctIndex": 1,
+    "explanation": "[صعب جداً] لعلاج خطأ التوصيل الخاطئ بالفاصلة دون تبديل كلمات، نقوم بترقية الفاصلة إلى فاصلة منقوطة (;) أو فصلهما بنقطة."
+  },
+  {
+    "question": "In advanced sentence mechanics, what distinguishes a coordinating conjunction from a subordinating conjunction?",
+    "options": [
+      "Coordinating conjunctions connect structurally equal elements; subordinating conjunctions create an unequal relationship of dependency.",
+      "Coordinating conjunctions can only be placed at the beginning of sentences.",
+      "Subordinating conjunctions require a semicolon before them at all times.",
+      "Coordinating conjunctions turn independent clauses into fragments."
+    ],
+    "correctIndex": 0,
+    "explanation": "[صعب جداً] أدوات العطف تربط بين كتل متساوية في القيمة التركيبية، بينما الأدوات التابعة تكسر التوازن وتجعل بنداً خادماً وتابعاً لآخر."
+  }
+]

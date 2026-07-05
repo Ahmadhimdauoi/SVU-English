@@ -6,7 +6,7 @@ interface TestSelectionProps {
   levelDesc: string;
   tests: TestInfo[];
   onSelectTest: (test: TestInfo) => void;
-  onBack: () => void;
+  onBack?: () => void;
 }
 
 const TestSelection: React.FC<TestSelectionProps> = ({
@@ -142,26 +142,6 @@ const TestSelection: React.FC<TestSelectionProps> = ({
           <p className="text-xs sm:text-sm text-slate-400">حاول البحث باستخدام كلمات أخرى.</p>
         </div>
       )}
-
-      <button
-        onClick={onBack}
-        className="mt-6 sm:mt-8 px-5 py-2.5 sm:px-6 sm:py-3 border-2 border-slate-200 text-slate-600 font-bold rounded-lg hover:bg-slate-50 transition-all flex items-center gap-2 active:scale-95 text-xs sm:text-sm"
-      >
-        <svg
-          className="w-4 h-4"
-          fill="none"
-          stroke="currentColor"
-          viewBox="0 0 24 24"
-        >
-          <path
-            strokeLinecap="round"
-            strokeLinejoin="round"
-            strokeWidth="2"
-            d="M10 19l-7-7m0 0l7-7m-7 7h18"
-          />
-        </svg>
-        العودة لقائمة المستويات
-      </button>
     </div>
   );
 };

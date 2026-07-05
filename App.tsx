@@ -201,7 +201,7 @@ const App: React.FC = () => {
           <Results
             result={testResult}
             questions={activeQuestions}
-            onRestart={resetToWelcome}
+            onRestart={resetToTestSelection}
           />
         )}
       </main>

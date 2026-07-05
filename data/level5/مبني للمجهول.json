@@ -1,0 +1,362 @@
+[
+  {
+    "category": "Passive Voice",
+    "question": "Convert this active sentence into its correct engineering passive structure: 'The developer updated the source code yesterday.'",
+    "options": [
+      "The source code is updated by the developer yesterday.",
+      "The source code was updated by the developer yesterday.",
+      "The source code has been updated by the developer yesterday.",
+      "The source code was being updated by the developer yesterday."
+    ],
+    "correct_index": 1,
+    "explanation": "الزمن الأصلي ماضي بسيط (updated)، لذا تقتضي شيفرة التحويل الحفاظ على هذا الزمن عبر جلب الماضي من فعل To Be وهو (was) متبوعاً بالتصريف الثالث للاسم الحاكم المفرّد."
+  },
+  {
+    "category": "Passive Voice",
+    "question": "Why is the future continuous passive (e.g., 'will be being built') avoided in modern English architecture?",
+    "options": [
+      "Because it is grammatically illegal under all rules.",
+      "Because it creates clumsy, overly dense structures that hinder clarity.",
+      "Because it changes the original meaning of the text.",
+      "Because it cannot take a past participle form."
+    ],
+    "correct_index": 1,
+    "explanation": "تجنب التراكيب مثل (will be being) يرجع لسبب جمالي وهندسي معاصر؛ حيث تسبب هذه التراكيب ثقلاً لفظياً وتكراراً للفعل المساعد يعيق انسيابية المعنى المهني."
+  },
+  {
+    "category": "Passive Voice",
+    "question": "Identify the passive voice sentence used appropriately for an academic or professional report:",
+    "options": [
+      "Somebody mixed the chemicals in a glass beaker.",
+      "The chemicals were mixed in a glass beaker.",
+      "They mixed the chemicals in a glass beaker.",
+      "We mixed the chemicals in a glass beaker."
+    ],
+    "correct_index": 1,
+    "explanation": "في التقارير العلمية والأكاديمية، يتم تسليط عدسة الكاميرا البصرية بالكامل على 'الحدث والنتيجة' (المزيج) وتهميش الفاعل لأنه غير مهم للسياق، وهي الميزة الأساسية للمبني للمجهول."
+  },
+  {
+    "category": "Passive Voice",
+    "question": "What is the correct passive form of: 'The QA team is testing the application right now.'",
+    "options": [
+      "The application was tested by the QA team right now.",
+      "The application is tested by the QA team right now.",
+      "The application is being tested by the QA team right now.",
+      "The application has been tested by the QA team right now."
+    ],
+    "correct_index": 2,
+    "explanation": "الجملة الأصلية في زمن المضارع المستمر (is testing). للحفاظ على ميكانيكية الاستمرارية بصيغة المجهول، نستخدم التوليفة الهندسية: (is/are + being + Past Participle)."
+  },
+  {
+    "category": "Passive Voice",
+    "question": "Complete the passive sentence: 'The server logs ________ closely by the IT team every hour.'",
+    "options": [
+      "are monitored",
+      "is monitored",
+      "were monitored",
+      "are being monitor"
+    ],
+    "correct_index": 0,
+    "explanation": "بما أن كلمة (logs) جمع، والحدث يتكرر بانتظام كل ساعة (حقيقة/عادة بالمضارع البسيط)، فإن التركيبة الصحيحة تتطلب فعل المساعد الجمع (are) مع التصريف الثالث."
+  },
+  {
+    "category": "Passive Voice",
+    "question": "Which of the following cannot be converted into the passive voice structure?",
+    "options": [
+      "The algorithm solved the problem.",
+      "The package arrived at midnight.",
+      "The user clicked the button.",
+      "The company launched a new service."
+    ],
+    "correct_index": 1,
+    "explanation": "الفعل (arrived) هو فعل لازم (Intransitive verb) لا يتعدى لمفعول به. وبما أن ميكانيكية المبني للمجهول تتطلب مفعول به لتبدأ به الجملة، فلا يمكن تحويله."
+  },
+  {
+    "category": "Passive Voice",
+    "question": "Fill in the blank with the correct passive structure: 'All system passwords ________ encrypted before storage.'",
+    "options": [
+      "must being",
+      "must be",
+      "must to be",
+      "must been"
+    ],
+    "correct_index": 1,
+    "explanation": "الأفعال الناقصة (Modal Verbs مثل must) تتبعها دائماً صيغة الفعل الخام (Infinitive)، لذلك نضع قاعدة الأساس الثابتة وهي (must be) تليها الصفة التصريفية."
+  },
+  {
+    "category": "Passive Voice",
+    "question": "What is the correct passive construction for a present perfect sentence like: 'Management has approved the budget.'",
+    "options": [
+      "The budget is approved by management.",
+      "The budget was approved by management.",
+      "The budget has been approved by management.",
+      "The budget had been approved by management."
+    ],
+    "correct_index": 2,
+    "explanation": "لتحويل المضارع التام (has approved) إلى مجهول، ندرج أداة الربط الوسطى (been) بين الفعل المساعد والتصريف الثالث لتصبح الترس الميكانيكي: (has/have been + V3)."
+  },
+  {
+    "category": "Passive Voice",
+    "question": "Complete the sentence: 'The ancient ruins ________ by thousands of tourists every year.'",
+    "options": [
+      "are visited",
+      "is visited",
+      "were visited",
+      "have been visited"
+    ],
+    "correct_index": 0,
+    "explanation": "كلمة (ruins) جمع، والسياق يشير إلى حدث متكرر سنوياً (مضارع بسيط). بالتالي البنية المعمارية تفرض استخدام (are) متبوعة بالتصريف الثالث للفعل."
+  },
+  {
+    "category": "Passive Voice",
+    "question": "Choose the correct passive form for the past continuous sentence: 'The mechanics were repairing the aircraft when the storm hit.'",
+    "options": [
+      "The aircraft was repaired by the mechanics when the storm hit.",
+      "The aircraft was being repaired by the mechanics when the storm hit.",
+      "The aircraft were being repaired by the mechanics when the storm hit.",
+      "The aircraft has been repaired by the mechanics when the storm hit."
+    ],
+    "correct_index": 1,
+    "explanation": "الحدث الأصلي ماضي مستمر، والمفعول به (aircraft) هنا مفرد في هذا السياق، لذا نركب الترس الميكانيكي للماضي المستمر المجهول: (was being + Past Participle)."
+  },
+  {
+    "category": "Passive Voice",
+    "question": "Fill in the blank: 'The global market report ________ by the end of next week.'",
+    "options": [
+      "will be published",
+      "will being published",
+      "is published",
+      "will have been published"
+    ],
+    "correct_index": 0,
+    "explanation": "للإشارة إلى حدث سيقع في المستقبل بصيغة المجهول، نستخدم التركيبة الهيكلية القياسية المباشرة (will be + V3)."
+  },
+  {
+    "category": "Passive Voice",
+    "question": "What is the correct passive voice for a past perfect sentence: 'The team had finalized the design before the deadline.'",
+    "options": [
+      "The design was finalized before the deadline.",
+      "The design has been finalized before the deadline.",
+      "The design had been finalized before the deadline.",
+      "The design had finalized before the deadline."
+    ],
+    "correct_index": 2,
+    "explanation": "لتحويل الماضي التام (had + V3) إلى مجهول، نقوم بحقن أداة الربط الزمنية (been) لتصبح الصيغة الهندسية المستقرة (had been finalized)."
+  },
+  {
+    "category": "Passive Voice",
+    "question": "Complete the statement: 'The infrastructure upgrades ________ by the municipal council as we speak.'",
+    "options": [
+      "are funding",
+      "are being funded",
+      "is being funded",
+      "were funded"
+    ],
+    "correct_index": 1,
+    "explanation": "العبارة الزمنية (as we speak) تعني أن الحدث يقع الآن (مضارع مستمر)، وبما أن (upgrades) جمع، نختار الصيغة الهندسية (are being funded)."
+  },
+  {
+    "category": "Passive Voice",
+    "question": "Which sentence correctly demonstrates the passive voice with a double-object verb (indirect and direct)?",
+    "options": [
+      "A bonus was given to the team by the CEO.",
+      "The team was given a bonus by the CEO.",
+      "Both sentences are grammatically correct and structural alternatives.",
+      "A bonus was given the team by the CEO."
+    ],
+    "correct_index": 2,
+    "explanation": "الأفعال التي تأخذ مفعولين (مثل give) تتيح للهندسة اللغوية مسارين للتحويل؛ إما البدء بالمفعول المباشر أو غير المباشر، وكلاهما صحيح تماماً."
+  },
+  {
+    "category": "Passive Voice",
+    "question": "Identify the passive sentence that uses an agent with 'with' instead of 'by' correctly:",
+    "options": [
+      "The code was written with a senior developer.",
+      "The container was filled with liquid nitrogen.",
+      "The server was rebooted with the administrator.",
+      "The contract was signed with a blue pen."
+    ],
+    "correct_index": 1,
+    "explanation": "نستخدم (by) للإشارة إلى الفاعل العاقل أو الجهة المسببة، بينما نستخدم (with) هندسياً للإشارة إلى الأداة أو المادة المستخدمة لإتمام الحدث."
+  },
+  {
+    "category": "Passive Voice",
+    "question": "Fill in the blank: 'New security features ________ into the operating system next month.'",
+    "options": [
+      "are introduced",
+      "will be introduced",
+      "will been introduced",
+      "is going to be introduced"
+    ],
+    "correct_index": 1,
+    "explanation": "الظرف الزمني (next month) يحتم استخدام صيغة المستقبل البسيط، والهيكل المجهول السليم لها هو (will be) متبوعة بالتصريف الثالث لاسم الجمع."
+  },
+  {
+    "category": "Passive Voice",
+    "question": "What is the correct passive structure for a sentence with 'going to': 'They are going to upgrade the hardware tomorrow.'",
+    "options": [
+      "The hardware is going to be upgraded tomorrow.",
+      "The hardware will going to be upgraded tomorrow.",
+      "The hardware was going to be upgraded tomorrow.",
+      "The hardware is going to upgraded tomorrow."
+    ],
+    "correct_index": 0,
+    "explanation": "صيغة المستقبل باستخدام (going to) تتحول للمجهول عبر الحفاظ على الفعل المساعد المناسب للاسم الجديد متبوعاً بـ (going to be + V3)."
+  },
+  {
+    "category": "Passive Voice",
+    "question": "Choose the correct passive structure for this negative sentence: 'The system does not back up files automatically.'",
+    "options": [
+      "Files are not backed up automatically by the system.",
+      "Files were not backed up automatically by the system.",
+      "Files do not backed up automatically by the system.",
+      "Files are not backing up automatically by the system."
+    ],
+    "correct_index": 0,
+    "explanation": "النفي في المضارع البسيط (does not) يتحول في المجهول إلى استخدام فعل To Be المنفي المناسب للجمع (are not) تليها الصفة التصريفية."
+  },
+  {
+    "category": "Passive Voice",
+    "question": "Complete the passive question: '________ the database credentials changed after the leak?'",
+    "options": [
+      "Was",
+      "Were",
+      "Have",
+      "Did"
+    ],
+    "correct_index": 1,
+    "explanation": "كلمة (credentials) اسم جمع في زمن الماضي البسيط، لذا فإن ميكانيكية بناء السؤال المجهول تقتضي البدء بفعل المساعد الماضي الجمع (Were)."
+  },
+  {
+    "category": "Passive Voice",
+    "question": "Identify the structural error in this passive sentence: 'The bug has being fixed by the engineering department.'",
+    "options": [
+      "The word 'by' should be omitted.",
+      "The word 'being' should be replaced with 'been'.",
+      "The word 'has' should be replaced with 'is'.",
+      "The word 'fixed' should be 'fixing'."
+    ],
+    "correct_index": 1,
+    "explanation": "هناك خلط في التروس التزامنية؛ زمن المضارع التام المجهول يتطلب استخدام (been) وليس (being) التي تنتمي حصرياً للأزمنة المستمرة."
+  },
+  {
+    "category": "Passive Voice",
+    "question": "Fill in the blank: 'It ________ that the new algorithm will reduce processing time by 40%.'",
+    "options": [
+      "is believed",
+      "believes",
+      "has believed",
+      "was being believed"
+    ],
+    "correct_index": 0,
+    "explanation": "هذه صيغة المبني للمجهول غير الشخصي (Impersonal Passive) وتستخدم بكثرة في التقارير والبيانات الرسمية لبدء الجمل بعبارات مثل (It is believed/said/reported)."
+  },
+  {
+    "category": "Passive Voice",
+    "question": "What is the passive form of the modal sentence: 'You should encrypt confidential data.'",
+    "options": [
+      "Confidential data should encrypted.",
+      "Confidential data should be encrypted.",
+      "Confidential data should been encrypted.",
+      "Confidential data should being encrypted."
+    ],
+    "correct_index": 1,
+    "explanation": "مع الأفعال الناقصة (should)، تنص القاعدة المعمارية على إضافة فعل To Be في شكله المجرد (be) متبوعاً بالتصريف الثالث للفعل الرئيسي."
+  },
+  {
+    "category": "Passive Voice",
+    "question": "Complete the sentence: 'The files ________ deleted by mistake before a backup could be made.'",
+    "options": [
+      "was",
+      "were",
+      "have been",
+      "are"
+    ],
+    "correct_index": 1,
+    "explanation": "السياق يشير بوضوح إلى الماضي بدليل جملة (could be made)، وبما أن كلمة (files) جمع، نستخدم الفعل المساعد الماضي (were)."
+  },
+  {
+    "category": "Passive Voice",
+    "question": "Which of these active sentences requires an infinitive passive structure when converted? 'The manager expects the team to complete the task.'",
+    "options": [
+      "The manager expects the task to be completed by the team.",
+      "The manager expects that the task is completed by the team.",
+      "The task is expected to complete by the team.",
+      "The task was expected to be completed by the team."
+    ],
+    "correct_index": 0,
+    "explanation": "الأفعال التي تتبعها صيغة مصدرية (to + verb) يتم تحويل شقها المصدري في المجهول إلى الهيكل الهندسي التالي: (to be + Past Participle)."
+  },
+  {
+    "category": "Passive Voice",
+    "question": "Choose the correct passive structure for an imperative sentence (جملة أمرية) like: 'Close the firewall ports.'",
+    "options": [
+      "The firewall ports must close.",
+      "Let the firewall ports be closed.",
+      "The firewall ports are closed.",
+      "Let the firewall ports closed."
+    ],
+    "correct_index": 1,
+    "explanation": "في الهندسة اللغوية الكلاسيكية، يتم تحويل جمل الأمر بصيغة المجهول باستخدام الهيكل النظامي: (Let + Object + be + V3)."
+  },
+  {
+    "category": "Passive Voice",
+    "question": "Fill in the blank: 'The network server ________ checked for vulnerabilities twice a month.'",
+    "options": [
+      "is",
+      "are",
+      "was",
+      "been"
+    ],
+    "correct_index": 0,
+    "explanation": "بما أن الفاعل مفرد (server) والحدث يمثل روتين متكرر بانتظام (twice a month)، فإن البنية تقتضي استخدام المضارع البسيط المفرّد المجهول (is)."
+  },
+  {
+    "category": "Passive Voice",
+    "question": "What is the correct passive construction for: 'The company had built a scalable ecosystem.'",
+    "options": [
+      "A scalable ecosystem was built by the company.",
+      "A scalable ecosystem has been built by the company.",
+      "A scalable ecosystem had been built by the company.",
+      "A scalable ecosystem had built by the company."
+    ],
+    "correct_index": 2,
+    "explanation": "الماضي التام الفاعل (had built) يفرض تفعيل الترس الرابط للمجهول التام وهو (had been built) للحفاظ على التراتبية الزمنية الصحيحة."
+  },
+  {
+    "category": "Passive Voice",
+    "question": "Identify the passive sentence that describes a present ongoing action correctly:",
+    "options": [
+      "The new computers are installing now.",
+      "The new computers are being installed now.",
+      "The new computers were installed now.",
+      "The new computers have been installing now."
+    ],
+    "correct_index": 1,
+    "explanation": "وجود ظرف الزمان (now) مع فاعل غير عاقل يستقبل الفعل يؤكد حاجتنا لبنية المضارع المستمر المبني للمجهول: (are being + V3)."
+  },
+  {
+    "category": "Passive Voice",
+    "question": "Complete the passive sentence: 'The original code ________ by the lead developer long before the project ended.'",
+    "options": [
+      "has been refactored",
+      "had been refactored",
+      "was refactored",
+      "is refactored"
+    ],
+    "correct_index": 1,
+    "explanation": "العبارة الزمنية (long before the project ended) تشير إلى حدث تم واكتمل قبل حدث ماضٍ آخر، وهو النطاق الهندسي الخالص للماضي التام المجهول (had been)."
+  },
+  {
+    "category": "Passive Voice",
+    "question": "Why is the active agent ('by someone' or 'by them') frequently omitted in professional passive voice architecture?",
+    "options": [
+      "Because it violates server protocols.",
+      "Because the identity of the agent is either unknown, completely obvious, or irrelevant to the technical process.",
+      "Because pronouns are not allowed in passive sentences.",
+      "Because it changes the tense of the sentence."
+    ],
+    "correct_index": 1,
+    "explanation": "الهدف الأسمى للمبني للمجهول هندسياً هو تنظيف الجملة من الحشو؛ فإذا كان الفاعل مجهولاً أو بديهياً، يتم حذفه لتركيز الضوء على الحدث ذاته."
+  }
+]
