@@ -6,6 +6,7 @@ import transitiveIntransitiveJson from "./اللازم والمتعدي.json";
 import gerundInfinitive2Json from "./المصدر والمسند (2).json";
 import comparisonSuperlativeJson from "./المقارنة والتفضيل.json";
 import passiveVoiceJson from "./مبني للمجهول.json";
+import tensesJson from "./الأزمنة.json";
 
 export const level5Tests: TestInfo[] = [
   {
@@ -32,6 +33,11 @@ export const level5Tests: TestInfo[] = [
     id: "passive_voice",
     title: "المبني للمجهول (Passive Voice)",
     questions: convertJSONQuestions(passiveVoiceJson, "Advanced"),
+  },
+  {
+    id: "tenses",
+    title: "الأزمنة (Tenses)",
+    questions: convertJSONQuestions(tensesJson, "Advanced"),
   },
 ];
 

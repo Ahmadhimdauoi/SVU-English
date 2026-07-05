@@ -7,6 +7,7 @@ import relativePronounsJson from "./أدوات الوصل.json";
 import necessityIntensityJson from "./الضرورة والشدة.json";
 import gerundInfinitiveJson from "./المصدر والمسند.json";
 import advancedComparisonsJson from "./المقارنات المتقدمة.json";
+import tensesJson from "./الأزمنة.json";
 
 export const level3Tests: TestInfo[] = [
   {
@@ -38,6 +39,11 @@ export const level3Tests: TestInfo[] = [
     id: "advanced_comparisons",
     title: "المقارنات المتقدمة (Advanced Comparisons)",
     questions: convertJSONQuestions(advancedComparisonsJson, "Intermediate"),
+  },
+  {
+    id: "tenses",
+    title: "الأزمنة (Tenses)",
+    questions: convertJSONQuestions(tensesJson, "Intermediate"),
   },
 ];
 

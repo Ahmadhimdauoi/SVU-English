@@ -9,6 +9,7 @@ import questionWordsJson from "./The_Questioning_Blueprint احرف اسؤال.j
 import irregularVerbsJson from "./(الأفعال الشاذة).json";
 import modalVerbsJson from "./(الأفعال الناقصة).json";
 import passiveVoiceJson from "./pasive voice المبني للمجهول.json";
+import tensesJson from "./الأزمنة.json";
 
 export const level1Tests: TestInfo[] = [
   {
@@ -50,6 +51,11 @@ export const level1Tests: TestInfo[] = [
     id: "passive_voice",
     title: "المبني للمجهول (Passive Voice)",
     questions: convertJSONQuestions(passiveVoiceJson, "Elementary"),
+  },
+  {
+    id: "tenses",
+    title: "الأزمنة (Tenses)",
+    questions: convertJSONQuestions(tensesJson, "Elementary"),
   },
 ];
 

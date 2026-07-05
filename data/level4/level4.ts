@@ -6,6 +6,7 @@ import prepositionsJson from "./احرف الجر.json";
 import modalVerbs2Json from "./الافعال الناقصة (2).json";
 import conditionalsJson from "./الجمل الشرطية.json";
 import sentenceTypesJson from "./انواع الجمل.json";
+import tensesJson from "./الأزمنة.json";
 
 export const level4Tests: TestInfo[] = [
   {
@@ -32,6 +33,11 @@ export const level4Tests: TestInfo[] = [
     id: "sentence_types",
     title: "أنواع الجمل (Sentence Types)",
     questions: convertJSONQuestions(sentenceTypesJson, "Upper-Intermediate"),
+  },
+  {
+    id: "tenses",
+    title: "الأزمنة (Tenses)",
+    questions: convertJSONQuestions(tensesJson, "Upper-Intermediate"),
   },
 ];
 

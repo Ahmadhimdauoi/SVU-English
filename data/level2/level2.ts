@@ -7,6 +7,7 @@ import irregularVerbsJson from "./(الأفعال الشاذة).json";
 import modalVerbsJson from "./(الأفعال الناقصة).json";
 import conditionalsJson from "./(الجمل الشرطية).json";
 import prepositionsJson from "./The Preposition Blueprint احرف الجر.json";
+import tensesJson from "./الأزمنة.json";
 
 export const level2Questions: Question[] = [
   {
@@ -270,5 +271,10 @@ export const level2Tests: TestInfo[] = [
     id: "prepositions",
     title: "حروف الجر (Prepositions)",
     questions: convertJSONQuestions(prepositionsJson, "Pre-Intermediate"),
+  },
+  {
+    id: "tenses",
+    title: "الأزمنة (Tenses)",
+    questions: convertJSONQuestions(tensesJson, "Pre-Intermediate"),
   },
 ];
