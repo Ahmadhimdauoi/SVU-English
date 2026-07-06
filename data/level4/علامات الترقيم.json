@@ -1,0 +1,362 @@
+[
+  {
+    "category": "Punctuation Guide",
+    "question": "Choose the correctly punctuated sentence for independent clauses:",
+    "options": [
+      "The research is complete, however, the results are pending.",
+      "The research is complete; however, the results are pending.",
+      "The research is complete however the results are pending.",
+      "The research is complete; however the results are pending."
+    ],
+    "correct_index": 1,
+    "explanation": "تم استخدام الفاصلة المنقوطة (Semicolon) هنا كجسر خفي لربط جملتين كاملتين تفصلهما أداة ربط انتقالوية (Transition word مثل however)، متبوعة بفاصلة لضبط إيقاع القراءة والتوقف القصير."
+  },
+  {
+    "category": "Punctuation Guide",
+    "question": "Which of the following follows the British punctuation style regarding quotations?",
+    "options": [
+      "He said, 'Innovation distinguishes between a leader and a follower.'",
+      "He said, 'Innovation distinguishes between a leader and a follower'.",
+      "He said; 'Innovation distinguishes between a leader and a follower.'",
+      "He said 'Innovation distinguishes between a leader and a follower.'"
+    ],
+    "correct_index": 1,
+    "explanation": "في الأسلوب البريطاني (UK Style)، توضع النقطة خارج علامات الاقتباس المفردة ما لم تكن علامة الترقيم جزءاً من النص المقتبس الأصلي، على عكس الأسلوب الأمريكي الذي يضعها دائماً بالداخل."
+  },
+  {
+    "category": "Punctuation Guide",
+    "question": "Identify the sentence that suffers from a 'Comma Splice':",
+    "options": [
+      "The system crashed because the server overheated.",
+      "The system crashed, the server overheated.",
+      "The system crashed; the server overheated.",
+      "The system crashed, so the server overheated."
+    ],
+    "correct_index": 1,
+    "explanation": "هذه الجملة تعاني من خطأ هندسي لغوي شائع وهو (Comma Splice)، حيث تم ربط جملتين مستقلتين كاملتين بفاصلة فقط دون أداة ربط (FANBOYS) أو فاصلة منقوطة."
+  },
+  {
+    "category": "Punctuation Guide",
+    "question": "Which sentence correctly uses an apostrophe for possession with plural nouns ending in S?",
+    "options": [
+      "The companies' assets were liquidated after the audit.",
+      "The companie's assets were liquidated after the audit.",
+      "The companies assets' were liquidated after the audit.",
+      "The companys' assets were liquidated after the audit."
+    ],
+    "correct_index": 0,
+    "explanation": "بما أن كلمة (Companies) جمع ينتهي بحرف S، فإن قاعدة الملكية الهندسية تقتضي وضع الفاصلة العليا (Apostrophe) بعد حرف الـ S مباشرة دون إضافة S أخرى."
+  },
+  {
+    "category": "Punctuation Guide",
+    "question": "Where should a colon (:) be correctly utilized?",
+    "options": [
+      "We need to buy: software, hardware, and cables.",
+      "The requirements are as follows: a master's degree, experience, and fluency.",
+      "The requirements are: a master's degree, experience, and fluency.",
+      "We need to: update the system, restart it, and test it."
+    ],
+    "correct_index": 1,
+    "explanation": "يستخدم النقطتان (Colon) كبوابة توضيحية بشرط أن تسبقهما جملة كاملة الأركان ومستقلة تماماً من الناحية النحوية لإفادة تفصيل ما بعدها."
+  },
+  {
+    "category": "Punctuation Guide",
+    "question": "Which of the following sentences uses parenthetical commas correctly?",
+    "options": [
+      "The lead architect, who designed the tower won an award.",
+      "The lead architect who designed the tower, won an award.",
+      "The lead architect, who designed the tower, won an award.",
+      "The lead architect who designed, the tower, won an award."
+    ],
+    "correct_index": 2,
+    "explanation": "الجملة الاعتراضية (who designed the tower) هي معلومة إضافية يمكن حذفها دون اختلال البنية الأساسية، لذا هندسياً يجب حصرها بين فاصلتين كاستراحة مؤقتة."
+  },
+  {
+    "category": "Punctuation Guide",
+    "question": "Select the sentence with correct hyphenation for compound adjectives:",
+    "options": [
+      "This is a state of the art facility.",
+      "This is a state-of-the-art facility.",
+      "This is a state-of the art facility.",
+      "This is a state of-the-art facility."
+    ],
+    "correct_index": 1,
+    "explanation": "عندما تعمل مجموعة من الكلمات معاً كصفة مركبة تسبق الاسم (facility)، يتم ربطها بواصلات (Hyphens) لتشكيل وحدة وصفية موحدة بصرياً ولغوياً."
+  },
+  {
+    "category": "Punctuation Guide",
+    "question": "Which punctuation mark is missing to fix this sentence: 'She is a talented programmer she knows three languages.'",
+    "options": [
+      "Comma",
+      "Semicolon",
+      "Hyphen",
+      "Apostrophe"
+    ],
+    "correct_index": 1,
+    "explanation": "هذه الجملة تسمى (Run-on sentence) لأنها تحتوي على فكرتين كاملتين مدمجتين بلا فواصل ميكانيكية. الفاصلة المنقوطة هي الأداة المثالية هنا للفصل والربط المنطقي."
+  },
+  {
+    "category": "Punctuation Guide",
+    "question": "Choose the correct sentence involving an introductory clause punctuation:",
+    "options": [
+      "When the system updates are complete you can log back in.",
+      "When the system updates are complete, you can log back in.",
+      "When the system updates are complete; you can log back in.",
+      "When the system updates, are complete you can log back in."
+    ],
+    "correct_index": 1,
+    "explanation": "عند البدء بجملة تابعة (Dependent Clause) تبدأ بأداة شرط أو ربط مثل When، يجب فصلها عن الجملة الرئيسية بفاصلة."
+  },
+  {
+    "category": "Punctuation Guide",
+    "question": "Identify the correct placement of terminal punctuation in American style:",
+    "options": [
+      "She described the bug as a \"critical anomaly\".",
+      "She described the bug as a \"critical anomaly.\"",
+      "She described the bug as a \"critical anomaly\",",
+      "She described the bug as a \"critical anomaly\";"
+    ],
+    "correct_index": 1,
+    "explanation": "النظام الأمريكي (US Style) يفرض وضع النقطة وعلامة الفاصلة داخل علامات الاقتباس المزدوجة دائماً بغض النظر عن سياق الاقتباس."
+  },
+  {
+    "category": "Punctuation Guide",
+    "question": "Which sentence correctly applies punctuation to a list inside a sentence without redundancy?",
+    "options": [
+      "The tools include; Git, Docker, and VS Code.",
+      "The tools include Git, Docker, and VS Code.",
+      "The tools include: Git, Docker, and VS Code.",
+      "The tools include, Git, Docker, and VS Code."
+    ],
+    "correct_index": 1,
+    "explanation": "لا يجب وضع نقطتين أو فاصلة بعد الفعل مباشرة (include) إذا كان المفعول به مكملاً طبيعياً ومباشراً للفعل النحوي."
+  },
+  {
+    "category": "Punctuation Guide",
+    "question": "What is the correct punctuation for a transitional word in the middle of an independent clause?",
+    "options": [
+      "The solution, therefore, requires a full database migration.",
+      "The solution therefore requires a full database migration.",
+      "The solution; therefore requires a full database migration.",
+      "The solution, therefore requires a full database migration."
+    ],
+    "correct_index": 0,
+    "explanation": "عند إقحام كلمة انتقالية مثل therefore في منتصف جملة مستقلة كعنصر اعتراضي، يتم إحاطتها بفاصلتين لعزلها صوتياً ولغوياً."
+  },
+  {
+    "category": "Punctuation Guide",
+    "question": "Select the option that correctly separates items in a complex list containing internal commas:",
+    "options": [
+      "We visited Paris, France, Berlin, Germany, and Rome, Italy.",
+      "We visited Paris, France; Berlin, Germany; and Rome, Italy.",
+      "We visited Paris; France, Berlin; Germany, and Rome; Italy.",
+      "We visited Paris France, Berlin Germany, and Rome Italy."
+    ],
+    "correct_index": 1,
+    "explanation": "عندما تحتوي عناصر القائمة نفسها على فواصل داخلية، نستخدم الفاصلة المنقوطة (Semicolon) كعلامة ترقيم من الدرجة الأعلى لمنع التشتت الهيكلي."
+  },
+  {
+    "category": "Punctuation Guide",
+    "question": "Which of the following demonstrates the correct use of an em dash (—)?",
+    "options": [
+      "The upgrade—which cost thousands—was completely unnecessary.",
+      "The upgrade - which cost thousands - was completely unnecessary.",
+      "The upgrade, —which cost thousands—, was completely unnecessary.",
+      "The upgrade; which cost thousands; was completely unnecessary."
+    ],
+    "correct_index": 0,
+    "explanation": "تُستخدم الشرطة الطويلة (Em dash) دون مسافات لإحداث توقف مفاجئ أو إبراز جملة اعتراضية بشكل أقوى بصرياً من الفواصل التقليدية."
+  },
+  {
+    "category": "Punctuation Guide",
+    "question": "Choose the correctly punctuated sentence involving non-essential relative clauses:",
+    "options": [
+      "My laptop which has 16GB of RAM runs very fast.",
+      "My laptop, which has 16GB of RAM, runs very fast.",
+      "My laptop, which has 16GB of RAM runs very fast.",
+      "My laptop which has 16GB of RAM, runs very fast."
+    ],
+    "correct_index": 1,
+    "explanation": "بما أنني حددت سلفاً (My laptop)، فإن الجملة الوصفية اللاحقة تعتبر معلومة غير أساسية (Non-defining)، وتتطلب حصرها هندسياً بين فاصلتين."
+  },
+  {
+    "category": "Punctuation Guide",
+    "question": "Which sentence is punctuated correctly regarding an essential (defining) relative clause?",
+    "options": [
+      "The programmer, who wrote this script, deserves a promotion.",
+      "The programmer who wrote this script deserves a promotion.",
+      "The programmer, who wrote this script deserves a promotion.",
+      "The programmer who wrote this script, deserves a promotion."
+    ],
+    "correct_index": 1,
+    "explanation": "الجملة الوصفية هنا أساسية لتحديد أي مبرمج نقصد، وبالتالي لا يجوز هندسياً فصلها بأي فواصل لأنها جزء لا يتجزأ من هوية الفاعل."
+  },
+  {
+    "category": "Punctuation Guide",
+    "question": "Identify the correct punctuation for direct quotation injection:",
+    "options": [
+      "The manager yelled \"Deploy the fix now!\"",
+      "The manager yelled, \"Deploy the fix now!\"",
+      "The manager yelled: \"Deploy the fix now!\"",
+      "The manager yelled. \"Deploy the fix now!\""
+    ],
+    "correct_index": 1,
+    "explanation": "قبل البدء باقتباس كلام مباشر بعد أفعال القول (مثل yelled أو said)، نستخدم الفاصلة لتهيئة القارئ للانتقال إلى النص المقتبس."
+  },
+  {
+    "category": "Punctuation Guide",
+    "question": "Which sentence correctly punctuates the possessive form of a singular noun ending in S like 'James'?",
+    "options": [
+      "James' code is exceptionally clean.",
+      "James's code is exceptionally clean.",
+      "Both James' and James's are grammatically acceptable.",
+      "Jameses code is exceptionally clean."
+    ],
+    "correct_index": 2,
+    "explanation": "بالنسبة للأسماء المفردة المنتهية بـ S، تقبل اللغويات الإنجليزية كلا الخيارين هندسياً؛ إما الاكتفاء بالفاصلة العليا أو إضافة S إضافية للملكية."
+  },
+  {
+    "category": "Punctuation Guide",
+    "question": "What is the correct punctuation for a question embedded inside a statement?",
+    "options": [
+      "The question is, how do we scale this database?",
+      "The question is, how do we scale this database.?",
+      "The question is, \"how do we scale this database\"?",
+      "The question is: how do we scale this database?"
+    ],
+    "correct_index": 3,
+    "explanation": "استخدام النقطتين الرأسيتين يتبعها السؤال المباشر بأسلوب الحرف الكبير وعلامة الاستفهام هو الهيكل النحوي السليم لطرح مسألة معينة."
+  },
+  {
+    "category": "Punctuation Guide",
+    "question": "Choose the correct sentence with proper punctuation for multiple coordinate adjectives:",
+    "options": [
+      "It was a long tedious, and frustrating debugging session.",
+      "It was a long, tedious, frustrating debugging session.",
+      "It was a long, tedious, and frustrating, debugging session.",
+      "It was a long tedious frustrating debugging session."
+    ],
+    "correct_index": 1,
+    "explanation": "عندما تصف عدة صفات مستقلة متساوية الأهمية (Coordinate Adjectives) اسماً واحداً، يتم الفصل بينها بالفواصل بشكل متتابع ومريح للعين."
+  },
+  {
+    "category": "Punctuation Guide",
+    "question": "Which punctuation should be used to indicate the omission of words from a quoted text?",
+    "options": [
+      "Hyphen (-)",
+      "Ellipsis (...)",
+      "En Dash (–)",
+      "Semicolon (;)"
+    ],
+    "correct_index": 1,
+    "explanation": "علامة الحذف أو نقاط الاسترسال الثلاث (Ellipsis) هي الأداة المعمارية المخصصة للاعتذار عن نقص النص أو الإشارة لكلمات محذوفة دون تغيير المعنى."
+  },
+  {
+    "category": "Punctuation Guide",
+    "question": "Select the option that shows the correct usage of brackets `[]` inside a quotation:",
+    "options": [
+      "The expert stated, \"The framework [React] is leading the market.\"",
+      "The expert stated, \"The framework (React) is leading the market.\"",
+      "The expert stated, \"The framework {React} is leading the market.\"",
+      "The expert stated, \"The framework /React/ is leading the market.\""
+    ],
+    "correct_index": 0,
+    "explanation": "تُستخدم الأقواس المربعة `[]` حصرياً لإدخال توضيح أو تعديل من قِبل المحرر أو الكاتب الحالي داخل النص المقتبس الأصلي من شخص آخر."
+  },
+  {
+    "category": "Punctuation Guide",
+    "question": "Identify the punctuation error: 'Although, the patch was deployed successfully, the error persisted.'",
+    "options": [
+      "The comma after 'successfully' is incorrect.",
+      "The comma after 'Although' is redundant and breaks the structure.",
+      "The sentence should end with an exclamation mark.",
+      "There should be a semicolon instead of the first comma."
+    ],
+    "correct_index": 1,
+    "explanation": "كلمة (Although) هي أداة ربط تابعة وليست ظرفاً انتقالياً، لذا لا يجوز هندسياً فصلها بفاصلة مباشرة عند بداية الجملة."
+  },
+  {
+    "category": "Punctuation Guide",
+    "question": "Which option is correctly punctuated using an Oxford Comma (الفاصلة المساندة)?",
+    "options": [
+      "The server architecture relies on Linux, Nginx and MySQL.",
+      "The server architecture relies on Linux, Nginx, and MySQL.",
+      "The server architecture relies on Linux Nginx, and MySQL.",
+      "The server architecture relies on Linux, Nginx, and, MySQL."
+    ],
+    "correct_index": 1,
+    "explanation": "الفاصلة الأكسفوردية (Oxford Comma) هي الفاصلة الأخيرة التي توضع قبل حرف العطف (and) في القوائم لتفادي أي لبس لغوي محتمل بين العنصرين الأخيرين."
+  },
+  {
+    "category": "Punctuation Guide",
+    "question": "What is the primary architectural purpose of a semicolon (;)?",
+    "options": [
+      "To introduce a block list of items.",
+      "To link two closely related independent clauses without a coordinating conjunction.",
+      "To show strong emotion or emphasis.",
+      "To isolate parenthetical thoughts from the main syntax."
+    ],
+    "correct_index": 1,
+    "explanation": "الفاصلة المنقوطة تعمل بمثابة مغناطيس يربط فكرتين كاملتين مستقلتين دون الحاجة لحروف عطف، دلالةً على تلاحم المعنى بين الشقين."
+  },
+  {
+    "category": "Punctuation Guide",
+    "question": "Which sentence handles quotation inside another quotation correctly?",
+    "options": [
+      "Omar told me, \"The tech lead said, 'Don't push to master.'\"",
+      "Omar told me, \"The tech lead said, \"Don't push to master.\"\"",
+      "Omar told me, 'The tech lead said, 'Don't push to master.''",
+      "Omar told me, \"The tech lead said, Don't push to master.\""
+    ],
+    "correct_index": 0,
+    "explanation": "عند إدراج اقتباس داخل اقتباس آخر، نستخدم علامات الاقتباس المفردة `' '` للنص الداخلي، وعلامات الاقتباس المزدوجة `\" \"` للنص الخارجي الكلي."
+  },
+  {
+    "category": "Punctuation Guide",
+    "question": "Choose the correctly punctuated abbreviation structure:",
+    "options": [
+      "The server went offline at 4:00 p.m..",
+      "The server went offline at 4:00 p.m.",
+      "The server went offline at 4:00 p.m...",
+      "The server went offline at 4:00 pm,."
+    ],
+    "correct_index": 1,
+    "explanation": "عندما تنتهي الجملة باختصار يحتوي على نقطة (مثل p.m.)، فإن هذه النقطة تقوم بدور نقطة نهاية الجملة أيضاً، ولا يجوز هندسياً مضاعفتها."
+  },
+  {
+    "category": "Punctuation Guide",
+    "question": "What structural issue does punctuation fix in a 'Run-on' sentence?",
+    "options": [
+      "It replaces weak verbs with strong active ones.",
+      "It establishes explicit operational boundaries between distinct complete thoughts.",
+      "It allows formatting modifiers to change text color.",
+      "It eliminates the need for subject-verb agreement."
+    ],
+    "correct_index": 1,
+    "explanation": "الجمل المتداخلة (Run-on) تفتقر للحدود الميكانيكية؛ وتدخل الترقيم السليم يعيد تنظيم مسارات الجمل ويحدد أين تنتهي فكرة وتبدأ فكرة جديدة."
+  },
+  {
+    "category": "Punctuation Guide",
+    "question": "Select the correct sentence punctuation regarding free-standing structures with 'such as':",
+    "options": [
+      "We learned programming languages, such as; Python and Java.",
+      "We learned programming languages such as, Python and Java.",
+      "We learned programming languages, such as Python and Java.",
+      "We learned programming languages, such as: Python and Java."
+    ],
+    "correct_index": 2,
+    "explanation": "نضع فاصلة قبل التعبير (such as) لتهيئة إيقاع الجملة لسرد الأمثلة، ولا نضع أي علامة ترقيم إضافية كالنقطتين أو الفاصلة المنقوطة بعده مباشرة."
+  },
+  {
+    "category": "Punctuation Guide",
+    "question": "Which of these sentences uses the exclamation mark appropriately for professional communication architecture?",
+    "options": [
+      "Please review the attached code update ASAP!!!",
+      "The data migration failed! Please check logs immediately.",
+      "Hello! Hope you are doing well!",
+      "We won the contract and got the project updates successfully!!!!"
+    ],
+    "correct_index": 1,
+    "explanation": "في بيئة العمل والمراسلات الرسمية، يجب تقنين علامات الاستفهام والتعجب، ولا تستخدم إلا للتحذير الصارم أو الإشارة لخطأ فادح أو طارئ حقيقي كفشل الخادم."
+  }
+]

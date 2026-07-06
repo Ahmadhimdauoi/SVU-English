@@ -1,0 +1,332 @@
+[
+  {
+    "question": "What is the primary architectural rule for comparing items using short adjectives?",
+    "options": [
+      "more + Adjective + than",
+      "Adj + -er + than / إضافة إي آر يتبعها ذان",
+      "the + most + Adj",
+      "as + Adj + than"
+    ],
+    "correctIndex": 1,
+    "explanation": "القواعد الأساسية تنص على أن الصفات القصيرة يتم تركيبها في المقارنة عبر الصيغة القياسية: Adj + -er + than."
+  },
+  {
+    "question": "Complete the basic short adjective comparison: 'This software framework is _______ than the previous version.'",
+    "options": [
+      "more fast",
+      "faster than",
+      "faster",
+      "the fastest"
+    ],
+    "correctIndex": 2,
+    "explanation": "وجود كلمة than بعد الفراغ في الجملة يتطلب استدعاء صفة المقارنة القصيرة المضاف لها اللاحقة وهي faster."
+  },
+  {
+    "question": "What is the master layout formula for comparing items using long adjectives?",
+    "options": [
+      "Adj + -er + than",
+      "more/less + Adj + than / استخدام مور أو ليس قبل الصفة الطويلة",
+      "the + Adj + -est",
+      "as + Adj + as + than"
+    ],
+    "correctIndex": 1,
+    "explanation": "الصفات الطويلة (مقطعين أو أكثر) تتطلب وضع محددات كمية قبلها وهما (more للتضخيم أو less للتقليل) متبوعة بـ than."
+  },
+  {
+    "question": "Complete the long adjective structural text: 'Our new deployment strategy is _______ effective than the old one.'",
+    "options": [
+      "effective-er",
+      "more effective",
+      "most effective",
+      "the more effective"
+    ],
+    "correctIndex": 1,
+    "explanation": "بما أن effective صفة طويلة والجملة تعقد مقارنة بين استراتيجيتين، فإن الحل السليم والمطابق هو more effective."
+  },
+  {
+    "question": "What is the master layout formula for the absolute peak of long adjectives (Superlative)?",
+    "options": [
+      "the + Adj + -est",
+      "the + most/least + Adj / ذي موست أو ذي ليست قبل الصفة الطويلة",
+      "more + Adj + than",
+      "as + Adj + as"
+    ],
+    "correctIndex": 1,
+    "explanation": "عند رفع صفة طويلة لذروة التفضيل والقمة المطلقة على المجموعة، نستخدم التركيب: the most / least + Adjective."
+  },
+  {
+    "question": "Complete the superlative statement: 'The algorithm proposed by the encryption team was _______ innovative solution presented.'",
+    "options": [
+      "more innovative",
+      "the most innovative",
+      "innovative-est",
+      "the more innovative than"
+    ],
+    "correctIndex": 1,
+    "explanation": "الجملة تفضل حلاً واحداً على جميع الحلول المقدمة في المؤتمر (solution presented)، لذا نستخدم صيغة القمة العليا the most innovative."
+  },
+  {
+    "question": "According to the double-path flexibility rule, which adjectives can be formulated in two valid ways?",
+    "options": [
+      "Absolute adjectives like dead and unique.",
+      "Two-syllable adjectives ending in soft endings like clever, friendly, simple, narrow / الصفات ذات المقطعين المرنة.",
+      "Radical long adjectives like innovative.",
+      "Irregular verbs in V3 state."
+    ],
+    "correctIndex": 1,
+    "explanation": "يوضح الدليل أن بعض الصفات ذات المقطعين (مثل simple, clever, friendly) تمتلك مرونة هندسية تتيح صياغتها بطريقتين (إما بـ er أو بـ more)."
+  },
+  {
+    "question": "Complete the statement using the 'Common/Fluid Path' (المسار الشائع والانسيابي) for a flexible adjective:",
+    "options": [
+      "It is more simple to design the system this way.",
+      "It is simpler to design the system this way.",
+      "It is simple-er to design the system this way.",
+      "It is the most simplest design."
+    ],
+    "correctIndex": 1,
+    "explanation": "المسار الشائع والأكثر انسيابية في الحديث اليومي والمهني للصفات المرنة هو إضافة اللاحقة er لتكون الكلمة simpler."
+  },
+  {
+    "question": "Complete the statement using the 'Emphasis Path' (مسار التأكيد والوزن اللفظي) for the same flexible adjective:",
+    "options": [
+      "It is simpler to design the system this way.",
+      "It is more simple to design the system this way.",
+      "It is simple-er to design the system.",
+      "It is the more simple than this."
+    ],
+    "correctIndex": 1,
+    "explanation": "مسار التأكيد يعتمد على فصل الصفة عن محددها واستخدام (more simple) لإعطاء وزن صوتي وتركيز معنوي أعلى على السهولة ذاتها."
+  },
+  {
+    "question": "What is the Golden Advice shared by Professor Emad Oday if you are unsure about a two-syllable adjective's flexibility?",
+    "options": [
+      "Always drop the adjective entirely.",
+      "Using 'more / most' is always a safe and structurally sound engineering choice / استخدام مور أو موست هو الخيار الهندسي الآمن دائماً.",
+      "Convert the sentence to past perfect.",
+      "Add both -er and more to be absolutely sure."
+    ],
+    "correctIndex": 1,
+    "explanation": "النصيحة الذهبية للمحترفين هي أنه في حال الشك، فإن استخدام (more/most) يُعد دائماً خياراً هندسياً آمناً وسليماً يحميك من الخطأ الإنشائي."
+  },
+  {
+    "question": "What is the core structural rule when using the Equality Scale (ميزان المساواة) in negative forms?",
+    "options": [
+      "not as + [Base Adjective] + as / نفي ميزان المساواة بالصفة الخام",
+      "not more + [Adj] + than",
+      "as + [Comparative Adj] + not + as",
+      "less + [Adj] + than + as"
+    ],
+    "correctIndex": 0,
+    "explanation": "التركيب القياسي لنفي المساواة والتكافؤ بين طرفين يعتمد على البنية الهيكلية: not as + [الصفة في حالتها الخام الأصلية] + as."
+  },
+  {
+    "question": "Complete the negative equality balance sentence: 'The alternative server cluster is _______ profitable as the primary node.'",
+    "options": [
+      "not more profitable than",
+      "not as profitable",
+      "not as profitable as",
+      "as not profitable as"
+    ],
+    "correctIndex": 2,
+    "explanation": "لإظهار عدم تكافؤ الأرباح بين العنقود البديل والعنقود الأساسي، نستخدم الصيغة الهيكلية المتوازنة المنفية وهي: not as profitable as."
+  },
+  {
+    "question": "To show a 'Minor / Subtle Difference' (فارق ضئيل وبسيط جداً) between two comparative elements, we use:",
+    "options": [
+      "much / by far",
+      "a bit / slightly / كلمات تقليل الفوارق وتعديلها",
+      "the most / least",
+      "more and more"
+    ],
+    "correctIndex": 1,
+    "explanation": "لتوضيح أن الفارق بين الطرفين صغير جداً ولا يكاد يُذكر، نضع أدوات التعديل الخفيفة قبل صفة المقارنة مثل (a bit) أو (slightly)."
+  },
+  {
+    "question": "Complete the statement showing a tiny gap: 'The newly updated software interface runs _______ faster than the beta code.'",
+    "options": [
+      "much",
+      "by far",
+      "slightly",
+      "the most"
+    ],
+    "correctIndex": 2,
+    "explanation": "بما أن الفارق بسيط وسرعة الواجهة متقاربة، الأداة المناسبة لتعديل وتصغير الفارق قبل صفة المقارنة faster هي slightly."
+  },
+  {
+    "question": "What is the specific architectural layout rule for the Double Comparative 'The..., The...' (المقامات المتوازية)?",
+    "options": [
+      "The + [Superlative], the + [Superlative]",
+      "The + [Comparative], the + [Comparative] / كلما... كلما... بالتوازي التصاعدي",
+      "The + [Base Adj], the + [Base Adj]",
+      "More + [Adj], less + [Adj]"
+    ],
+    "correctIndex": 1,
+    "explanation": "المقامات المتوازية (Double Comparative) تعتمد على توازي تصاعدي أو تنازلي متبادل وصيغتها المعمارية الصارمة: The + صفة مقارنة، the + صفة مقارنة."
+  },
+  {
+    "question": "Complete the parallel progression sentence: '_______ you optimize the database queries, _______ the response time becomes.'",
+    "options": [
+      "The most / the least",
+      "The more / the faster",
+      "The more / the better / كلما زاد... كلما تحسن...",
+      "The much / the better"
+    ],
+    "correctIndex": 2,
+    "explanation": "التعبير يعبر عن ترابط طردي: كلما زاد التحسين، كلما تحسن وقت الاستجابة، والتطابق الهيكلي السليم يعتمد على صفات المقارنة: The more..., the better..."
+  },
+  {
+    "question": "Which quantifier tool must be used to show a decrease for 'Countable Quantities' (الكميات المعدودة)?",
+    "options": [
+      "less",
+      "fewer / فيور للأسماء المعدودة والجمع",
+      "much less",
+      "least"
+    ],
+    "correctIndex": 1,
+    "explanation": "يحدد الدليل بصرامة هندسية أن الأداة (fewer) هي المخصصة للأسماء المعدودة والجمع لتوضيح النقص والقلة."
+  },
+  {
+    "question": "Which quantifier tool must be used to show a decrease for 'Uncountable Quantities' (الكميات غير المعدودة)?",
+    "options": [
+      "fewer",
+      "less / ليس للأسماء غير المعدودة والكتل",
+      "few",
+      "the fewest"
+    ],
+    "correctIndex": 1,
+    "explanation": "الأداة (less) هي الهيكل الرياضي المخصص لتقليل كميات الأسماء غير المعدودة والكتل والمفاهيم المجردة (مثل الوقت أو المال)."
+  },
+  {
+    "question": "Complete the countable quantity decrease sentence: 'Due to the tech crisis, _______ clients attended the global IT conference.'",
+    "options": [
+      "less",
+      "fewer",
+      "least",
+      "much less"
+    ],
+    "correctIndex": 1,
+    "explanation": "بما أن كلمة عملاء (clients) اسم معدود جمع، فإن أداة التقليل المتوافقة معها بنيوياً هي fewer."
+  },
+  {
+    "question": "Complete the uncountable mass decrease sentence: 'We require _______ time to execute this specific processing pipeline.'",
+    "options": [
+      "fewer",
+      "less",
+      "few",
+      "the fewest"
+    ],
+    "correctIndex": 1,
+    "explanation": "بما أن الوقت (time) اسم غير معدود، فإن الهندسة القياسية لتقليله تتطلب استخدام محدد الكمية less."
+  },
+  {
+    "question": "When measuring physical and measurable distances, the correct layout selection is:",
+    "options": [
+      "further",
+      "farther / فارذر للمسافات المادية المقاسة",
+      "farthest",
+      "more far"
+    ],
+    "correctIndex": 1,
+    "explanation": "تُستخدم (farther) حصرياً عند مقارنة المسافات المادية والفيزيائية الحقيقية التي يمكن قياسها بالمتر أو الكيلومتر."
+  },
+  {
+    "question": "When measuring metaphorical progression or depth of extent, the correct layout selection is:",
+    "options": [
+      "farther",
+      "further / فورذر للمسافات المجازية والعمق والدرجة",
+      "fartherer",
+      "the farthest"
+    ],
+    "correctIndex": 1,
+    "explanation": "تُستخدم (further) للمسافات المجازية، أو المعنوية، أو التوسع في الشرح، أو تعني معلومات إضافية وعمقاً أكبر."
+  },
+  {
+    "question": "Complete the aerospace physics statement: 'The satellite traveled _______ into orbit than the technical team expected.'",
+    "options": [
+      "further",
+      "farther",
+      "more far",
+      "farthest"
+    ],
+    "correctIndex": 1,
+    "explanation": "سفر القمر الصناعي في المدار يمثل مسافة مادية حقيقية ومقاسة، لذا نختار الصيغة الهندسية المناسبة لها وهي farther."
+  },
+  {
+    "question": "Complete the strategic investigation statement: 'We need to investigate this specific structural issue _______ before deployment.'",
+    "options": [
+      "farther",
+      "further",
+      "fartherer",
+      "more far"
+    ],
+    "correctIndex": 1,
+    "explanation": "التحقيق في المشكلة يعني التوسع والتعمق الفكري والمعنوي فيها، والأداة المخصصة لهذا الامتداد المجازي هي further."
+  },
+  {
+    "question": "When comparing verbs and habits using a Gerund architecture, what is the best layout rule?",
+    "options": [
+      "To verb is harder than to verb.",
+      "[Verb]ing + is + comparative + than + [Verb]ing / التوازي الكامل باستخدام صيغة الآي إن جي في الطرفين",
+      "Verb + er + than + verb",
+      "It is harder to verb than verbing."
+    ],
+    "correctIndex": 1,
+    "explanation": "مقارنة الأفعال والعادات تعتمد أساساً على الحفاظ على التوازي الإنشائي (Parallelism)، وصيغة الـ Gerund في الطرفين هي الأكثر شيوعاً واعتماداً في الهيكلة الاحترافية."
+  },
+  {
+    "question": "Complete the balanced habit comparison statement: '_______ a system from scratch is harder than _______ it.'",
+    "options": [
+      "To build / maintaining",
+      "Building / maintaining",
+      "Building / to maintain",
+      "Build / maintain"
+    ],
+    "correctIndex": 1,
+    "explanation": "لتحقيق التوازي الهيكلي المتوازن والمفضل مهنياً، نستخدم صيغة الـ Gerund في شقي الجملة: Building ... than maintaining."
+  },
+  {
+    "question": "In Quality Control (الرقابة الهندسية), what is the structural diagnosis for the error: 'The new model is more faster'?",
+    "options": [
+      "Double Comparative error: 'faster' is already short and adding 'more' creates a fatal redundancy / خطأ المقارنة المزدوجة المتكررة.",
+      "The sentence needs an absolute adjective modifier.",
+      "The word faster must be changed to fastest.",
+      "The comma split is missing."
+    ],
+    "correctIndex": 0,
+    "explanation": "التشريح اللغوي يكشف خطأ 'المقدار المزدوج المتكرر'؛ لأن صفة faster قصيرة ومعدلة وجاهزة، وإلحاق more قبلها يفسد التركيب البنيوي."
+  },
+  {
+    "question": "In Quality Control, what is the diagnosis for the statement: 'I value this project more than you'?",
+    "options": [
+      "It is perfect with no errors.",
+      "Ambiguity error: It can mean 'more than I value you' or 'more than you value it' / خطأ الغموض البنيوي.",
+      "It uses a double superlative concept.",
+      "The quantifier fewer is missing."
+    ],
+    "correctIndex": 1,
+    "explanation": "تصنف الجملة كخطأ 'غموض بنيوي'؛ لأنها تحتمل معنيين مختلفين تماماً (أثمن المشروع أكثر مما أثمنك، أو أثمنه أكثر مما تثمنه أنت)، وتحتاج لتفصيل الفاعل أو الفعل لإزالة اللبس."
+  },
+  {
+    "question": "In Quality Control, what is the problem with: 'This server is expensive, but the other one is more expensive'?",
+    "options": [
+      "It uses an absolute adjective.",
+      "Repetition error: To eliminate redundancy, we should optimize it into 'even more so' or change the structure / خطأ التكرار الركيك للكلمات.",
+      "It lacks the comparative than.",
+      "The sentence requires a mixed condition gateway."
+    ],
+    "correctIndex": 1,
+    "explanation": "الجملة تعاني من خطأ التكرار الركيك للكلمات والأشكال الصفاتية، والصواب تحسينها هندسياً لرفع الانسيابية (مثل استخدام even more so)."
+  },
+  {
+    "question": "What is the ultimate milestone of mastering Advanced Comparison Engineering?",
+    "options": [
+      "To simplify vocabulary to a basic level.",
+      "To build precise, parallel, and mathematically optimized comparative sentences with absolute clarity / هندسة جمل مقارنة دقيقة ومتوازية بوضوح تام.",
+      "To eliminate long adjectives completely.",
+      "To substitute verbs with punctuation marks."
+    ],
+    "correctIndex": 1,
+    "explanation": "الهدف الأسمى للمخطط المتقدم هو تمكين الكاتب من هندسة وصياغة جمل مقارنة وتفضيل متوازية البناء، دقيقة المعنى، وخالية من الغموض أو التكرار المعيب."
+  }
+]

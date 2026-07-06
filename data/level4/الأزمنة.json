@@ -2,281 +2,841 @@
   {
     "id": 1,
     "question": "The international conference ________ at 9:00 AM tomorrow sharp.",
-    "options": ["starts", "will be starting", "is starting", "started"],
+    "options": [
+      "starts",
+      "will be starting",
+      "is starting",
+      "started"
+    ],
     "answer": "starts",
     "explanation": "نستخدم الزمن المضارع البسيط (Present Simple) للتعبير عن الأحداث المستقبلية المقترنة بجداول زمنية ثابتة ورسمية (Timetables)."
   },
   {
     "id": 2,
     "question": "The Earth ________ around the Sun.",
-    "options": ["revolves", "is revolving", "revolved", "will revolve"],
+    "options": [
+      "revolves",
+      "is revolving",
+      "revolved",
+      "will revolve"
+    ],
     "answer": "revolves",
     "explanation": "الحقائق العلمية والكونية الثابتة والدائمة يتم التعبير عنها دائماً باستخدام المضارع البسيط."
   },
   {
     "id": 3,
     "question": "He ________ coffee every morning before heading to the office.",
-    "options": ["is drinking", "drinks", "drank", "has drunk"],
+    "options": [
+      "is drinking",
+      "drinks",
+      "drank",
+      "has drunk"
+    ],
     "answer": "drinks",
     "explanation": "الروتين اليومي والعادات المتكررة في الحاضر تتطلب استخدام المضارع البسيط."
   },
   {
     "id": 4,
     "question": "Look! The software developers ________ the new update right now.",
-    "options": ["deploy", "are deploying", "deployed", "have deployed"],
+    "options": [
+      "deploy",
+      "are deploying",
+      "deployed",
+      "have deployed"
+    ],
     "answer": "are deploying",
     "explanation": "وجود الكلمة المفتاحية 'right now' وأسلوب التنبيه 'Look!' يدل على حدث يقع الآن في لحظة التكلم، لذا نستخدم المضارع المستمر."
   },
   {
     "id": 5,
     "question": "I ________ on this graduation project for three months, and I'm almost done.",
-    "options": ["work", "am working", "have been working", "had worked"],
+    "options": [
+      "work",
+      "am working",
+      "have been working",
+      "had worked"
+    ],
     "answer": "have been working",
     "explanation": "نستخدم المضارع التام المستمر (Present Perfect Continuous) للتركيز على استمرارية الجهد والمدة الزمنية لحدث بدأ في الماضي ولا يزال مستمراً أو مؤثراً في الحاضر."
   },
   {
     "id": 6,
     "question": "She ________ her master's degree in computer science last year.",
-    "options": ["obtains", "obtained", "has obtained", "was obtaining"],
+    "options": [
+      "obtains",
+      "obtained",
+      "has obtained",
+      "was obtaining"
+    ],
     "answer": "obtained",
     "explanation": "عند تحديد وقت حدوث الفعل بدقة في الماضي باستخدام عبارة مثل 'last year'، يجب استخدام الماضي البسيط (Past Simple)."
   },
   {
     "id": 7,
     "question": "While the QA team ________ the code, the system crashed.",
-    "options": ["tested", "were testing", "have tested", "had tested"],
+    "options": [
+      "tested",
+      "were testing",
+      "have tested",
+      "had tested"
+    ],
     "answer": "were testing",
     "explanation": "الماضي المستمر يُستخدم للتعبير عن حدث طويل كان مستمراً في الماضي (اختبار الكود) ثم قطعه حدث مفاجئ قصير في الماضي البسيط (تعطل النظام)."
   },
   {
     "id": 8,
     "question": "By the time the manager arrived, the team ________ the server.",
-    "options": ["repaired", "has repaired", "had repaired", "were repairing"],
+    "options": [
+      "repaired",
+      "has repaired",
+      "had repaired",
+      "were repairing"
+    ],
     "answer": "had repaired",
     "explanation": "الماضي التام (Past Perfect) يُستخدم للتعبير عن الحدث الأقدم (الماضي العميق) الذي تم وانتهى قبل وقوع حدث آخر في الماضي البسيط."
   },
   {
     "id": 9,
     "question": "They ________ the car for two hours before they finally stopped for lunch.",
-    "options": ["had been repairing", "have been repairing", "were repairing", "had repaired"],
+    "options": [
+      "had been repairing",
+      "have been repairing",
+      "were repairing",
+      "had repaired"
+    ],
     "answer": "had been repairing",
     "explanation": "الماضي التام المستمر (Past Highlight) يركز على الجهد والمدة الزمنية المستمرة لحدث كان يقع في الماضي قبل وقوع حدث ماضٍ آخر."
   },
   {
     "id": 10,
     "question": "He ________ the car by noon, so it was ready for the trip.",
-    "options": ["had been repairing", "had repaired", "repaired", "has repaired"],
+    "options": [
+      "had been repairing",
+      "had repaired",
+      "repaired",
+      "has repaired"
+    ],
     "answer": "had repaired",
     "explanation": "عندما نركز على النتيجة واكتمال الحدث بحلول وقت معين في الماضي (by noon) نستخدم الماضي التام وليس المستمر."
   },
   {
     "id": 11,
     "question": "Watch out! That unstable server ________.",
-    "options": ["will crash", "is going to crash", "crashes", "has crashed"],
+    "options": [
+      "will crash",
+      "is going to crash",
+      "crashes",
+      "has crashed"
+    ],
     "answer": "is going to crash",
     "explanation": "نستخدم 'Be going to' للتنبؤ بالمستقبل عندما يكون هناك دليل ملموس وحاضر في لقطة التكلم (الخادم غير مستقر)."
   },
   {
     "id": 12,
     "question": "The phone is ringing! I ________ it.",
-    "options": ["will get", "am going to get", "get", "am getting"],
+    "options": [
+      "will get",
+      "am going to get",
+      "get",
+      "am getting"
+    ],
     "answer": "will get",
     "explanation": "نستخدم 'will' عند اتخاذ قرار عفو لحظي وسريع (Instant Decision) في نفس وقت التكلم."
   },
   {
     "id": 13,
     "question": "I think it ________ tomorrow, so take your umbrella just in case.",
-    "options": ["rains", "will rain", "is going to rain", "is raining"],
+    "options": [
+      "rains",
+      "will rain",
+      "is going to rain",
+      "is raining"
+    ],
     "answer": "will rain",
     "explanation": "التنبؤات المبنية على الرأي الشخصي أو التخمين بدون دليل ملموس (تبدأ غالباً بـ I think) نستخدم معها 'will'."
   },
   {
     "id": 14,
     "question": "The sun ________ at 5:47 AM tomorrow according to meteorological data.",
-    "options": ["is going to rise", "will rise", "rises", "is rising"],
+    "options": [
+      "is going to rise",
+      "will rise",
+      "rises",
+      "is rising"
+    ],
     "answer": "will rise",
     "explanation": "الحقائق المستقبلية الحتمية والظواهر الطبيعية التي لا يمكن تغييرها يُعبر عنها باستخدام 'will'."
   },
   {
     "id": 15,
     "question": "We ________ a new branch in Dubai next month; all contracts have been signed.",
-    "options": ["open", "will open", "are opening", "opened"],
+    "options": [
+      "open",
+      "will open",
+      "are opening",
+      "opened"
+    ],
     "answer": "are opening",
     "explanation": "نستخدم المضارع المستمر للتعبير عن الترتيبات المستقبلية المؤكدة (Future Arrangements) التي تم الإعداد الفعلي لها والاتفاق عليها."
   },
   {
     "id": 16,
     "question": "I ________ my lunch yet, so I am still hungry.",
-    "options": ["haven't eaten", "didn't eat", "hadn't eaten", "don't eat"],
+    "options": [
+      "haven't eaten",
+      "didn't eat",
+      "hadn't eaten",
+      "don't eat"
+    ],
     "answer": "haven't eaten",
     "explanation": "الكلمة 'yet' تُستخدم في الجمل المنفية مع زمن المضارع التام (Present Perfect) للإشارة إلى حدث متوقع وقوعه ولم يحدث حتى الآن."
   },
   {
     "id": 17,
     "question": "She ________ in this city since she was a child.",
-    "options": ["lives", "is living", "has lived", "lived"],
+    "options": [
+      "lives",
+      "is living",
+      "has lived",
+      "lived"
+    ],
     "answer": "has lived",
     "explanation": "نستخدم المضارع التام للحديث عن حالة بدأت في الماضي وامتدت واستمرت حتى الوقت الحاضر بوجود الرابط 'since'."
   },
   {
     "id": 18,
     "question": "When you arrive at the airport tomorrow, I ________ for you at the gate.",
-    "options": ["will wait", "will be waiting", "wait", "am going to wait"],
+    "options": [
+      "will wait",
+      "will be waiting",
+      "wait",
+      "am going to wait"
+    ],
     "answer": "will be waiting",
     "explanation": "المستقبل المستمر (Future Continuous) يُستخدم للتعبير عن حدث سيكون مستمراً وقائماً في نقطة زمنية محددة في المستقبل."
   },
   {
     "id": 19,
     "question": "By next December, we ________ the entire database migration project.",
-    "options": ["will finish", "will be finishing", "will have finished", "finish"],
+    "options": [
+      "will finish",
+      "will be finishing",
+      "will have finished",
+      "finish"
+    ],
     "answer": "will have finished",
     "explanation": "المستقبل التام (Future Perfect) يُستخدم للتعبير عن حدث سوف يكتمل تماماً بحلول نقطة زمنية معينة في المستقبل بوجود التركيب (By + وقت مستقبلي)."
   },
   {
     "id": 20,
     "question": "He was exhausted because he ________ coding all night long.",
-    "options": ["had been", "had been coding", "has been coding", "was coding"],
+    "options": [
+      "had been",
+      "had been coding",
+      "has been coding",
+      "was coding"
+    ],
     "answer": "had been coding",
     "explanation": "هنا نقوم بتفسير سبب حالة في الماضي (was exhausted)، والسبب أقدم ومستمر، لذا نستخدم الماضي التام المستمر."
   },
   {
     "id": 21,
     "question": "Water ________ at 100 degrees Celsius.",
-    "options": ["boils", "is boiling", "will boil", "boiled"],
+    "options": [
+      "boils",
+      "is boiling",
+      "will boil",
+      "boiled"
+    ],
     "answer": "boils",
     "explanation": "هذه حقيقة علمية فيزيائية ثابتة، والقاعدة تقتضي استخدام زمن المضارع البسيط."
   },
   {
     "id": 22,
     "question": "Historically, the hero ________ the castle and confronts the dragon.",
-    "options": ["enters", "entered", "will enter", "was entering"],
+    "options": [
+      "enters",
+      "entered",
+      "will enter",
+      "was entering"
+    ],
     "answer": "enters",
     "explanation": "يُعرف هذا بـ (Historic Present)، وهو استخدام المضارع البسيط في السرد الحي للقصص والروايات لجعل الأحداث أكثر تفاعلية وتشويقاً."
   },
   {
     "id": 23,
     "question": "If you ________ water, it turns into ice.",
-    "options": ["freeze", "will freeze", "froze", "freezing"],
+    "options": [
+      "freeze",
+      "will freeze",
+      "froze",
+      "freezing"
+    ],
     "answer": "freeze",
     "explanation": "في الجمل الشرطية من النوع الصفري (Zero Conditional) التي تعبر عن حقائق بديهية، تكون جملة الشرط (If clause) في زمن المضارع البسيط."
   },
   {
     "id": 24,
     "question": "I ________ the report before I left the office yesterday.",
-    "options": ["sent", "had sent", "have sent", "was sending"],
+    "options": [
+      "sent",
+      "had sent",
+      "have sent",
+      "was sending"
+    ],
     "answer": "had sent",
     "explanation": "الحدث الأقدم هو إرسال التقرير، والحدث الأحدث هو مغادرة المكتب، والماضي التام يُستخدم للإشارة للحدث الأقدم تتابعاً."
   },
   {
     "id": 25,
     "question": "Currently, the system ________ a full virus scan.",
-    "options": ["undergoes", "is undergoing", "has undergone", "will undergo"],
+    "options": [
+      "undergoes",
+      "is undergoing",
+      "has undergone",
+      "will undergo"
+    ],
     "answer": "is undergoing",
     "explanation": "الكلمة 'Currently' (حالياً) تشير بوضوح إلى نشاط مؤقت ومستمر في الوقت الحاضر، وهو ما يتطلب المضارع المستمر."
   },
   {
     "id": 26,
     "question": "They ________ each other since their early university days.",
-    "options": ["know", "are knowing", "have known", "had known"],
+    "options": [
+      "know",
+      "are knowing",
+      "have known",
+      "had known"
+    ],
     "answer": "have known",
     "explanation": "الفعل 'know' هو فعل حالة (Stative Verb) لا يقبل صيغة الاستمرار (-ing)، لذا نستخدم المضارع التام العادي مع 'since'."
   },
   {
     "id": 27,
     "question": "This time next week, we ________ on a beach in Bali.",
-    "options": ["will relax", "will be relaxing", "relax", "are relaxing"],
+    "options": [
+      "will relax",
+      "will be relaxing",
+      "relax",
+      "are relaxing"
+    ],
     "answer": "will be relaxing",
     "explanation": "تحديد وقت معين ومحدد في المستقبل (This time next week) يتطلب استخدام زمن المستقبل المستمر."
   },
   {
     "id": 28,
     "question": "The company ________ five new features so far this year.",
-    "options": ["released", "releases", "has released", "is releasing"],
+    "options": [
+      "released",
+      "releases",
+      "has released",
+      "is releasing"
+    ],
     "answer": "has released",
     "explanation": "التركيب 'so far' (حتى الآن) يربط الماضي بالحاضر ويركز على الإنجاز، وهو الكلمة المفتاحية الأبرز للمضارع التام."
   },
   {
     "id": 29,
     "question": "She ________ to call him for days before he finally answered.",
-    "options": ["had been trying", "has been trying", "was trying", "tried"],
+    "options": [
+      "had been trying",
+      "has been trying",
+      "was trying",
+      "tried"
+    ],
     "answer": "had been trying",
     "explanation": "فعل المحاولة تكرر واستمر على مدار أيام قبل نقطة معينة في الماضي (answered)، مما يستدعي استخدام الماضي التام المستمر لأفعال متكررة في العمق الزمني."
   },
   {
     "id": 30,
     "question": "As soon as I hear the news, I ________ you.",
-    "options": ["call", "will call", "am calling", "called"],
+    "options": [
+      "call",
+      "will call",
+      "am calling",
+      "called"
+    ],
     "answer": "will call",
     "explanation": "في الروابط الزمنية المستقبلية (As soon as, When)، نضع بعد الرابط مضارع بسيط، وفي الشق الآخر مستقبل بسيط باستخدام 'will'."
   },
   {
     "id": 31,
     "question": "The algorithms ________ smoothly when the power went out.",
-    "options": ["ran", "were running", "had run", "have been running"],
+    "options": [
+      "ran",
+      "were running",
+      "had run",
+      "have been running"
+    ],
     "answer": "were running",
     "explanation": "حدث مستمر في الماضي (عمل الخوارزميات بسلاسة) تم قاطعه بواسطة حدث مفاجئ قصير (انقطاع الكهرباء)، فنستخدم الماضي المستمر."
   },
   {
     "id": 32,
     "question": "My father ________ from his job by the end of next year.",
-    "options": ["retires", "will retire", "will have retired", "is retiring"],
+    "options": [
+      "retires",
+      "will retire",
+      "will have retired",
+      "is retiring"
+    ],
     "answer": "will have retired",
     "explanation": "وجود العبارة 'by the end of next year' يعبر عن سقف زمني لاكتمال الحدث مستقبلاً، مما يعني استخدام المستقبل التام."
   },
   {
     "id": 33,
     "question": "I ________ a lot of stress lately due to exams.",
-    "options": ["experience", "am experiencing", "have been experiencing", "experienced"],
+    "options": [
+      "experience",
+      "am experiencing",
+      "have been experiencing",
+      "experienced"
+    ],
     "answer": "have been experiencing",
     "explanation": "الكلمة 'lately' (مؤخراً) تشير إلى حدث بدأ وما زال يتكرر ويستمر مسبباً تأثيراً، مما يجعل المضارع التام المستمر هو الخيار الأفضل."
   },
   {
     "id": 34,
     "question": "The train ________ from platform 4 every afternoon.",
-    "options": ["leaves", "is leaving", "will leave", "left"],
+    "options": [
+      "leaves",
+      "is leaving",
+      "will leave",
+      "left"
+    ],
     "answer": "leaves",
     "explanation": "تكرار الفعل في وقت محدد يومياً 'every afternoon' يمثل حقيقة روتينية ثابتة يتم التعبير عنها بالمضارع البسيط."
   },
   {
     "id": 35,
     "question": "He ________ English for five years before he moved to London.",
-    "options": ["had been studying", "has been studying", "was studying", "studied"],
+    "options": [
+      "had been studying",
+      "has been studying",
+      "was studying",
+      "studied"
+    ],
     "answer": "had been studying",
     "explanation": "فترة خمس سنوات من الدراسة كانت مستمرة في الماضي قبل حدث ماضٍ آخر وهو الانتقال لندنة، لذا نستخدم الماضي التام المستمر لإبراز المدة."
   },
   {
     "id": 36,
     "question": "We cannot play outside because it ________ heavily.",
-    "options": ["rains", "is raining", "has rained", "rained"],
+    "options": [
+      "rains",
+      "is raining",
+      "has rained",
+      "rained"
+    ],
     "answer": "is raining",
     "explanation": "النتيجة في الحاضر (لا يمكننا اللعب الآن) سببها حدث يقع حالياً ومستمر في نفس اللحظة وهو هطول المطر، فنستخدم المضارع المستمر."
   },
   {
     "id": 37,
     "question": "By the year 2030, technology ________ significantly.",
-    "options": ["will change", "will be changing", "will have changed", "changes"],
+    "options": [
+      "will change",
+      "will be changing",
+      "will have changed",
+      "changes"
+    ],
     "answer": "will have changed",
     "explanation": "وجود السقف الزمني (By + سنة مستقبيلة) يعبر عن اكتمال التغيير بحلول ذلك الوقت، وهو التطبيق الكلاسيكي للمستقبل التام."
   },
   {
     "id": 38,
     "question": "I ________ my keys! I cannot open the lab door.",
-    "options": ["lost", "have lost", "had lost", "am losing"],
+    "options": [
+      "lost",
+      "have lost",
+      "had lost",
+      "am losing"
+    ],
     "answer": "have lost",
     "explanation": "فعل فقدان المفاتيح حدث في الماضي ولكن تأثيره ونتيجته واضحة وحاضرة الآن (لا أستطيع فتح الباب)، وهذا هو صلب فلسفة المضارع التام."
   },
   {
     "id": 39,
     "question": "The historical archives show that the empire ________ after a long war.",
-    "options": ["collapses", "collapsed", "has collapsed", "had been collapsing"],
+    "options": [
+      "collapses",
+      "collapsed",
+      "has collapsed",
+      "had been collapsing"
+    ],
     "answer": "collapsed",
     "explanation": "الحديث عن أحداث وانهيارات تاريخية تمت وانتهت في الماضي البعيد يتطلب استخدام الماضي البسيط (Past Simple)."
   },
   {
     "id": 40,
     "question": "Next month, they ________ married for exactly ten years.",
-    "options": ["will be", "will have been", "are", "have been"],
+    "options": [
+      "will be",
+      "will have been",
+      "are",
+      "have been"
+    ],
     "answer": "will have been",
     "explanation": "الحديث عن مدة زمنية ستكتمل في نقطة معينة من المستقبل (تنتهي الشهر القادم لتصبح 10 سنوات) يتطلب استخدام المستقبل التام."
+  },
+  {
+    "id": 41,
+    "question": "By the time the new framework is deployed next quarter, the legacy system ________ for over a decade without a single major overhaul.",
+    "options": [
+      "will run",
+      "will have been running",
+      "will have run",
+      "has been running"
+    ],
+    "answer": "will have been running",
+    "explanation": "تم استخدام المستقبل التام المستمر لوجود رابط مستقبلي (is deployed) مع تحديد مدة زمنية طويلة (for over a decade) تركز على استمرارية الجهد والعمل قبل نقطة محددة في المستقبل."
+  },
+  {
+    "id": 42,
+    "question": "I ________ to drop the database yesterday, but the senior architect intervened just in time.",
+    "options": [
+      "was going",
+      "had hoped",
+      "would drop",
+      "had been intending"
+    ],
+    "answer": "was going",
+    "explanation": "التركيب (was/were going to + V1) يُستخدم للتعبير عن (Unfulfilled Past Plans) وهي النوايا أو الخطط الماضية التي كانت على وشك الحدوث ولكنها لم تتحقق بسبب ظرف طارئ."
+  },
+  {
+    "id": 43,
+    "question": "Every time the compiler encounters a syntax anomaly, it ________ an exception and halts the process.",
+    "options": [
+      "will throw",
+      "is throwing",
+      "throws",
+      "would throw"
+    ],
+    "answer": "throws",
+    "explanation": "هذه الجملة تعبر عن قانون برمجي أو روتين نظام ثابت (Zero Conditional / Habitual Action)، وبالتالي فإن المضارع البسيط هو الخيار الدقيق للتعبير عن الثبات التكنولوجي."
+  },
+  {
+    "id": 44,
+    "question": "The team ________ the encryption keys for weeks before they realized the flaw was in the hardware itself.",
+    "options": [
+      "had been auditing",
+      "were auditing",
+      "had audited",
+      "have been auditing"
+    ],
+    "answer": "had been auditing",
+    "explanation": "التركيز هنا على الجهد الممتد والتكرار في الماضي البعيد (for weeks) قبل وقوع حدث ماضٍ آخر (realized)، مما يجعله التطبيق المثالي للماضي التام المستمر."
+  },
+  {
+    "id": 45,
+    "question": "Look at the telemetry data! The bandwidth ________ to its absolute limit; the server will crash any second.",
+    "options": [
+      "spikes",
+      "will spike",
+      "is spiking",
+      "has spiked"
+    ],
+    "answer": "is spiking",
+    "explanation": "التغيرات التدريجية أو اللحظية الجارية الآن والتي تظهر بناءً على دليل مرئي وملموس أمام العين (Telemetry data) تستدعي استخدام المضارع المستمر."
+  },
+  {
+    "id": 46,
+    "question": "Professor Clark ________ the research department for twenty years by the time he retires next December.",
+    "options": [
+      "will lead",
+      "will have been leading",
+      "has led",
+      "had led"
+    ],
+    "answer": "will have been leading",
+    "explanation": "اجتماع السقف الزمني المستقبلي (by the time he retires) مع إبراز مدة العطاء والجهد (for twenty years) يستوجب استخدام المستقبل التام المستمر ونفي اللبس مع البسيط."
+  },
+  {
+    "id": 47,
+    "question": "I ________ the software architecture blueprint, so now we can proceed to the implementation phase.",
+    "options": [
+      "have been finalizing",
+      "have finalized",
+      "finalized",
+      "had finalized"
+    ],
+    "answer": "have finalized",
+    "explanation": "المضارع التام البسيط يُستخدم هنا لأن التركيز ينصب بالكامل على النتيجة والإنجاز الحالي (الآن المخطط جاهز تماماً) وليس على الجهد المبذول."
+  },
+  {
+    "id": 48,
+    "question": "We ________ to London next Tuesday; the flight tickets are booked and the hotel is confirmed.",
+    "options": [
+      "fly",
+      "will fly",
+      "are flying",
+      "will be flying"
+    ],
+    "answer": "are flying",
+    "explanation": "التدابير الشخصية المستقبلية المؤكدة والمحجوزة بالكامل (Future Arrangements) لا تُعامل كجدول مواعيد رسمي بل يُستخدم لها المضارع المستمر وجوباً."
+  },
+  {
+    "id": 49,
+    "question": "He ________ always interrupting the client during meetings! It is highly unprofessional.",
+    "options": [
+      "is",
+      "was",
+      "has been",
+      "does"
+    ],
+    "answer": "is",
+    "explanation": "استخدام (is + always + V-ing) في المضارع يُستخدم للتعبير عن الضيق والانزعاج من عادة سلوكية متكررة للشخص في الحاضر."
+  },
+  {
+    "id": 50,
+    "question": "He ________ always borrowing my testing devices without permission before he was reassigned.",
+    "options": [
+      "is",
+      "was",
+      "had been",
+      "did"
+    ],
+    "answer": "was",
+    "explanation": "استخدام (was + always + V-ing) يُستخدم حصراً للتعبير عن الانزعاج أو الشكوى من عادة سلوكية مزعجة كانت تقع في الماضي وانتهت."
+  },
+  {
+    "id": 51,
+    "question": "The prime minister ________ the new tech hub tomorrow at 10:00 AM as per the official state itinerary.",
+    "options": [
+      "opens",
+      "is opening",
+      "will open",
+      "will be opening"
+    ],
+    "answer": "opens",
+    "explanation": "الأحداث الرسمية العامة المقترنة بجدول زمني صارم وثابت (Official Itinerary) تُعامل معاملة الجداول الزمنية ويُستخدم لها المضارع البسيط حتى لو كانت تخص أشخاصاً."
+  },
+  {
+    "id": 52,
+    "question": "If I ________ harder during the initial phase, the project wouldn't be failing miserably right now.",
+    "options": [
+      "studied",
+      "had studied",
+      "would have studied",
+      "have studied"
+    ],
+    "answer": "had studied",
+    "explanation": "هذه حالة شرطية مختلطة (Mixed Conditional). جملة الشرط تتعلق بالماضي (ندم على عدم الدراسة) لذا نستخدم الماضي التام، والجواب يتعلق بالحاضر."
+  },
+  {
+    "id": 53,
+    "question": "This time tomorrow, I ________ the graduation project panel during the final evaluation.",
+    "options": [
+      "will face",
+      "will be facing",
+      "am going to face",
+      "face"
+    ],
+    "answer": "will be facing",
+    "explanation": "عند تصوير مشهد مستمر في نقطة محددة جداً في المستقبل (This time tomorrow)، فإن الخيار الاحترافي هو المستقبل المستمر."
+  },
+  {
+    "id": 54,
+    "question": "I ________ this specific code block for three hours, and my eyes are completely bloodshot.",
+    "options": [
+      "debugged",
+      "have been debugging",
+      "have debugged",
+      "am debugging"
+    ],
+    "answer": "have been debugging",
+    "explanation": "تفسير الحالة الحاضرة (الأعين محمرة ومتعبة) نتيجة جهد مستمر ومكثف بدأ في الماضي ولا يزال أثره الحركي قائماً يتطلب المضارع التام المستمر."
+  },
+  {
+    "id": 55,
+    "question": "By 2050, autonomous AI agents ________ all manual software testing tasks globally.",
+    "options": [
+      "will overtake",
+      "will be overtaking",
+      "will have overtaken",
+      "overtake"
+    ],
+    "answer": "will have overtaken",
+    "explanation": "النظر إلى الوراء من نقطة مستقبلية (By 2050) لرؤية إنجاز واكتمال فعل معين يتطلب استخدام المستقبل التام (Future Perfect)."
+  },
+  {
+    "id": 56,
+    "question": "The ancient ruins ________ right where the new technology park now stands.",
+    "options": [
+      "stood",
+      "were standing",
+      "had stood",
+      "have stood"
+    ],
+    "answer": "stood",
+    "explanation": "للتعبير عن حقائق ماضية لم تعد صحيحة الآن (Historical facts that are no longer true)، نستخدم الماضي البسيط."
+  },
+  {
+    "id": 57,
+    "question": "I ________ the answer to this complex algorithmic problem now; it is completely clear to me.",
+    "options": [
+      "am knowing",
+      "know",
+      "have known",
+      "have been knowing"
+    ],
+    "answer": "know",
+    "explanation": "الفعل 'know' هو فعل حالة ذهنية (Stative Verb) يقع ضمن 'قبو أفعال الحالة' ويحرم تماماً من دخول صيغة المستمر مهما كانت المغريات الزمنية."
+  },
+  {
+    "id": 58,
+    "question": "When we stepped into the server room, the alarm ________ for ten minutes due to a cooling failure.",
+    "options": [
+      "was ringing",
+      "had been ringing",
+      "rang",
+      "has been ringing"
+    ],
+    "answer": "had been ringing",
+    "explanation": "حدث كان مستمراً وله مدة محددة (for ten minutes) في عمق الماضي قبل لحظة دخول الغرفة (stepped)، مما يجعله ماضياً تاماً مستمراً."
+  },
+  {
+    "id": 59,
+    "question": "She realized she ________ her hardware security token at home only after she reached the secure facility.",
+    "options": [
+      "forgot",
+      "had forgotten",
+      "was forgetting",
+      "has forgotten"
+    ],
+    "answer": "had forgotten",
+    "explanation": "فعل النسيان (الحدث الأقدم والعميق) تم وانتهى قبل فعل الإدراك وفعل الوصول، مما يوجب استخدام الماضي التام لترتيب التسلسل الزمني."
+  },
+  {
+    "id": 60,
+    "question": "Will you ________ the office scanner later today? I need to copy some architectural charts.",
+    "options": [
+      "be using",
+      "use",
+      "have used",
+      "be to use"
+    ],
+    "answer": "be using",
+    "explanation": "السؤال المهذب وغير المباشر عن خطط الآخرين لتجنب إحراجهم أو فرض الطلب عليهم يُصاغ دائماً باستخدام المستقبل المستمر (Future Continuous)."
+  },
+  {
+    "id": 61,
+    "question": "The CEO announced that the company ________ all its cloud infrastructure to a hybrid model by the end of the fiscal year.",
+    "options": [
+      "will migrate",
+      "would have migrated",
+      "will have migrated",
+      "migrated"
+    ],
+    "answer": "would have migrated",
+    "explanation": "هذا مستقبل في الماضي ضمن كلام منقول (Reported Speech). المستقبل التام (will have migrated) يتحول عند النقل إلى (would have migrated)."
+  },
+  {
+    "id": 62,
+    "question": "I ________ Anthony since our early freshman days at the university.",
+    "options": [
+      "am knowing",
+      "have known",
+      "know",
+      "had known"
+    ],
+    "answer": "have known",
+    "explanation": "وجود 'since' يتطلب زمناً تاماً، وبما أن الفعل 'know' لا يقبل الاستمرار، فإن المضارع التام البسيط هو الخيار الصحيح الوحيد."
+  },
+  {
+    "id": 63,
+    "question": "The dataset ________ of three primary dimensions: time, latitude, and longitude.",
+    "options": [
+      "is consisting",
+      "consists",
+      "has consisted",
+      "will consist"
+    ],
+    "answer": "consists",
+    "explanation": "الأفعال التي تدل على التكوين والاحتواء هي أفعال حالة (Stative) وتعبر عن حقائق دائمة، لذا تُصاغ في المضارع البسيط."
+  },
+  {
+    "id": 64,
+    "question": "The birds were singing, and the morning sun ________; suddenly, the main power grid failed.",
+    "options": [
+      "shone",
+      "was shining",
+      "had shone",
+      "had been shining"
+    ],
+    "answer": "was shining",
+    "explanation": "لوصف الجو العام والخلفية المشهدية للقصص في الماضي (Background description)، نستخدم الماضي المستمر للأحداث الوصفية والماضي البسيط للحدث المفاجئ."
+  },
+  {
+    "id": 65,
+    "question": "I ________ my Git repository today, so I don't need to push any changes right now.",
+    "options": [
+      "already updated",
+      "have already updated",
+      "had already updated",
+      "am already updating"
+    ],
+    "answer": "have already updated",
+    "explanation": "الفترة الزمنية 'today' لم تنتهِ بعد، والحدث يركز على الأثر الحالي للنتيجة (لا داعي لرفع التغييرات الآن)، وهو ما يتطلب مضارعاً تاماً."
+  },
+  {
+    "id": 66,
+    "question": "I knew the graduation project ________ a massive success the moment we finalized the core algorithms.",
+    "options": [
+      "will be",
+      "is going to be",
+      "was going to be",
+      "has been"
+    ],
+    "answer": "was going to be",
+    "explanation": "التنبؤ أو التوقع القوي المبني على دليل والمصاغ من وجهة نظر ماضية (Past Prediction / Future in the Past) يستلزم استخدام (was/were going to)."
+  },
+  {
+    "id": 67,
+    "question": "He ________ ten complex technical reports so far this week.",
+    "options": [
+      "wrote",
+      "has been writing",
+      "has written",
+      "writes"
+    ],
+    "answer": "has written",
+    "explanation": "عند ذكر العدد الدقيق للإنجازات أو المنتجات (ten reports) مع وجود الكلمة المفتاحية (so far)، نستخدم المضارع التام البسيط وليس المستمر لتركيزنا على النتيجة الحاصلة."
+  },
+  {
+    "id": 68,
+    "question": "When the advanced programming course ends, she ________ Java framework architectures for six months.",
+    "options": [
+      "will study",
+      "will have been studying",
+      "will have studied",
+      "has been studying"
+    ],
+    "answer": "will have been studying",
+    "explanation": "التركيز هنا على مدة استمرار الفعل (for six months) حتى نقطة انتهاء الكورس في المستقبل، مما يفرض استخدام المستقبل التام المستمر."
+  },
+  {
+    "id": 69,
+    "question": "Why are your hands covered in thermal paste? — I ________ the laboratory workstation CPU.",
+    "options": [
+      "have upgraded",
+      "have been upgrading",
+      "upgraded",
+      "was upgrading"
+    ],
+    "answer": "have been upgrading",
+    "explanation": "سؤال عن سبب حالة مادية حاضرة ومشاهدة (الأيدي متسخة بالمعجون)، والجواب يوضح النشاط والجهد المستمر الذي انتهى للتو، فنستخدم المضارع التام المستمر."
+  },
+  {
+    "id": 70,
+    "question": "The system ________ fully operational by noon yesterday, exactly as the DevOps team had projected.",
+    "options": [
+      "became",
+      "had become",
+      "was becoming",
+      "has become"
+    ],
+    "answer": "had become",
+    "explanation": "اكتمال فعل قبل نقطة زمنية محددة في الماضي (by noon yesterday) يمثل الماضي التام (Past Perfect) لإثبات اكتمال الهدف المحدد مسبقاً."
   }
 ]

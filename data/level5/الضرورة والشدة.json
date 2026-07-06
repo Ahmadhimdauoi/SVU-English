@@ -1,0 +1,332 @@
+[
+  {
+    "question": "What does the Green Light (الضوء الأخضر) represent on the Urgency Scale?",
+    "options": [
+      "Strict legal mandate.",
+      "Should: Opinion and general career advice / الرأي والنصيحة العامة الودية.",
+      "Had better: Severe instant warning.",
+      "Unreal past regret loops."
+    ],
+    "correctIndex": 1,
+    "explanation": "الضوء الأخضر يعبر عن الأداة (Should) والتي تمثل الشدة المتوسطة لتقديم الآراء والنصائح العامة دون عواقب كارثية محددة."
+  },
+  {
+    "question": "What does the Orange Light (الضوء البرتقالي) signify on the Urgency Scale?",
+    "options": [
+      "Ought to: Moral, social, and environmental duty / الواجب الأخلاقي والاجتماعي والتنظيمي.",
+      "General casual choice.",
+      "Total physical prohibition.",
+      "Absolute 100% deduction certainty."
+    ],
+    "correctIndex": 0,
+    "explanation": "الضوء البرتقالي يعبر عن الأداة (Ought to) وتختص بتمثيل المسؤوليات الأخلاقية، والالتزامات المجتمعية أو التنظيمية تجاه المؤسسة."
+  },
+  {
+    "question": "What does the Red Light (الضوء الأحمر) signify on the scale?",
+    "options": [
+      "Optional workflow path.",
+      "Had better: High urgency and direct immediate warnings / التحذير الفوري لوجود عواقب سلبية خطيرة.",
+      "General descriptive advice.",
+      "Past physical capability."
+    ],
+    "correctIndex": 1,
+    "explanation": "الضوء الأحمر يمثل الأداة (Had better) ويعني الشدة القصوى والتحذير العاجل؛ لأن عدم التنفيذ سيؤدي فوراً لعواقب سلبية محددة وخطيرة."
+  },
+  {
+    "question": "What is the structural formula layout for using 'Should' in advice?",
+    "options": [
+      "Subject + should + to + verb",
+      "Subject + should + [base verb] / متبوع بالمصدر المجرد مباشرة",
+      "Subject + should + V3",
+      "Subject + do + should + verb"
+    ],
+    "correctIndex": 1,
+    "explanation": "يتبع الفعل الناقص should مصدر الفعل مباشرة بدون أي إضافات وبدون حرف الجر to."
+  },
+  {
+    "question": "Complete the general development recommendation: 'You _______ update your LinkedIn profile for future career mobility.'",
+    "options": [
+      "had better to",
+      "ought",
+      "should",
+      "better"
+    ],
+    "correctIndex": 2,
+    "explanation": "بما أن هذه نصيحة مهنية عامة للتطوير المستقبلي (LinkedIn profile)، فإن الأداة الخضراء الأنسب هي should."
+  },
+  {
+    "question": "Complete the environmental statement: 'We _______ reduce our plastic waste to protect the habitat.'",
+    "options": [
+      "should to",
+      "ought to / واجب أخلاقي ومجتمعي",
+      "had better to",
+      "better"
+    ],
+    "correctIndex": 1,
+    "explanation": "الحديث هنا عن واجب أخلاقي وبيئي تجاه المجتمع والكوكب، والأداة البرتقالية المخصصة للواجبات والالتزامات الأخلاقية هي ought to."
+  },
+  {
+    "question": "What is the structural layout required when using 'Ought to'?",
+    "options": [
+      "Subject + ought + base verb",
+      "Subject + ought to + [base verb] / الاحتفاظ بـ to كجزء أصيل",
+      "Subject + ought + V3",
+      "Subject + ought + being"
+    ],
+    "correctIndex": 1,
+    "explanation": "على عكس should، فإن كلمة ought تحتفظ بكلمة to كجزء لا يتجزأ من تركيبها الإنشائي الأصيل قبل مصدر الفعل الأساسي."
+  },
+  {
+    "question": "Complete the corporate compliance mandate: 'You _______ follow the new data privacy policies strictly.'",
+    "options": [
+      "should to",
+      "ought to / التزام تنظيمي وأخلاقي",
+      "better",
+      "had better to"
+    ],
+    "correctIndex": 1,
+    "explanation": "اتباع سياسات الخصوصية يمثل التزاماً تنظيمياً وأخلاقياً تجاه الشركة، مما يستدعي استخدام ought to."
+  },
+  {
+    "question": "What is the negative structural layout for 'Ought to' according to the guide?",
+    "options": [
+      "ought to not",
+      "ought not to / وضع أداة النفي في المنتصف قبل to",
+      "don't ought to",
+      "ought doesn't to"
+    ],
+    "correctIndex": 1,
+    "explanation": "عند نفي ought to، نضع كلمة not في المنتصف مباشرة لتفصل بينهما هندسياً وتصبح الصيغة: ought not to."
+  },
+  {
+    "question": "Complete the negative ethical statement: 'Employees _______ disclose corporate data to the press.'",
+    "options": [
+      "ought to not",
+      "ought not to",
+      "should to not",
+      "better not to"
+    ],
+    "correctIndex": 1,
+    "explanation": "الصيغة السليمة لنفي الواجب الأخلاقي والمسؤولية هي ought not to."
+  },
+  {
+    "question": "Complete the high-urgency deadline warning: 'You _______ submit the financial report today, or you will face severe audit penalties.'",
+    "options": [
+      "should",
+      "ought to",
+      "had better / تحذير صارم لوجود عاقبة خطيرة",
+      "better to"
+    ],
+    "correctIndex": 2,
+    "explanation": "وجود تهديد صريح بعاقبة سلبية وخيمة (severe audit penalties) يشير للضوء الأحمر، والأداة المناسبة هي had better."
+  },
+  {
+    "question": "What is the negative structural layout for the high-urgency tool 'Had better'?",
+    "options": [
+      "had not better",
+      "had better not / وضع نوت في النهاية بعد كلمة بيتر",
+      "don't had better",
+      "had better to not"
+    ],
+    "correctIndex": 1,
+    "explanation": "عند نفي had better، نضع كلمة not في النهاية بعد التعبير مباشرة لتصبح البنية: had better not بدون استخدام to."
+  },
+  {
+    "question": "Complete the urgent flight survival warning: 'You _______ leave now, or you'll miss the last flight to headquarters.'",
+    "options": [
+      "should to",
+      "ought to",
+      "had better not",
+      "had better"
+    ],
+    "correctIndex": 3,
+    "explanation": "الموقف يتطلب تدخلاً فورياً عاجلاً لمنع تفويت الطائرة (عاقبة وخيمة)، لذا نختار had better في صيغتها الإيجابية الحازمة."
+  },
+  {
+    "question": "Complete the negative warning structure: 'We _______ misconfigure this server partition; the network will collapse.'",
+    "options": [
+      "had not better",
+      "had better not",
+      "ought not to",
+      "should to not"
+    ],
+    "correctIndex": 1,
+    "explanation": "التحذير هنا خطير جداً ويتعلق بانهيار الشبكة، وصيغة النفي المعمارية السليمة لحمايتها هي had better not."
+  },
+  {
+    "question": "What is the common professional abbreviation for 'You had better' used in workspace conversations?",
+    "options": [
+      "You'better",
+      "You'd better / اختصارها لـ d better",
+      "You'h better",
+      "You've better"
+    ],
+    "correctIndex": 1,
+    "explanation": "يتم دمج واختصار فاعل الجملة مع had باستخدام الفاصلة العليا وحرف d المهني لتصبح: You'd better."
+  },
+  {
+    "question": "In the Grammatical Clinic (العيادة النحوية), what is the diagnosis for the error: 'He should to study more'?",
+    "options": [
+      "The sentence needs a plural modifier.",
+      "The 'To-Trap': Should must be followed by a base verb directly without 'to' / خطأ فخ التو.",
+      "The subject must be swapped.",
+      "Should is an absolute adjective."
+    ],
+    "correctIndex": 1,
+    "explanation": "يصنف الدليل هذا الخطأ بـ 'فخ الـ To'؛ لأن الفعل الناقص should يرفع الجر ويرفض الحرف to تماماً وراءه."
+  },
+  {
+    "question": "In the Grammatical Clinic, what is the diagnosis for the error: 'You better go now'?",
+    "options": [
+      "The word go must be in V3 form.",
+      "Missing auxiliary verb: It must retain the 'd (had) to be grammatically sound / نسيان الفعل المساعد د.",
+      "The sentence is too casual for any text.",
+      "The word better should be best."
+    ],
+    "correctIndex": 1,
+    "explanation": "الخطأ هو سقوط أو نسيان الفعل المساعد د (had)، والصواب الإنشائي كتابة العبارة كاملة: You'd better go now."
+  },
+  {
+    "question": "Is the sentence 'You ought to respect him' grammatically sound according to the clinic guide?",
+    "options": [
+      "No, because 'to' must be deleted.",
+      "Yes, it is perfectly correct because 'ought' strictly requires 'to' / تركيب صحيح تماماً.",
+      "No, because 'ought' cannot be used with a base verb.",
+      "No, it must use 'had better' instead."
+    ],
+    "correctIndex": 1,
+    "explanation": "نعم، التركيب صحيح وسليم تماماً؛ لأن ought هي الأداة الوحيدة في السلم التي تحتاج وتحتفظ بـ to كجزء أصيل من بنيتها الكلية."
+  },
+  {
+    "question": "According to the corporate application scenarios, if you are giving a 'general advice for future career building', you use:",
+    "options": [
+      "Had better",
+      "Should / نصيحة مهنية عامة للمستقبل",
+      "Ought not to",
+      "Must to"
+    ],
+    "correctIndex": 1,
+    "explanation": "لتوجيه توصيات مهنية عامة لخطط مستقبلية دون ضغوط أو تهديد بعقوبات، الخيار القياسي هو الأداة should."
+  },
+  {
+    "question": "According to the workspace chart, if a teammate faces a 'strict threat or deadline boundary', the right tool to alarm him is:",
+    "options": [
+      "Should",
+      "Ought to",
+      "Had better / إنذار صارم مرتبط بموعد وعاقبة",
+      "May"
+    ],
+    "correctIndex": 2,
+    "explanation": "الإنذارات الصارمة المرتبطة بمواعيد نهائية وخسائر فورية للمؤسسة تقع تحت حوكمة النطاق الأحمر Had better."
+  },
+  {
+    "question": "What kind of عواقب (consequences) does the tool 'Should' carry?",
+    "options": [
+      "Immediate negative financial disasters.",
+      "Unspecified or mild personal consequences / عواقب عامة غير محددة أو كارثية.",
+      "Social expulsion and court trials.",
+      "0% absolute impossibility outcomes."
+    ],
+    "correctIndex": 1,
+    "explanation": "أداة النصح Should تحمل عواقب عامة وعادية وغير محددة بدقة (مثل إرهاق العين أو فوات فرصة تطوير)، وليست كوارث تقنية أو مالية فورية."
+  },
+  {
+    "question": "Complete the personal application advice: 'You look deeply exhausted; you _______ take a short break from the screen.'",
+    "options": [
+      "had better to",
+      "ought",
+      "should",
+      "better"
+    ],
+    "correctIndex": 2,
+    "explanation": "هذه نصيحة ودية لصحة وعافية الزميل دون وجود تهديد كارثي، فالأداة المناسبة هي should."
+  },
+  {
+    "question": "Which tool is strictly avoid or 'extremely rare' when formulating a direct question format?",
+    "options": [
+      "Should",
+      "Had better / نادر جداً في صيغة السؤال المباشر",
+      "Can",
+      "Will"
+    ],
+    "correctIndex": 1,
+    "explanation": "يظهر السلم التوضيحي أن الأداة Had better ركيكة ونادرة الاستخدام للغاية في تراكيب الأسئلة المباشرة، ويُفضل استخدام should بدلاً منها عند الاستفسار."
+  },
+  {
+    "question": "Complete the structural sentence asking for advice: '_______ we report these database metrics to the technical director?'",
+    "options": [
+      "Had we better",
+      "Should we",
+      "Ought we",
+      "Do we ought to"
+    ],
+    "correctIndex": 1,
+    "explanation": "عند صياغة سؤال استشاري لطلب النصيحة والرأي، الأداة المهنية المرنة والمستخدمة بكثرة هي should we."
+  },
+  {
+    "question": "What intensity level is assigned to the tool 'Ought to'?",
+    "options": [
+      "Medium intensity",
+      "Strong/High intensity / الشدة قوية ومستندة للواجب",
+      "Extreme critical risk",
+      "Zero-probability value"
+    ],
+    "correctIndex": 1,
+    "explanation": "يصنف السلم شدة Ought to بأنها شدة قوية ترتبط بأداء الواجب الأخلاقي والاجتماعي والتنظيمي المفروض أدبياً."
+  },
+  {
+    "question": "Identify the incorrect sentence from the following options:",
+    "options": [
+      "You should back up your files.",
+      "You ought to back up your files.",
+      "You had better back up your files.",
+      "You had better to back up your files."
+    ],
+    "correctIndex": 3,
+    "explanation": "الجملة الرابعة خاطئة تماماً لوجود حرف الجر to بعد التعبيرhad better، وهو ما يخالف قواعد التجرد للأداة."
+  },
+  {
+    "question": "To express an absolute obligation towards corporate ethics and honesty, you should write: 'Teammates _______ be honest with each other.'",
+    "options": [
+      "should to",
+      "ought to / واجب أخلاقي متبادل",
+      "had better to",
+      "better"
+    ],
+    "correctIndex": 1,
+    "explanation": "الصدق والأمانة بين أعضاء الفريق يقع في فئة الواجبات الأخلاقية والمجتمعية التي تعبر عنها الأداة ought to."
+  },
+  {
+    "question": "What happens if you use 'Had better' for a simple, casual friendly advice?",
+    "options": [
+      "It sounds perfectly fine.",
+      "It sounds unnecessarily aggressive, threatening, or bossy / يضفي نبرة تهديد وعدوانية مفرطة.",
+      "It violates past continuous rules.",
+      "It turns the main verb into an adjective."
+    ],
+    "correctIndex": 1,
+    "explanation": "استخدام Had better في نصائح بسيطة يفسد نبرة الكلام ويجعلها تبدو عدوانية أو مليئة بالتهديد والتعالي غير المبرر مهنياً."
+  },
+  {
+    "question": "Complete the urgent warning structure: 'We'd better lock the backup vaults now, _______ the automated system will overwrite them.'",
+    "options": [
+      "but",
+      "or / وإلا (رابط العاقبة)",
+      "and",
+      "so"
+    ],
+    "correctIndex": 1,
+    "explanation": "عند استخدام had better للتحذير، نستخدم الرابط (or) لإيضاح العاقبة الوخيمة (وإلا سيمسحها النظام المؤتمت)."
+  },
+  {
+    "question": "What is the primary instructional purpose of the Urgency Scale guide?",
+    "options": [
+      "To eliminate the use of regular verbs.",
+      "To teach the writer how to engineer advice with absolute control over intensity and tone / التحكم الدقيق في شدة ونبرة النصائح والتحذيرات.",
+      "To catalog passive voice structures.",
+      "To measure the speed of code delivery."
+    ],
+    "correctIndex": 1,
+    "explanation": "الهدف الأسمى للمخطط البصري للسلم هو تزويد الكاتب بالقدرة على صياغة التوصيات والتحذيرات مع التحكم الكامل في قوة وتأثير نبرته المكتوبة."
+  }
+]
