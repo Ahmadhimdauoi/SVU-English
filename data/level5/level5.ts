@@ -7,6 +7,9 @@ import gerundInfinitive2Json from "./المصدر والمسند (2).json";
 import comparisonSuperlativeJson from "./المقارنة والتفضيل.json";
 import passiveVoiceJson from "./مبني للمجهول.json";
 import tensesJson from "./الأزمنة.json";
+import mustHaveToJson from "./Must و Have to.json";
+import necessityIntensityJson from "./الضرورة والشدة.json";
+import advancedComparisonsJson from "./المقارنات المتقدمة.json";
 
 export const level5Tests: TestInfo[] = [
   {
@@ -33,6 +36,21 @@ export const level5Tests: TestInfo[] = [
     id: "passive_voice",
     title: "المبني للمجهول (Passive Voice)",
     questions: convertJSONQuestions(passiveVoiceJson, "Advanced"),
+  },
+  {
+    id: "must_have_to",
+    title: "Must و Have to",
+    questions: convertJSONQuestions(mustHaveToJson, "Advanced"),
+  },
+  {
+    id: "necessity_intensity",
+    title: "الضرورة والشدة (Necessity & Intensity)",
+    questions: convertJSONQuestions(necessityIntensityJson, "Advanced"),
+  },
+  {
+    id: "advanced_comparisons",
+    title: "المقارنات المتقدمة (Advanced Comparisons)",
+    questions: convertJSONQuestions(advancedComparisonsJson, "Advanced"),
   },
   {
     id: "tenses",
